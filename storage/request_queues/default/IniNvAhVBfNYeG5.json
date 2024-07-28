@@ -1,0 +1,9 @@
+{
+	"id": "IniNvAhVBfNYeG5",
+	"json": "{\"id\":\"IniNvAhVBfNYeG5\",\"url\":\"https://doc.rust-lang.org/1.80.0/core/slice/struct.ChunkBy.html\",\"uniqueKey\":\"https://doc.rust-lang.org/1.80.0/core/slice/struct.ChunkBy.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722143669012,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/1.80.0/core/slice/struct.ChunkBy.html",
+	"url": "https://doc.rust-lang.org/1.80.0/core/slice/struct.ChunkBy.html"
+}

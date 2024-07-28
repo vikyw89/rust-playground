@@ -1,0 +1,9 @@
+{
+	"id": "jO5JgvraMc0dk3W",
+	"json": "{\"id\":\"jO5JgvraMc0dk3W\",\"url\":\"https://doc.rust-lang.org/1.80.0/src/core/default.rs.html#184\",\"loadedUrl\":\"https://doc.rust-lang.org/1.80.0/src/core/default.rs.html#184\",\"uniqueKey\":\"https://doc.rust-lang.org/1.80.0/src/core/default.rs.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:20:47.380Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/1.80.0/src/core/default.rs.html",
+	"url": "https://doc.rust-lang.org/1.80.0/src/core/default.rs.html#184"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "iK4Vwiyl9KumAHK",
+	"json": "{\"id\":\"iK4Vwiyl9KumAHK\",\"url\":\"https://doc.rust-lang.org/stable/src/core/intrinsics.rs.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/src/core/intrinsics.rs.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722143496883,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/src/core/intrinsics.rs.html",
+	"url": "https://doc.rust-lang.org/stable/src/core/intrinsics.rs.html"
+}

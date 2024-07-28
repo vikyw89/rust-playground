@@ -1,0 +1,9 @@
+{
+	"id": "EDfwPjahhFT48n5",
+	"json": "{\"id\":\"EDfwPjahhFT48n5\",\"url\":\"https://doc.rust-lang.org/stable/rust-by-example/macros/designators.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/rust-by-example/macros/designators.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722144357819,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/rust-by-example/macros/designators.html",
+	"url": "https://doc.rust-lang.org/stable/rust-by-example/macros/designators.html"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "6Y9DmgAIgPcIgGo",
+	"json": "{\"id\":\"6Y9DmgAIgPcIgGo\",\"url\":\"https://doc.rust-lang.org/unstable-book/language-features/asm-experimental-arch.html\",\"uniqueKey\":\"https://doc.rust-lang.org/unstable-book/language-features/asm-experimental-arch.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722144037624,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/unstable-book/language-features/asm-experimental-arch.html",
+	"url": "https://doc.rust-lang.org/unstable-book/language-features/asm-experimental-arch.html"
+}

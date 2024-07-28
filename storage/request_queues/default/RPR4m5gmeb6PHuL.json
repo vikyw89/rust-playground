@@ -1,0 +1,9 @@
+{
+	"id": "RPR4m5gmeb6PHuL",
+	"json": "{\"id\":\"RPR4m5gmeb6PHuL\",\"url\":\"https://doc.rust-lang.org/stable/std/sync/atomic/fn.spin_loop_hint.html\",\"loadedUrl\":\"https://doc.rust-lang.org/stable/std/sync/atomic/fn.spin_loop_hint.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/std/sync/atomic/fn.spin_loop_hint.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:14:53.362Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/std/sync/atomic/fn.spin_loop_hint.html",
+	"url": "https://doc.rust-lang.org/stable/std/sync/atomic/fn.spin_loop_hint.html"
+}

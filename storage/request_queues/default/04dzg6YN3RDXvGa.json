@@ -1,0 +1,9 @@
+{
+	"id": "04dzg6YN3RDXvGa",
+	"json": "{\"id\":\"04dzg6YN3RDXvGa\",\"url\":\"https://doc.rust-lang.org/stable/std/ffi/struct.VaListImpl.html\",\"loadedUrl\":\"https://doc.rust-lang.org/stable/std/ffi/struct.VaListImpl.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/std/ffi/struct.VaListImpl.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:13:13.929Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/std/ffi/struct.VaListImpl.html",
+	"url": "https://doc.rust-lang.org/stable/std/ffi/struct.VaListImpl.html"
+}

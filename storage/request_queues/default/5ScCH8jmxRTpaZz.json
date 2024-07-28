@@ -1,0 +1,9 @@
+{
+	"id": "5ScCH8jmxRTpaZz",
+	"json": "{\"id\":\"5ScCH8jmxRTpaZz\",\"url\":\"https://doc.rust-lang.org/stable/nomicon/constructors.html\",\"loadedUrl\":\"https://doc.rust-lang.org/stable/nomicon/constructors.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/nomicon/constructors.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:14:07.714Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/nomicon/constructors.html",
+	"url": "https://doc.rust-lang.org/stable/nomicon/constructors.html"
+}

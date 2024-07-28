@@ -1,0 +1,9 @@
+{
+	"id": "hwkpWN2AwOPRNm4",
+	"json": "{\"id\":\"hwkpWN2AwOPRNm4\",\"url\":\"https://doc.rust-lang.org/stable/unstable-book/library-features/tcp-deferaccept.html\",\"loadedUrl\":\"https://doc.rust-lang.org/stable/unstable-book/library-features/tcp-deferaccept.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/unstable-book/library-features/tcp-deferaccept.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:19:47.369Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/unstable-book/library-features/tcp-deferaccept.html",
+	"url": "https://doc.rust-lang.org/stable/unstable-book/library-features/tcp-deferaccept.html"
+}

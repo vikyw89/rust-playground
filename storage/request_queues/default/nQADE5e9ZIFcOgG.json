@@ -1,0 +1,9 @@
+{
+	"id": "nQADE5e9ZIFcOgG",
+	"json": "{\"id\":\"nQADE5e9ZIFcOgG\",\"url\":\"https://doc.rust-lang.org/rust-by-example/error/multiple_error_types/define_error_type.html\",\"uniqueKey\":\"https://doc.rust-lang.org/rust-by-example/error/multiple_error_types/define_error_type.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722144351215,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/rust-by-example/error/multiple_error_types/define_error_type.html",
+	"url": "https://doc.rust-lang.org/rust-by-example/error/multiple_error_types/define_error_type.html"
+}

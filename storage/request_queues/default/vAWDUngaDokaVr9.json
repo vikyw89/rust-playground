@@ -1,0 +1,9 @@
+{
+	"id": "vAWDUngaDokaVr9",
+	"json": "{\"id\":\"vAWDUngaDokaVr9\",\"url\":\"https://doc.rust-lang.org/stable/unstable-book/language-features/trait-alias.html\",\"loadedUrl\":\"https://doc.rust-lang.org/stable/unstable-book/language-features/trait-alias.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/unstable-book/language-features/trait-alias.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:16:28.471Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/unstable-book/language-features/trait-alias.html",
+	"url": "https://doc.rust-lang.org/stable/unstable-book/language-features/trait-alias.html"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "7nejh379cC0TA3H",
+	"json": "{\"id\":\"7nejh379cC0TA3H\",\"url\":\"https://doc.rust-lang.org/stable/std/slice/struct.ArrayChunks.html\",\"loadedUrl\":\"https://doc.rust-lang.org/stable/std/slice/struct.ArrayChunks.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/std/slice/struct.ArrayChunks.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:14:25.084Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/std/slice/struct.ArrayChunks.html",
+	"url": "https://doc.rust-lang.org/stable/std/slice/struct.ArrayChunks.html"
+}

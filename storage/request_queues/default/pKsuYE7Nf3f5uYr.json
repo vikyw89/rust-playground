@@ -1,0 +1,9 @@
+{
+	"id": "pKsuYE7Nf3f5uYr",
+	"json": "{\"id\":\"pKsuYE7Nf3f5uYr\",\"url\":\"https://doc.rust-lang.org/stable/rustc/symbol-mangling/v0.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/rustc/symbol-mangling/v0.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722143682370,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/rustc/symbol-mangling/v0.html",
+	"url": "https://doc.rust-lang.org/stable/rustc/symbol-mangling/v0.html"
+}

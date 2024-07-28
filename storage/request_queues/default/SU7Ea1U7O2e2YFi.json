@@ -1,0 +1,9 @@
+{
+	"id": "SU7Ea1U7O2e2YFi",
+	"json": "{\"id\":\"SU7Ea1U7O2e2YFi\",\"url\":\"https://doc.rust-lang.org/stable/book/ch16-04-extensible-concurrency-sync-and-send.html\",\"loadedUrl\":\"https://doc.rust-lang.org/stable/book/ch16-04-extensible-concurrency-sync-and-send.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/book/ch16-04-extensible-concurrency-sync-and-send.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:08:30.969Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/book/ch16-04-extensible-concurrency-sync-and-send.html",
+	"url": "https://doc.rust-lang.org/stable/book/ch16-04-extensible-concurrency-sync-and-send.html"
+}

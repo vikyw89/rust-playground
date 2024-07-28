@@ -1,0 +1,9 @@
+{
+	"id": "X6wY6fFthwwDhtR",
+	"json": "{\"id\":\"X6wY6fFthwwDhtR\",\"url\":\"https://doc.rust-lang.org/rustc/platform-support/armv4t-none-eabi.html\",\"uniqueKey\":\"https://doc.rust-lang.org/rustc/platform-support/armv4t-none-eabi.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722143681563,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/rustc/platform-support/armv4t-none-eabi.html",
+	"url": "https://doc.rust-lang.org/rustc/platform-support/armv4t-none-eabi.html"
+}

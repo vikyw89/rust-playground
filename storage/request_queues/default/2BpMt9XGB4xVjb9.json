@@ -1,0 +1,9 @@
+{
+	"id": "2BpMt9XGB4xVjb9",
+	"json": "{\"id\":\"2BpMt9XGB4xVjb9\",\"url\":\"https://doc.rust-lang.org/stable/std/str/struct.CharIndices.html\",\"loadedUrl\":\"https://doc.rust-lang.org/stable/std/str/struct.CharIndices.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/std/str/struct.CharIndices.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:12:07.837Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/std/str/struct.CharIndices.html",
+	"url": "https://doc.rust-lang.org/stable/std/str/struct.CharIndices.html"
+}

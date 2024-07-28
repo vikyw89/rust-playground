@@ -1,0 +1,9 @@
+{
+	"id": "TBk0Dv1QtK5tJxs",
+	"json": "{\"id\":\"TBk0Dv1QtK5tJxs\",\"url\":\"https://doc.rust-lang.org/nightly/unstable-book/library-features/const-swap.html\",\"uniqueKey\":\"https://doc.rust-lang.org/nightly/unstable-book/library-features/const-swap.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722143686061,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/nightly/unstable-book/library-features/const-swap.html",
+	"url": "https://doc.rust-lang.org/nightly/unstable-book/library-features/const-swap.html"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "rmKIxfhoLIsg8WL",
+	"json": "{\"id\":\"rmKIxfhoLIsg8WL\",\"url\":\"https://doc.rust-lang.org/stable/alloc/vec/struct.Vec.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/alloc/vec/struct.Vec.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722143522466,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/alloc/vec/struct.Vec.html",
+	"url": "https://doc.rust-lang.org/stable/alloc/vec/struct.Vec.html"
+}

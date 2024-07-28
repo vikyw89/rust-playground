@@ -1,0 +1,9 @@
+{
+	"id": "GBph0LarmxpIeCw",
+	"json": "{\"id\":\"GBph0LarmxpIeCw\",\"url\":\"https://doc.rust-lang.org/stable/core/arch/x86/fn._mm_maskz_max_round_ss.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/core/arch/x86/fn._mm_maskz_max_round_ss.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722144170365,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/core/arch/x86/fn._mm_maskz_max_round_ss.html",
+	"url": "https://doc.rust-lang.org/stable/core/arch/x86/fn._mm_maskz_max_round_ss.html"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "OGGdSINHk53aYBW",
+	"json": "{\"id\":\"OGGdSINHk53aYBW\",\"url\":\"https://doc.rust-lang.org/rust-by-example/flow_control/loop.html\",\"uniqueKey\":\"https://doc.rust-lang.org/rust-by-example/flow_control/loop.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722144351154,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/rust-by-example/flow_control/loop.html",
+	"url": "https://doc.rust-lang.org/rust-by-example/flow_control/loop.html"
+}

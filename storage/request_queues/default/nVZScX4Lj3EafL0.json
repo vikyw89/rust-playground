@@ -1,0 +1,9 @@
+{
+	"id": "nVZScX4Lj3EafL0",
+	"json": "{\"id\":\"nVZScX4Lj3EafL0\",\"url\":\"https://doc.rust-lang.org/cargo/commands/cargo-yank.html\",\"loadedUrl\":\"https://doc.rust-lang.org/cargo/commands/cargo-yank.html\",\"uniqueKey\":\"https://doc.rust-lang.org/cargo/commands/cargo-yank.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:09:31.746Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/cargo/commands/cargo-yank.html",
+	"url": "https://doc.rust-lang.org/cargo/commands/cargo-yank.html"
+}

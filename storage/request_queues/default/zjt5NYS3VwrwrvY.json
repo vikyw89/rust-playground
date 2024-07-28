@@ -1,0 +1,9 @@
+{
+	"id": "zjt5NYS3VwrwrvY",
+	"json": "{\"id\":\"zjt5NYS3VwrwrvY\",\"url\":\"https://doc.rust-lang.org/stable/core/arch/x86_64/fn._mm_comi_round_sd.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/core/arch/x86_64/fn._mm_comi_round_sd.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722144169915,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/core/arch/x86_64/fn._mm_comi_round_sd.html",
+	"url": "https://doc.rust-lang.org/stable/core/arch/x86_64/fn._mm_comi_round_sd.html"
+}

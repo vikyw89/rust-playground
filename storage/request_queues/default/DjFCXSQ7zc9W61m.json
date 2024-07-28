@@ -1,0 +1,9 @@
+{
+	"id": "DjFCXSQ7zc9W61m",
+	"json": "{\"id\":\"DjFCXSQ7zc9W61m\",\"url\":\"https://doc.rust-lang.org/nightly/nightly-rustc/rustdoc_json_types/struct.Discriminant.html\",\"uniqueKey\":\"https://doc.rust-lang.org/nightly/nightly-rustc/rustdoc_json_types/struct.Discriminant.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722144045671,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/nightly/nightly-rustc/rustdoc_json_types/struct.Discriminant.html",
+	"url": "https://doc.rust-lang.org/nightly/nightly-rustc/rustdoc_json_types/struct.Discriminant.html"
+}

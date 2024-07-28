@@ -1,0 +1,9 @@
+{
+	"id": "23MUcNOeiqAMqCm",
+	"json": "{\"id\":\"23MUcNOeiqAMqCm\",\"url\":\"https://doc.rust-lang.org/stable/unstable-book/library-features/proc-macro-span.html\",\"loadedUrl\":\"https://doc.rust-lang.org/stable/unstable-book/library-features/proc-macro-span.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/unstable-book/library-features/proc-macro-span.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:19:10.109Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/unstable-book/library-features/proc-macro-span.html",
+	"url": "https://doc.rust-lang.org/stable/unstable-book/library-features/proc-macro-span.html"
+}

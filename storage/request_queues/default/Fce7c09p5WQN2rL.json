@@ -1,0 +1,9 @@
+{
+	"id": "Fce7c09p5WQN2rL",
+	"json": "{\"id\":\"Fce7c09p5WQN2rL\",\"url\":\"https://doc.rust-lang.org/nightly/unstable-book/library-features/ptr-as-uninit.html\",\"uniqueKey\":\"https://doc.rust-lang.org/nightly/unstable-book/library-features/ptr-as-uninit.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722143686106,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/nightly/unstable-book/library-features/ptr-as-uninit.html",
+	"url": "https://doc.rust-lang.org/nightly/unstable-book/library-features/ptr-as-uninit.html"
+}

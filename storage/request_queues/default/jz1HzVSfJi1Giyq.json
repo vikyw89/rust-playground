@@ -1,0 +1,9 @@
+{
+	"id": "jz1HzVSfJi1Giyq",
+	"json": "{\"id\":\"jz1HzVSfJi1Giyq\",\"url\":\"https://doc.rust-lang.org/stable/edition-guide/rust-2018/new-keywords.html\",\"loadedUrl\":\"https://doc.rust-lang.org/stable/edition-guide/rust-2018/new-keywords.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/edition-guide/rust-2018/new-keywords.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:20:30.715Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/edition-guide/rust-2018/new-keywords.html",
+	"url": "https://doc.rust-lang.org/stable/edition-guide/rust-2018/new-keywords.html"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "VBTQ3ksu8nIBT6x",
+	"json": "{\"id\":\"VBTQ3ksu8nIBT6x\",\"url\":\"https://doc.rust-lang.org/cargo/guide/cargo-toml-vs-cargo-lock.html\",\"loadedUrl\":\"https://doc.rust-lang.org/cargo/guide/cargo-toml-vs-cargo-lock.html\",\"uniqueKey\":\"https://doc.rust-lang.org/cargo/guide/cargo-toml-vs-cargo-lock.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:09:19.870Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/cargo/guide/cargo-toml-vs-cargo-lock.html",
+	"url": "https://doc.rust-lang.org/cargo/guide/cargo-toml-vs-cargo-lock.html"
+}

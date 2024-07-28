@@ -1,0 +1,9 @@
+{
+	"id": "enqa9hQlQxYLN1K",
+	"json": "{\"id\":\"enqa9hQlQxYLN1K\",\"url\":\"https://doc.rust-lang.org/book/ch12-03-improving-error-handling-and-modularity.html\",\"uniqueKey\":\"https://doc.rust-lang.org/book/ch12-03-improving-error-handling-and-modularity.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722143685963,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/book/ch12-03-improving-error-handling-and-modularity.html",
+	"url": "https://doc.rust-lang.org/book/ch12-03-improving-error-handling-and-modularity.html"
+}

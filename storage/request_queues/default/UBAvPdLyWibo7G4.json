@@ -1,0 +1,9 @@
+{
+	"id": "UBAvPdLyWibo7G4",
+	"json": "{\"id\":\"UBAvPdLyWibo7G4\",\"url\":\"https://doc.rust-lang.org/nomicon/other-reprs.html#reprpacked\",\"loadedUrl\":\"https://doc.rust-lang.org/nomicon/other-reprs.html#reprpacked\",\"uniqueKey\":\"https://doc.rust-lang.org/nomicon/other-reprs.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:24:09.447Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/nomicon/other-reprs.html",
+	"url": "https://doc.rust-lang.org/nomicon/other-reprs.html#reprpacked"
+}

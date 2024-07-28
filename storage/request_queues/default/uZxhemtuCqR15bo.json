@@ -1,0 +1,9 @@
+{
+	"id": "uZxhemtuCqR15bo",
+	"json": "{\"id\":\"uZxhemtuCqR15bo\",\"url\":\"https://doc.rust-lang.org/stable/unstable-book/library-features/slice-iter-mut-as-mut-slice.html\",\"loadedUrl\":\"https://doc.rust-lang.org/stable/unstable-book/library-features/slice-iter-mut-as-mut-slice.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/unstable-book/library-features/slice-iter-mut-as-mut-slice.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:19:29.785Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/unstable-book/library-features/slice-iter-mut-as-mut-slice.html",
+	"url": "https://doc.rust-lang.org/stable/unstable-book/library-features/slice-iter-mut-as-mut-slice.html"
+}

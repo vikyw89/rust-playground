@@ -1,0 +1,9 @@
+{
+	"id": "J7n1OOcy6zwU8Zw",
+	"json": "{\"id\":\"J7n1OOcy6zwU8Zw\",\"url\":\"https://doc.rust-lang.org/stable/core/arch/x86/fn._mm_mask3_fmsub_round_sd.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/core/arch/x86/fn._mm_mask3_fmsub_round_sd.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722144169949,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/core/arch/x86/fn._mm_mask3_fmsub_round_sd.html",
+	"url": "https://doc.rust-lang.org/stable/core/arch/x86/fn._mm_mask3_fmsub_round_sd.html"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "C0Gn0MMfEmT2Lp9",
+	"json": "{\"id\":\"C0Gn0MMfEmT2Lp9\",\"url\":\"https://doc.rust-lang.org/nightly/unstable-book/library-features/tcp-quickack.html\",\"uniqueKey\":\"https://doc.rust-lang.org/nightly/unstable-book/library-features/tcp-quickack.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722143686122,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/nightly/unstable-book/library-features/tcp-quickack.html",
+	"url": "https://doc.rust-lang.org/nightly/unstable-book/library-features/tcp-quickack.html"
+}

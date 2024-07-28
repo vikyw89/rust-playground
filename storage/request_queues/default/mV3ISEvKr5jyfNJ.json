@@ -1,0 +1,9 @@
+{
+	"id": "mV3ISEvKr5jyfNJ",
+	"json": "{\"id\":\"mV3ISEvKr5jyfNJ\",\"url\":\"https://doc.rust-lang.org/stable/std/thread/struct.Scope.html\",\"loadedUrl\":\"https://doc.rust-lang.org/stable/std/thread/struct.Scope.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/std/thread/struct.Scope.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:20:26.352Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/std/thread/struct.Scope.html",
+	"url": "https://doc.rust-lang.org/stable/std/thread/struct.Scope.html"
+}

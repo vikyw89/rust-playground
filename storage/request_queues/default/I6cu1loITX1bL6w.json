@@ -1,0 +1,9 @@
+{
+	"id": "I6cu1loITX1bL6w",
+	"json": "{\"id\":\"I6cu1loITX1bL6w\",\"url\":\"https://doc.rust-lang.org/reference/lifetime-elision.html\",\"uniqueKey\":\"https://doc.rust-lang.org/reference/lifetime-elision.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722143556344,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/reference/lifetime-elision.html",
+	"url": "https://doc.rust-lang.org/reference/lifetime-elision.html"
+}

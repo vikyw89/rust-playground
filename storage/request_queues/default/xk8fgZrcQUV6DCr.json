@@ -1,0 +1,9 @@
+{
+	"id": "xk8fgZrcQUV6DCr",
+	"json": "{\"id\":\"xk8fgZrcQUV6DCr\",\"url\":\"https://doc.rust-lang.org/stable/std/macro.assert.html\",\"loadedUrl\":\"https://doc.rust-lang.org/stable/std/macro.assert.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/std/macro.assert.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:11:10.782Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/std/macro.assert.html",
+	"url": "https://doc.rust-lang.org/stable/std/macro.assert.html"
+}

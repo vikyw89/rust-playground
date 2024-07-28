@@ -1,0 +1,9 @@
+{
+	"id": "sX9PIrDaVysx0Yb",
+	"json": "{\"id\":\"sX9PIrDaVysx0Yb\",\"url\":\"https://doc.rust-lang.org/stable/unstable-book/language-features/do-not-recommend.html\",\"loadedUrl\":\"https://doc.rust-lang.org/stable/unstable-book/language-features/do-not-recommend.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/unstable-book/language-features/do-not-recommend.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:15:39.028Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/unstable-book/language-features/do-not-recommend.html",
+	"url": "https://doc.rust-lang.org/stable/unstable-book/language-features/do-not-recommend.html"
+}

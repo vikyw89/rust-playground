@@ -1,0 +1,9 @@
+{
+	"id": "sfBz5CqSsZ73FOr",
+	"json": "{\"id\":\"sfBz5CqSsZ73FOr\",\"url\":\"https://doc.rust-lang.org/stable/std/os/windows/process/trait.CommandExt.html#tymethod.raw_arg\",\"loadedUrl\":\"https://doc.rust-lang.org/stable/std/os/windows/process/trait.CommandExt.html#tymethod.raw_arg\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/std/os/windows/process/trait.CommandExt.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:24:14.331Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/std/os/windows/process/trait.CommandExt.html",
+	"url": "https://doc.rust-lang.org/stable/std/os/windows/process/trait.CommandExt.html#tymethod.raw_arg"
+}

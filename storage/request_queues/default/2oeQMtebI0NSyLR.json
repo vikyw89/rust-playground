@@ -1,0 +1,9 @@
+{
+	"id": "2oeQMtebI0NSyLR",
+	"json": "{\"id\":\"2oeQMtebI0NSyLR\",\"url\":\"https://doc.rust-lang.org/stable/book/ch05-02-example-structs.html\",\"loadedUrl\":\"https://doc.rust-lang.org/stable/book/ch05-02-example-structs.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/book/ch05-02-example-structs.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:08:16.377Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/book/ch05-02-example-structs.html",
+	"url": "https://doc.rust-lang.org/stable/book/ch05-02-example-structs.html"
+}

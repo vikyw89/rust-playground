@@ -1,0 +1,9 @@
+{
+	"id": "N4aFU0DrhCE6VyV",
+	"json": "{\"id\":\"N4aFU0DrhCE6VyV\",\"url\":\"https://doc.rust-lang.org/stable/unstable-book/language-features/half-open-range-patterns-in-slices.html\",\"loadedUrl\":\"https://doc.rust-lang.org/stable/unstable-book/language-features/half-open-range-patterns-in-slices.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/unstable-book/language-features/half-open-range-patterns-in-slices.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:15:53.935Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/unstable-book/language-features/half-open-range-patterns-in-slices.html",
+	"url": "https://doc.rust-lang.org/stable/unstable-book/language-features/half-open-range-patterns-in-slices.html"
+}

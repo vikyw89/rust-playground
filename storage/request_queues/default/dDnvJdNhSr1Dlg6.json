@@ -1,0 +1,9 @@
+{
+	"id": "dDnvJdNhSr1Dlg6",
+	"json": "{\"id\":\"dDnvJdNhSr1Dlg6\",\"url\":\"https://doc.rust-lang.org/1.80.0/src/core/iter/adapters/scan.rs.html#29\",\"uniqueKey\":\"https://doc.rust-lang.org/1.80.0/src/core/iter/adapters/scan.rs.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722143502775,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/1.80.0/src/core/iter/adapters/scan.rs.html",
+	"url": "https://doc.rust-lang.org/1.80.0/src/core/iter/adapters/scan.rs.html#29"
+}

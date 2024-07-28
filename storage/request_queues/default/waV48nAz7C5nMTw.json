@@ -1,0 +1,9 @@
+{
+	"id": "waV48nAz7C5nMTw",
+	"json": "{\"id\":\"waV48nAz7C5nMTw\",\"url\":\"https://doc.rust-lang.org/nightly/unstable-book/compiler-flags/branch-protection.html\",\"uniqueKey\":\"https://doc.rust-lang.org/nightly/unstable-book/compiler-flags/branch-protection.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722143685819,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/nightly/unstable-book/compiler-flags/branch-protection.html",
+	"url": "https://doc.rust-lang.org/nightly/unstable-book/compiler-flags/branch-protection.html"
+}

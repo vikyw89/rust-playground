@@ -1,0 +1,9 @@
+{
+	"id": "krXJ4GhJlOYYF76",
+	"json": "{\"id\":\"krXJ4GhJlOYYF76\",\"url\":\"https://doc.rust-lang.org/stable/nomicon/vec/vec-dealloc.html\",\"loadedUrl\":\"https://doc.rust-lang.org/stable/nomicon/vec/vec-dealloc.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/nomicon/vec/vec-dealloc.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:14:10.892Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/nomicon/vec/vec-dealloc.html",
+	"url": "https://doc.rust-lang.org/stable/nomicon/vec/vec-dealloc.html"
+}

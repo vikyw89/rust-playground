@@ -1,0 +1,9 @@
+{
+	"id": "JYJJ4gK9I04Pt5E",
+	"json": "{\"id\":\"JYJJ4gK9I04Pt5E\",\"url\":\"https://doc.rust-lang.org/stable/src/std/sync/mutex.rs.html#662-670\",\"loadedUrl\":\"https://doc.rust-lang.org/stable/src/std/sync/mutex.rs.html#662-670\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/src/std/sync/mutex.rs.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:13:33.105Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/src/std/sync/mutex.rs.html",
+	"url": "https://doc.rust-lang.org/stable/src/std/sync/mutex.rs.html#662-670"
+}

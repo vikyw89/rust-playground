@@ -1,0 +1,9 @@
+{
+	"id": "ml9dLA7wH2R8FEo",
+	"json": "{\"id\":\"ml9dLA7wH2R8FEo\",\"url\":\"https://doc.rust-lang.org/stable/unstable-book/library-features/try-trait-v2-residual.html\",\"loadedUrl\":\"https://doc.rust-lang.org/stable/unstable-book/library-features/try-trait-v2-residual.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/unstable-book/library-features/try-trait-v2-residual.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:19:54.358Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/unstable-book/library-features/try-trait-v2-residual.html",
+	"url": "https://doc.rust-lang.org/stable/unstable-book/library-features/try-trait-v2-residual.html"
+}

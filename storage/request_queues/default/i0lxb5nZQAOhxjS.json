@@ -1,0 +1,9 @@
+{
+	"id": "i0lxb5nZQAOhxjS",
+	"json": "{\"id\":\"i0lxb5nZQAOhxjS\",\"url\":\"https://doc.rust-lang.org/nightly/unstable-book/language-features/asm-goto.html\",\"uniqueKey\":\"https://doc.rust-lang.org/nightly/unstable-book/language-features/asm-goto.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722143685969,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/nightly/unstable-book/language-features/asm-goto.html",
+	"url": "https://doc.rust-lang.org/nightly/unstable-book/language-features/asm-goto.html"
+}

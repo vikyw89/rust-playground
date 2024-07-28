@@ -1,0 +1,9 @@
+{
+	"id": "02dRvzBHpSZT0L0",
+	"json": "{\"id\":\"02dRvzBHpSZT0L0\",\"url\":\"https://doc.rust-lang.org/stable/std/f64/constant.NEG_INFINITY.html\",\"loadedUrl\":\"https://doc.rust-lang.org/stable/std/f64/constant.NEG_INFINITY.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/std/f64/constant.NEG_INFINITY.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:23:04.010Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/std/f64/constant.NEG_INFINITY.html",
+	"url": "https://doc.rust-lang.org/stable/std/f64/constant.NEG_INFINITY.html"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "2xntrqpUKE9DHNY",
+	"json": "{\"id\":\"2xntrqpUKE9DHNY\",\"url\":\"https://doc.rust-lang.org/unstable-book/library-features/trace-macros.html\",\"uniqueKey\":\"https://doc.rust-lang.org/unstable-book/library-features/trace-macros.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722144038039,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/unstable-book/library-features/trace-macros.html",
+	"url": "https://doc.rust-lang.org/unstable-book/library-features/trace-macros.html"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "vxQNFyZKNsF1tyf",
+	"json": "{\"id\":\"vxQNFyZKNsF1tyf\",\"url\":\"https://doc.rust-lang.org/1.80.0/std/vec/struct.Vec.html?search=Iterator%3CT%3E%2C+(T+-%3E+bool)+-%3E+bool&filter-crate=std\",\"uniqueKey\":\"https://doc.rust-lang.org/1.80.0/std/vec/struct.Vec.html?filter-crate=std&search=Iterator%3CT%3E%2C+%28T+-%3E+bool%29+-%3E+bool\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722144390068,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/1.80.0/std/vec/struct.Vec.html?filter-crate=std&search=Iterator%3CT%3E%2C+%28T+-%3E+bool%29+-%3E+bool",
+	"url": "https://doc.rust-lang.org/1.80.0/std/vec/struct.Vec.html?search=Iterator%3CT%3E%2C+(T+-%3E+bool)+-%3E+bool&filter-crate=std"
+}

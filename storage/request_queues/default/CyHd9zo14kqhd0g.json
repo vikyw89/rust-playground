@@ -1,0 +1,9 @@
+{
+	"id": "CyHd9zo14kqhd0g",
+	"json": "{\"id\":\"CyHd9zo14kqhd0g\",\"url\":\"https://doc.rust-lang.org/book/ch12-00-an-io-project.html\",\"uniqueKey\":\"https://doc.rust-lang.org/book/ch12-00-an-io-project.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722143685962,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/book/ch12-00-an-io-project.html",
+	"url": "https://doc.rust-lang.org/book/ch12-00-an-io-project.html"
+}

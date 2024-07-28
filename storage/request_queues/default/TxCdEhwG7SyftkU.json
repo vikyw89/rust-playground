@@ -1,0 +1,9 @@
+{
+	"id": "TxCdEhwG7SyftkU",
+	"json": "{\"id\":\"TxCdEhwG7SyftkU\",\"url\":\"https://doc.rust-lang.org/rustdoc/deprecated-features.html\",\"uniqueKey\":\"https://doc.rust-lang.org/rustdoc/deprecated-features.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722144035426,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/rustdoc/deprecated-features.html",
+	"url": "https://doc.rust-lang.org/rustdoc/deprecated-features.html"
+}

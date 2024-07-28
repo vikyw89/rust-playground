@@ -1,0 +1,9 @@
+{
+	"id": "u5MdHbu5inw0jy9",
+	"json": "{\"id\":\"u5MdHbu5inw0jy9\",\"url\":\"https://doc.rust-lang.org/stable/cargo/commands/cargo-fetch.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/cargo/commands/cargo-fetch.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722143682345,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/cargo/commands/cargo-fetch.html",
+	"url": "https://doc.rust-lang.org/stable/cargo/commands/cargo-fetch.html"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "I5yP2rY9vnWXn5u",
+	"json": "{\"id\":\"I5yP2rY9vnWXn5u\",\"url\":\"https://doc.rust-lang.org/stable/core/arch/aarch64/fn.vaddw_high_s16.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/core/arch/aarch64/fn.vaddw_high_s16.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722144164108,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/core/arch/aarch64/fn.vaddw_high_s16.html",
+	"url": "https://doc.rust-lang.org/stable/core/arch/aarch64/fn.vaddw_high_s16.html"
+}

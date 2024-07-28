@@ -1,0 +1,9 @@
+{
+	"id": "Uw5PwOfDFWg0d4U",
+	"json": "{\"id\":\"Uw5PwOfDFWg0d4U\",\"url\":\"https://doc.rust-lang.org/stable/core/arch/x86_64/fn._mm_lfence.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/core/arch/x86_64/fn._mm_lfence.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722144164607,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/core/arch/x86_64/fn._mm_lfence.html",
+	"url": "https://doc.rust-lang.org/stable/core/arch/x86_64/fn._mm_lfence.html"
+}

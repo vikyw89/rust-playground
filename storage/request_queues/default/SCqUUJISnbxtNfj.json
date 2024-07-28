@@ -1,0 +1,9 @@
+{
+	"id": "SCqUUJISnbxtNfj",
+	"json": "{\"id\":\"SCqUUJISnbxtNfj\",\"url\":\"https://doc.rust-lang.org/1.80.0/src/core/ptr/alignment.rs.html#197\",\"loadedUrl\":\"https://doc.rust-lang.org/1.80.0/src/core/ptr/alignment.rs.html#197\",\"uniqueKey\":\"https://doc.rust-lang.org/1.80.0/src/core/ptr/alignment.rs.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:21:59.839Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/1.80.0/src/core/ptr/alignment.rs.html",
+	"url": "https://doc.rust-lang.org/1.80.0/src/core/ptr/alignment.rs.html#197"
+}

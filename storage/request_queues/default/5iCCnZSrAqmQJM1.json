@@ -1,0 +1,9 @@
+{
+	"id": "5iCCnZSrAqmQJM1",
+	"json": "{\"id\":\"5iCCnZSrAqmQJM1\",\"url\":\"https://doc.rust-lang.org/nomicon/coercions.html\",\"uniqueKey\":\"https://doc.rust-lang.org/nomicon/coercions.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722144038481,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/nomicon/coercions.html",
+	"url": "https://doc.rust-lang.org/nomicon/coercions.html"
+}

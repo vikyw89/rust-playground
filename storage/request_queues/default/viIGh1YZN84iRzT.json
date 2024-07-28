@@ -1,0 +1,9 @@
+{
+	"id": "viIGh1YZN84iRzT",
+	"json": "{\"id\":\"viIGh1YZN84iRzT\",\"url\":\"https://doc.rust-lang.org/stable/core/arch/x86/fn._mm_sqrt_round_ss.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/core/arch/x86/fn._mm_sqrt_round_ss.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722144171634,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/core/arch/x86/fn._mm_sqrt_round_ss.html",
+	"url": "https://doc.rust-lang.org/stable/core/arch/x86/fn._mm_sqrt_round_ss.html"
+}

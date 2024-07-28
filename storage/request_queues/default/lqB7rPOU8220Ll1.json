@@ -1,0 +1,9 @@
+{
+	"id": "lqB7rPOU8220Ll1",
+	"json": "{\"id\":\"lqB7rPOU8220Ll1\",\"url\":\"https://doc.rust-lang.org/stable/unstable-book/library-features/core-pattern-types.html\",\"loadedUrl\":\"https://doc.rust-lang.org/stable/unstable-book/library-features/core-pattern-types.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/unstable-book/library-features/core-pattern-types.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:17:51.093Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/unstable-book/library-features/core-pattern-types.html",
+	"url": "https://doc.rust-lang.org/stable/unstable-book/library-features/core-pattern-types.html"
+}

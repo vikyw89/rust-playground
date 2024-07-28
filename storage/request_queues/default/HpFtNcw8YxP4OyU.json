@@ -1,0 +1,9 @@
+{
+	"id": "HpFtNcw8YxP4OyU",
+	"json": "{\"id\":\"HpFtNcw8YxP4OyU\",\"url\":\"https://doc.rust-lang.org/stable/core/arch/x86/fn.__cpuid.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/core/arch/x86/fn.__cpuid.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722144164159,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/core/arch/x86/fn.__cpuid.html",
+	"url": "https://doc.rust-lang.org/stable/core/arch/x86/fn.__cpuid.html"
+}

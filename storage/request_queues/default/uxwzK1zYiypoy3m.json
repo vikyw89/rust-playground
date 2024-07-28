@@ -1,0 +1,9 @@
+{
+	"id": "uxwzK1zYiypoy3m",
+	"json": "{\"id\":\"uxwzK1zYiypoy3m\",\"url\":\"https://doc.rust-lang.org/stable/std/sync/atomic/fn.fence.html\",\"loadedUrl\":\"https://doc.rust-lang.org/stable/std/sync/atomic/fn.fence.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/std/sync/atomic/fn.fence.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:14:53.356Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/std/sync/atomic/fn.fence.html",
+	"url": "https://doc.rust-lang.org/stable/std/sync/atomic/fn.fence.html"
+}

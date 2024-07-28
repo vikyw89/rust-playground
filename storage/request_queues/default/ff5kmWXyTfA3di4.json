@@ -1,0 +1,9 @@
+{
+	"id": "ff5kmWXyTfA3di4",
+	"json": "{\"id\":\"ff5kmWXyTfA3di4\",\"url\":\"https://doc.rust-lang.org/unstable-book/library-features/unix-socket-peek.html\",\"uniqueKey\":\"https://doc.rust-lang.org/unstable-book/library-features/unix-socket-peek.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722144038055,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/unstable-book/library-features/unix-socket-peek.html",
+	"url": "https://doc.rust-lang.org/unstable-book/library-features/unix-socket-peek.html"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "EvSCESUQdJbt1XS",
+	"json": "{\"id\":\"EvSCESUQdJbt1XS\",\"url\":\"https://doc.rust-lang.org/stable/reference/interior-mutability.html\",\"loadedUrl\":\"https://doc.rust-lang.org/stable/reference/interior-mutability.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/reference/interior-mutability.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:13:30.056Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/reference/interior-mutability.html",
+	"url": "https://doc.rust-lang.org/stable/reference/interior-mutability.html"
+}

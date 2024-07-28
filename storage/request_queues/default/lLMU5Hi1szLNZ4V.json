@@ -1,0 +1,9 @@
+{
+	"id": "lLMU5Hi1szLNZ4V",
+	"json": "{\"id\":\"lLMU5Hi1szLNZ4V\",\"url\":\"https://doc.rust-lang.org/rustc/lints/listing/allowed-by-default.html\",\"uniqueKey\":\"https://doc.rust-lang.org/rustc/lints/listing/allowed-by-default.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722143681546,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/rustc/lints/listing/allowed-by-default.html",
+	"url": "https://doc.rust-lang.org/rustc/lints/listing/allowed-by-default.html"
+}

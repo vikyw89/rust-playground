@@ -1,0 +1,9 @@
+{
+	"id": "L5dRIBrJO7bR6bF",
+	"json": "{\"id\":\"L5dRIBrJO7bR6bF\",\"url\":\"https://doc.rust-lang.org/stable/std/str/pattern/enum.SearchStep.html\",\"loadedUrl\":\"https://doc.rust-lang.org/stable/std/str/pattern/enum.SearchStep.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/std/str/pattern/enum.SearchStep.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:26:22.384Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/std/str/pattern/enum.SearchStep.html",
+	"url": "https://doc.rust-lang.org/stable/std/str/pattern/enum.SearchStep.html"
+}

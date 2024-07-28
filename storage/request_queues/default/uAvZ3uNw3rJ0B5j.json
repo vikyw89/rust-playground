@@ -1,0 +1,9 @@
+{
+	"id": "uAvZ3uNw3rJ0B5j",
+	"json": "{\"id\":\"uAvZ3uNw3rJ0B5j\",\"url\":\"https://doc.rust-lang.org/nightly/unstable-book/language-features/trait-alias.html\",\"uniqueKey\":\"https://doc.rust-lang.org/nightly/unstable-book/language-features/trait-alias.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722143686022,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/nightly/unstable-book/language-features/trait-alias.html",
+	"url": "https://doc.rust-lang.org/nightly/unstable-book/language-features/trait-alias.html"
+}

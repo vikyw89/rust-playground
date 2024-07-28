@@ -1,0 +1,9 @@
+{
+	"id": "2bFv85HIzli1px6",
+	"json": "{\"id\":\"2bFv85HIzli1px6\",\"url\":\"https://doc.rust-lang.org/stable/core/arch/x86_64/fn._mm_cmpeq_sd.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/core/arch/x86_64/fn._mm_cmpeq_sd.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722144164372,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/core/arch/x86_64/fn._mm_cmpeq_sd.html",
+	"url": "https://doc.rust-lang.org/stable/core/arch/x86_64/fn._mm_cmpeq_sd.html"
+}

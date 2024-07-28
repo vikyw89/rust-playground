@@ -1,0 +1,9 @@
+{
+	"id": "gve2Awede1AykOQ",
+	"json": "{\"id\":\"gve2Awede1AykOQ\",\"url\":\"https://doc.rust-lang.org/stable/std/intrinsics/fn.nontemporal_store.html\",\"loadedUrl\":\"https://doc.rust-lang.org/stable/std/intrinsics/fn.nontemporal_store.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/std/intrinsics/fn.nontemporal_store.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:23:40.110Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/std/intrinsics/fn.nontemporal_store.html",
+	"url": "https://doc.rust-lang.org/stable/std/intrinsics/fn.nontemporal_store.html"
+}

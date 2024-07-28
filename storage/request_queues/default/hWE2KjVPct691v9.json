@@ -1,0 +1,9 @@
+{
+	"id": "hWE2KjVPct691v9",
+	"json": "{\"id\":\"hWE2KjVPct691v9\",\"url\":\"https://doc.rust-lang.org/rustc/platform-support/esp-idf.html\",\"uniqueKey\":\"https://doc.rust-lang.org/rustc/platform-support/esp-idf.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722143681585,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/rustc/platform-support/esp-idf.html",
+	"url": "https://doc.rust-lang.org/rustc/platform-support/esp-idf.html"
+}

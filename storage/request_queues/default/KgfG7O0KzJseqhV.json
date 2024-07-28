@@ -1,0 +1,9 @@
+{
+	"id": "KgfG7O0KzJseqhV",
+	"json": "{\"id\":\"KgfG7O0KzJseqhV\",\"url\":\"https://doc.rust-lang.org/stable/book/ch05-00-structs.html\",\"loadedUrl\":\"https://doc.rust-lang.org/stable/book/ch05-00-structs.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/book/ch05-00-structs.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:08:15.860Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/book/ch05-00-structs.html",
+	"url": "https://doc.rust-lang.org/stable/book/ch05-00-structs.html"
+}

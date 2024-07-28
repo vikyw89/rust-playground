@@ -1,0 +1,9 @@
+{
+	"id": "eK27diRkekhebsk",
+	"json": "{\"id\":\"eK27diRkekhebsk\",\"url\":\"https://doc.rust-lang.org/1.49.0/reference/type-coercions.html\",\"uniqueKey\":\"https://doc.rust-lang.org/1.49.0/reference/type-coercions.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722143682345,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/1.49.0/reference/type-coercions.html",
+	"url": "https://doc.rust-lang.org/1.49.0/reference/type-coercions.html"
+}

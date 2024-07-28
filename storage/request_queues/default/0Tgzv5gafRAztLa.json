@@ -1,0 +1,9 @@
+{
+	"id": "0Tgzv5gafRAztLa",
+	"json": "{\"id\":\"0Tgzv5gafRAztLa\",\"url\":\"https://doc.rust-lang.org/rustc/platform-support/netbsd.html\",\"uniqueKey\":\"https://doc.rust-lang.org/rustc/platform-support/netbsd.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722143682227,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/rustc/platform-support/netbsd.html",
+	"url": "https://doc.rust-lang.org/rustc/platform-support/netbsd.html"
+}

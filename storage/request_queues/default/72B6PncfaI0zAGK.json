@@ -1,0 +1,9 @@
+{
+	"id": "72B6PncfaI0zAGK",
+	"json": "{\"id\":\"72B6PncfaI0zAGK\",\"url\":\"https://doc.rust-lang.org/stable/core/arch/x86_64/fn._mm_cvtsd_si64x.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/core/arch/x86_64/fn._mm_cvtsd_si64x.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722144164562,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/core/arch/x86_64/fn._mm_cvtsd_si64x.html",
+	"url": "https://doc.rust-lang.org/stable/core/arch/x86_64/fn._mm_cvtsd_si64x.html"
+}

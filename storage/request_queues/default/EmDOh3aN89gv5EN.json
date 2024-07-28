@@ -1,0 +1,9 @@
+{
+	"id": "EmDOh3aN89gv5EN",
+	"json": "{\"id\":\"EmDOh3aN89gv5EN\",\"url\":\"https://doc.rust-lang.org/stable/src/test/term/terminfo/mod.rs.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/src/test/term/terminfo/mod.rs.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722143496934,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/src/test/term/terminfo/mod.rs.html",
+	"url": "https://doc.rust-lang.org/stable/src/test/term/terminfo/mod.rs.html"
+}

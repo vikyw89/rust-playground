@@ -1,0 +1,9 @@
+{
+	"id": "foGSFgUjyKSMuzu",
+	"json": "{\"id\":\"foGSFgUjyKSMuzu\",\"url\":\"https://doc.rust-lang.org/nightly/unstable-book/language-features/global-registration.html\",\"uniqueKey\":\"https://doc.rust-lang.org/nightly/unstable-book/language-features/global-registration.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722143685997,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/nightly/unstable-book/language-features/global-registration.html",
+	"url": "https://doc.rust-lang.org/nightly/unstable-book/language-features/global-registration.html"
+}

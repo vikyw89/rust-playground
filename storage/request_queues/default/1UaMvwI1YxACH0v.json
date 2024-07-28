@@ -1,0 +1,9 @@
+{
+	"id": "1UaMvwI1YxACH0v",
+	"json": "{\"id\":\"1UaMvwI1YxACH0v\",\"url\":\"https://doc.rust-lang.org/stable/std/intrinsics/fn.atomic_umin_acqrel.html\",\"loadedUrl\":\"https://doc.rust-lang.org/stable/std/intrinsics/fn.atomic_umin_acqrel.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/std/intrinsics/fn.atomic_umin_acqrel.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:23:30.408Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/std/intrinsics/fn.atomic_umin_acqrel.html",
+	"url": "https://doc.rust-lang.org/stable/std/intrinsics/fn.atomic_umin_acqrel.html"
+}

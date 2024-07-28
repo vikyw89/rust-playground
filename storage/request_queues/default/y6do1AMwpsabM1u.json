@@ -1,0 +1,9 @@
+{
+	"id": "y6do1AMwpsabM1u",
+	"json": "{\"id\":\"y6do1AMwpsabM1u\",\"url\":\"https://doc.rust-lang.org/1.80.0/core/arch/macro.global_asm.html\",\"uniqueKey\":\"https://doc.rust-lang.org/1.80.0/core/arch/macro.global_asm.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722144166107,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/1.80.0/core/arch/macro.global_asm.html",
+	"url": "https://doc.rust-lang.org/1.80.0/core/arch/macro.global_asm.html"
+}

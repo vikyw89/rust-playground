@@ -1,0 +1,9 @@
+{
+	"id": "8FV1A5vnzgLtoof",
+	"json": "{\"id\":\"8FV1A5vnzgLtoof\",\"url\":\"https://doc.rust-lang.org/stable/core/arch/wasm64/index.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/core/arch/wasm64/index.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722144120342,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/core/arch/wasm64/index.html",
+	"url": "https://doc.rust-lang.org/stable/core/arch/wasm64/index.html"
+}

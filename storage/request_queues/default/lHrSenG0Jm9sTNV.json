@@ -1,0 +1,9 @@
+{
+	"id": "lHrSenG0Jm9sTNV",
+	"json": "{\"id\":\"lHrSenG0Jm9sTNV\",\"url\":\"https://doc.rust-lang.org/unstable-book/library-features/linked-list-retain.html\",\"uniqueKey\":\"https://doc.rust-lang.org/unstable-book/library-features/linked-list-retain.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722144037771,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/unstable-book/library-features/linked-list-retain.html",
+	"url": "https://doc.rust-lang.org/unstable-book/library-features/linked-list-retain.html"
+}

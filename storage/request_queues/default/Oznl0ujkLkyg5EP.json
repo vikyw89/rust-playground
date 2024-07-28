@@ -1,0 +1,9 @@
+{
+	"id": "Oznl0ujkLkyg5EP",
+	"json": "{\"id\":\"Oznl0ujkLkyg5EP\",\"url\":\"https://doc.rust-lang.org/stable/std/os/windows/raw/type.HANDLE.html\",\"loadedUrl\":\"https://doc.rust-lang.org/stable/std/os/windows/raw/type.HANDLE.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/std/os/windows/raw/type.HANDLE.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:26:55.505Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/std/os/windows/raw/type.HANDLE.html",
+	"url": "https://doc.rust-lang.org/stable/std/os/windows/raw/type.HANDLE.html"
+}

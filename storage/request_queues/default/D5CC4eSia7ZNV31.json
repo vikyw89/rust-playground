@@ -1,0 +1,9 @@
+{
+	"id": "D5CC4eSia7ZNV31",
+	"json": "{\"id\":\"D5CC4eSia7ZNV31\",\"url\":\"https://doc.rust-lang.org/1.80.0/core/clone/index.html\",\"uniqueKey\":\"https://doc.rust-lang.org/1.80.0/core/clone/index.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722143587466,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/1.80.0/core/clone/index.html",
+	"url": "https://doc.rust-lang.org/1.80.0/core/clone/index.html"
+}

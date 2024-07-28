@@ -1,0 +1,9 @@
+{
+	"id": "VEuRdxlhU647XWl",
+	"json": "{\"id\":\"VEuRdxlhU647XWl\",\"url\":\"https://doc.rust-lang.org/stable/rust-by-example/scope/lifetime/methods.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/rust-by-example/scope/lifetime/methods.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722144357814,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/rust-by-example/scope/lifetime/methods.html",
+	"url": "https://doc.rust-lang.org/stable/rust-by-example/scope/lifetime/methods.html"
+}

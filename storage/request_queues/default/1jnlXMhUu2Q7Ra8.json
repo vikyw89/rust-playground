@@ -1,0 +1,9 @@
+{
+	"id": "1jnlXMhUu2Q7Ra8",
+	"json": "{\"id\":\"1jnlXMhUu2Q7Ra8\",\"url\":\"https://doc.rust-lang.org/stable/cargo/guide/continuous-integration.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/cargo/guide/continuous-integration.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722143682312,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/cargo/guide/continuous-integration.html",
+	"url": "https://doc.rust-lang.org/stable/cargo/guide/continuous-integration.html"
+}

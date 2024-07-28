@@ -1,0 +1,9 @@
+{
+	"id": "IfOIxeI2dxWudTg",
+	"json": "{\"id\":\"IfOIxeI2dxWudTg\",\"url\":\"https://doc.rust-lang.org/stable/core/arch/x86_64/fn._mm_cvti32_sd.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/core/arch/x86_64/fn._mm_cvti32_sd.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722144169927,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/core/arch/x86_64/fn._mm_cvti32_sd.html",
+	"url": "https://doc.rust-lang.org/stable/core/arch/x86_64/fn._mm_cvti32_sd.html"
+}

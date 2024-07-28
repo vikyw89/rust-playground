@@ -1,0 +1,9 @@
+{
+	"id": "xAY5TWz30NtWNg2",
+	"json": "{\"id\":\"xAY5TWz30NtWNg2\",\"url\":\"https://doc.rust-lang.org/std/future/trait.Future.html\",\"uniqueKey\":\"https://doc.rust-lang.org/std/future/trait.Future.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722144036661,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/std/future/trait.Future.html",
+	"url": "https://doc.rust-lang.org/std/future/trait.Future.html"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "JEpclsr6tnTJ1rW",
+	"json": "{\"id\":\"JEpclsr6tnTJ1rW\",\"url\":\"https://doc.rust-lang.org/stable/std/collections/btree_set/struct.Intersection.html\",\"loadedUrl\":\"https://doc.rust-lang.org/stable/std/collections/btree_set/struct.Intersection.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/std/collections/btree_set/struct.Intersection.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:26:05.530Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/std/collections/btree_set/struct.Intersection.html",
+	"url": "https://doc.rust-lang.org/stable/std/collections/btree_set/struct.Intersection.html"
+}

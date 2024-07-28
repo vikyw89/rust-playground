@@ -1,0 +1,9 @@
+{
+	"id": "HDjnqOh8VUHrDQA",
+	"json": "{\"id\":\"HDjnqOh8VUHrDQA\",\"url\":\"https://doc.rust-lang.org/stable/cargo/commands/cargo-install.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/cargo/commands/cargo-install.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722143682354,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/cargo/commands/cargo-install.html",
+	"url": "https://doc.rust-lang.org/stable/cargo/commands/cargo-install.html"
+}

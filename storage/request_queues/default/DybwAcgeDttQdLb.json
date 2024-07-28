@@ -1,0 +1,9 @@
+{
+	"id": "DybwAcgeDttQdLb",
+	"json": "{\"id\":\"DybwAcgeDttQdLb\",\"url\":\"https://doc.rust-lang.org/stable/rustc/platform-support/arm64e-apple-darwin.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/rustc/platform-support/arm64e-apple-darwin.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722143682313,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/rustc/platform-support/arm64e-apple-darwin.html",
+	"url": "https://doc.rust-lang.org/stable/rustc/platform-support/arm64e-apple-darwin.html"
+}

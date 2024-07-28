@@ -1,0 +1,9 @@
+{
+	"id": "DZkoff3zoFqHjxQ",
+	"json": "{\"id\":\"DZkoff3zoFqHjxQ\",\"url\":\"https://doc.rust-lang.org/std/boxed/struct.Box.html\",\"uniqueKey\":\"https://doc.rust-lang.org/std/boxed/struct.Box.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722143649552,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/std/boxed/struct.Box.html",
+	"url": "https://doc.rust-lang.org/std/boxed/struct.Box.html"
+}

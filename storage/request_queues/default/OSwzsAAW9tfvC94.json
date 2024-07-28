@@ -1,0 +1,9 @@
+{
+	"id": "OSwzsAAW9tfvC94",
+	"json": "{\"id\":\"OSwzsAAW9tfvC94\",\"url\":\"https://doc.rust-lang.org/rustc/platform-support/aarch64-nintendo-switch-freestanding.html\",\"uniqueKey\":\"https://doc.rust-lang.org/rustc/platform-support/aarch64-nintendo-switch-freestanding.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722143681558,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/rustc/platform-support/aarch64-nintendo-switch-freestanding.html",
+	"url": "https://doc.rust-lang.org/rustc/platform-support/aarch64-nintendo-switch-freestanding.html"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "vR8UJDlYHXm1y4Q",
+	"json": "{\"id\":\"vR8UJDlYHXm1y4Q\",\"url\":\"https://doc.rust-lang.org/1.80.0/src/core/iter/adapters/peekable.rs.html#12\",\"uniqueKey\":\"https://doc.rust-lang.org/1.80.0/src/core/iter/adapters/peekable.rs.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722143502769,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/1.80.0/src/core/iter/adapters/peekable.rs.html",
+	"url": "https://doc.rust-lang.org/1.80.0/src/core/iter/adapters/peekable.rs.html#12"
+}

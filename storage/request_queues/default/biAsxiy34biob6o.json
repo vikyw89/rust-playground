@@ -1,0 +1,9 @@
+{
+	"id": "biAsxiy34biob6o",
+	"json": "{\"id\":\"biAsxiy34biob6o\",\"url\":\"https://doc.rust-lang.org/stable/std/slice/struct.SplitInclusiveMut.html\",\"loadedUrl\":\"https://doc.rust-lang.org/stable/std/slice/struct.SplitInclusiveMut.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/std/slice/struct.SplitInclusiveMut.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:14:28.217Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/std/slice/struct.SplitInclusiveMut.html",
+	"url": "https://doc.rust-lang.org/stable/std/slice/struct.SplitInclusiveMut.html"
+}

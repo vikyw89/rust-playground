@@ -1,0 +1,9 @@
+{
+	"id": "4M8fndft071H2Ml",
+	"json": "{\"id\":\"4M8fndft071H2Ml\",\"url\":\"https://doc.rust-lang.org/nightly/unstable-book/language-features/staged-api.html\",\"uniqueKey\":\"https://doc.rust-lang.org/nightly/unstable-book/language-features/staged-api.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722143686019,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/nightly/unstable-book/language-features/staged-api.html",
+	"url": "https://doc.rust-lang.org/nightly/unstable-book/language-features/staged-api.html"
+}

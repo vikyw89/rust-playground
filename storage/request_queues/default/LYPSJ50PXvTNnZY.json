@@ -1,0 +1,9 @@
+{
+	"id": "LYPSJ50PXvTNnZY",
+	"json": "{\"id\":\"LYPSJ50PXvTNnZY\",\"url\":\"https://doc.rust-lang.org/unstable-book/language-features/fundamental.html\",\"uniqueKey\":\"https://doc.rust-lang.org/unstable-book/language-features/fundamental.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722144037650,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/unstable-book/language-features/fundamental.html",
+	"url": "https://doc.rust-lang.org/unstable-book/language-features/fundamental.html"
+}

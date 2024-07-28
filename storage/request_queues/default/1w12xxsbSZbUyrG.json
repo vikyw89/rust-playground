@@ -1,0 +1,9 @@
+{
+	"id": "1w12xxsbSZbUyrG",
+	"json": "{\"id\":\"1w12xxsbSZbUyrG\",\"url\":\"https://doc.rust-lang.org/stable/std/sync/struct.MappedMutexGuard.html\",\"loadedUrl\":\"https://doc.rust-lang.org/stable/std/sync/struct.MappedMutexGuard.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/std/sync/struct.MappedMutexGuard.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:13:33.033Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/std/sync/struct.MappedMutexGuard.html",
+	"url": "https://doc.rust-lang.org/stable/std/sync/struct.MappedMutexGuard.html"
+}

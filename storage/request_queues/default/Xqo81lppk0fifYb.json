@@ -1,0 +1,9 @@
+{
+	"id": "Xqo81lppk0fifYb",
+	"json": "{\"id\":\"Xqo81lppk0fifYb\",\"url\":\"https://doc.rust-lang.org/stable/unstable-book/library-features/fd-read.html\",\"loadedUrl\":\"https://doc.rust-lang.org/stable/unstable-book/library-features/fd-read.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/unstable-book/library-features/fd-read.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:18:09.689Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/unstable-book/library-features/fd-read.html",
+	"url": "https://doc.rust-lang.org/stable/unstable-book/library-features/fd-read.html"
+}

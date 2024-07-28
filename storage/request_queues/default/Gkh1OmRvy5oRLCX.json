@@ -1,0 +1,9 @@
+{
+	"id": "Gkh1OmRvy5oRLCX",
+	"json": "{\"id\":\"Gkh1OmRvy5oRLCX\",\"url\":\"https://doc.rust-lang.org/stable/core/arch/arm/fn.vsriq_n_p16.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/core/arch/arm/fn.vsriq_n_p16.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722144166626,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/core/arch/arm/fn.vsriq_n_p16.html",
+	"url": "https://doc.rust-lang.org/stable/core/arch/arm/fn.vsriq_n_p16.html"
+}

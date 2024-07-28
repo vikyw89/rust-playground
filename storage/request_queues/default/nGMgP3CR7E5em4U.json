@@ -1,0 +1,9 @@
+{
+	"id": "nGMgP3CR7E5em4U",
+	"json": "{\"id\":\"nGMgP3CR7E5em4U\",\"url\":\"https://doc.rust-lang.org/1.80.0/src/alloc/collections/btree/map.rs.html#1662\",\"loadedUrl\":\"https://doc.rust-lang.org/1.80.0/src/alloc/collections/btree/map.rs.html#1662\",\"uniqueKey\":\"https://doc.rust-lang.org/1.80.0/src/alloc/collections/btree/map.rs.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:13:18.127Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/1.80.0/src/alloc/collections/btree/map.rs.html",
+	"url": "https://doc.rust-lang.org/1.80.0/src/alloc/collections/btree/map.rs.html#1662"
+}

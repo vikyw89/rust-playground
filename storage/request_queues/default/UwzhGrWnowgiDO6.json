@@ -1,0 +1,9 @@
+{
+	"id": "UwzhGrWnowgiDO6",
+	"json": "{\"id\":\"UwzhGrWnowgiDO6\",\"url\":\"https://doc.rust-lang.org/stable/core/arch/x86/constant._MM_PERM_CCDA.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/core/arch/x86/constant._MM_PERM_CCDA.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722144164117,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/core/arch/x86/constant._MM_PERM_CCDA.html",
+	"url": "https://doc.rust-lang.org/stable/core/arch/x86/constant._MM_PERM_CCDA.html"
+}

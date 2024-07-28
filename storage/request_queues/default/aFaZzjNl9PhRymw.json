@@ -1,0 +1,9 @@
+{
+	"id": "aFaZzjNl9PhRymw",
+	"json": "{\"id\":\"aFaZzjNl9PhRymw\",\"url\":\"https://doc.rust-lang.org/stable/unstable-book/library-features/slice-internals.html\",\"loadedUrl\":\"https://doc.rust-lang.org/stable/unstable-book/library-features/slice-internals.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/unstable-book/library-features/slice-internals.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:19:29.814Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/unstable-book/library-features/slice-internals.html",
+	"url": "https://doc.rust-lang.org/stable/unstable-book/library-features/slice-internals.html"
+}

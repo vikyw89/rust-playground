@@ -1,0 +1,9 @@
+{
+	"id": "2nxfKG2FyIEzonH",
+	"json": "{\"id\":\"2nxfKG2FyIEzonH\",\"url\":\"https://doc.rust-lang.org/src/std/net/socket_addr.rs.html#293-299\",\"uniqueKey\":\"https://doc.rust-lang.org/src/std/net/socket_addr.rs.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722144397283,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/src/std/net/socket_addr.rs.html",
+	"url": "https://doc.rust-lang.org/src/std/net/socket_addr.rs.html#293-299"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "aWO01AhcAEe2cGt",
+	"json": "{\"id\":\"aWO01AhcAEe2cGt\",\"url\":\"https://doc.rust-lang.org/std/slice/struct.ArrayWindows.html\",\"uniqueKey\":\"https://doc.rust-lang.org/std/slice/struct.ArrayWindows.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722144392766,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/std/slice/struct.ArrayWindows.html",
+	"url": "https://doc.rust-lang.org/std/slice/struct.ArrayWindows.html"
+}

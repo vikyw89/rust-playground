@@ -1,0 +1,9 @@
+{
+	"id": "1g0KHyQeIxMTY6s",
+	"json": "{\"id\":\"1g0KHyQeIxMTY6s\",\"url\":\"https://doc.rust-lang.org/nightly/nightly-rustc/rustc_interface/index.html\",\"uniqueKey\":\"https://doc.rust-lang.org/nightly/nightly-rustc/rustc_interface/index.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722144045617,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/nightly/nightly-rustc/rustc_interface/index.html",
+	"url": "https://doc.rust-lang.org/nightly/nightly-rustc/rustc_interface/index.html"
+}

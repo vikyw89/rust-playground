@@ -1,0 +1,9 @@
+{
+	"id": "TEXRj4cNiStMokB",
+	"json": "{\"id\":\"TEXRj4cNiStMokB\",\"url\":\"https://doc.rust-lang.org/stable/std/f32/consts/constant.TAU.html\",\"loadedUrl\":\"https://doc.rust-lang.org/stable/std/f32/consts/constant.TAU.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/std/f32/consts/constant.TAU.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:28:22.661Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/std/f32/consts/constant.TAU.html",
+	"url": "https://doc.rust-lang.org/stable/std/f32/consts/constant.TAU.html"
+}

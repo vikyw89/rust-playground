@@ -1,0 +1,9 @@
+{
+	"id": "CT3wLYH1lYKr9XK",
+	"json": "{\"id\":\"CT3wLYH1lYKr9XK\",\"url\":\"https://doc.rust-lang.org/nightly/cargo/reference/unstable.html#script\",\"loadedUrl\":\"https://doc.rust-lang.org/nightly/cargo/reference/unstable.html#script\",\"uniqueKey\":\"https://doc.rust-lang.org/nightly/cargo/reference/unstable.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:20:45.656Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/nightly/cargo/reference/unstable.html",
+	"url": "https://doc.rust-lang.org/nightly/cargo/reference/unstable.html#script"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "QGMZ5L1FBcP8TlH",
+	"json": "{\"id\":\"QGMZ5L1FBcP8TlH\",\"url\":\"https://doc.rust-lang.org/stable/std/env/struct.VarsOs.html\",\"loadedUrl\":\"https://doc.rust-lang.org/stable/std/env/struct.VarsOs.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/std/env/struct.VarsOs.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:22:56.773Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/std/env/struct.VarsOs.html",
+	"url": "https://doc.rust-lang.org/stable/std/env/struct.VarsOs.html"
+}

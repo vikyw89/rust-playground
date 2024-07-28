@@ -1,0 +1,9 @@
+{
+	"id": "V2UHg2dz818V2Pu",
+	"json": "{\"id\":\"V2UHg2dz818V2Pu\",\"url\":\"https://doc.rust-lang.org/stable/std/i16/constant.MIN.html\",\"loadedUrl\":\"https://doc.rust-lang.org/stable/std/i16/constant.MIN.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/std/i16/constant.MIN.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:23:18.633Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/std/i16/constant.MIN.html",
+	"url": "https://doc.rust-lang.org/stable/std/i16/constant.MIN.html"
+}

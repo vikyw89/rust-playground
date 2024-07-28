@@ -1,0 +1,9 @@
+{
+	"id": "ZYZpz8rGhm5mqmE",
+	"json": "{\"id\":\"ZYZpz8rGhm5mqmE\",\"url\":\"https://doc.rust-lang.org/1.80.0/core/ptr/fn.null_mut.html\",\"uniqueKey\":\"https://doc.rust-lang.org/1.80.0/core/ptr/fn.null_mut.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722144095976,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/1.80.0/core/ptr/fn.null_mut.html",
+	"url": "https://doc.rust-lang.org/1.80.0/core/ptr/fn.null_mut.html"
+}

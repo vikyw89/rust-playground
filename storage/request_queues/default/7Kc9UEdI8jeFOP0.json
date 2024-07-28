@@ -1,0 +1,9 @@
+{
+	"id": "7Kc9UEdI8jeFOP0",
+	"json": "{\"id\":\"7Kc9UEdI8jeFOP0\",\"url\":\"https://doc.rust-lang.org/stable/std/thread/fn.spawn.html\",\"loadedUrl\":\"https://doc.rust-lang.org/stable/std/thread/fn.spawn.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/std/thread/fn.spawn.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:20:27.389Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/std/thread/fn.spawn.html",
+	"url": "https://doc.rust-lang.org/stable/std/thread/fn.spawn.html"
+}

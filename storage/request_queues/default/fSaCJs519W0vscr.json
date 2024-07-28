@@ -1,0 +1,9 @@
+{
+	"id": "fSaCJs519W0vscr",
+	"json": "{\"id\":\"fSaCJs519W0vscr\",\"url\":\"https://doc.rust-lang.org/1.80.0/src/core/future/pending.rs.html#47\",\"uniqueKey\":\"https://doc.rust-lang.org/1.80.0/src/core/future/pending.rs.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722143503802,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/1.80.0/src/core/future/pending.rs.html",
+	"url": "https://doc.rust-lang.org/1.80.0/src/core/future/pending.rs.html#47"
+}

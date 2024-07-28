@@ -1,0 +1,9 @@
+{
+	"id": "i7HQA1AlYlKTDjX",
+	"json": "{\"id\":\"i7HQA1AlYlKTDjX\",\"url\":\"https://doc.rust-lang.org/stable/core/arch/powerpc/fn.vec_splats.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/core/arch/powerpc/fn.vec_splats.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722144164030,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/core/arch/powerpc/fn.vec_splats.html",
+	"url": "https://doc.rust-lang.org/stable/core/arch/powerpc/fn.vec_splats.html"
+}

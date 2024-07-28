@@ -1,0 +1,9 @@
+{
+	"id": "0c0iBdTLhbKVd0C",
+	"json": "{\"id\":\"0c0iBdTLhbKVd0C\",\"url\":\"https://doc.rust-lang.org/stable/std/collections/binary_heap/struct.IntoIterSorted.html\",\"loadedUrl\":\"https://doc.rust-lang.org/stable/std/collections/binary_heap/struct.IntoIterSorted.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/std/collections/binary_heap/struct.IntoIterSorted.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:25:57.744Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/std/collections/binary_heap/struct.IntoIterSorted.html",
+	"url": "https://doc.rust-lang.org/stable/std/collections/binary_heap/struct.IntoIterSorted.html"
+}

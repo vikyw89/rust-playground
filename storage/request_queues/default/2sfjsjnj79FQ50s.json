@@ -1,0 +1,9 @@
+{
+	"id": "2sfjsjnj79FQ50s",
+	"json": "{\"id\":\"2sfjsjnj79FQ50s\",\"url\":\"https://doc.rust-lang.org/stable/std/os/windows/fs/trait.FileTypeExt.html\",\"loadedUrl\":\"https://doc.rust-lang.org/stable/std/os/windows/fs/trait.FileTypeExt.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/std/os/windows/fs/trait.FileTypeExt.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:26:27.930Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/std/os/windows/fs/trait.FileTypeExt.html",
+	"url": "https://doc.rust-lang.org/stable/std/os/windows/fs/trait.FileTypeExt.html"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "aohiX7bbtf663t2",
+	"json": "{\"id\":\"aohiX7bbtf663t2\",\"url\":\"https://doc.rust-lang.org/stable/core/arch/x86/struct.__m128i.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/core/arch/x86/struct.__m128i.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722144163663,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/core/arch/x86/struct.__m128i.html",
+	"url": "https://doc.rust-lang.org/stable/core/arch/x86/struct.__m128i.html"
+}

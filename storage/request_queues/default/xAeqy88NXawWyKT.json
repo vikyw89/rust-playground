@@ -1,0 +1,9 @@
+{
+	"id": "xAeqy88NXawWyKT",
+	"json": "{\"id\":\"xAeqy88NXawWyKT\",\"url\":\"https://doc.rust-lang.org/reference/visibility-and-privacy.html\",\"uniqueKey\":\"https://doc.rust-lang.org/reference/visibility-and-privacy.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722143556346,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/reference/visibility-and-privacy.html",
+	"url": "https://doc.rust-lang.org/reference/visibility-and-privacy.html"
+}

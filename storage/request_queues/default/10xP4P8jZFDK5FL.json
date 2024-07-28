@@ -1,0 +1,9 @@
+{
+	"id": "10xP4P8jZFDK5FL",
+	"json": "{\"id\":\"10xP4P8jZFDK5FL\",\"url\":\"https://doc.rust-lang.org/1.49.0/reference/expressions/loop-expr.html\",\"uniqueKey\":\"https://doc.rust-lang.org/1.49.0/reference/expressions/loop-expr.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722143682315,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/1.49.0/reference/expressions/loop-expr.html",
+	"url": "https://doc.rust-lang.org/1.49.0/reference/expressions/loop-expr.html"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "V8tBZUuQcVOtShZ",
+	"json": "{\"id\":\"V8tBZUuQcVOtShZ\",\"url\":\"https://doc.rust-lang.org/rust-by-example/unsafe/asm.html\",\"uniqueKey\":\"https://doc.rust-lang.org/rust-by-example/unsafe/asm.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722144351304,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/rust-by-example/unsafe/asm.html",
+	"url": "https://doc.rust-lang.org/rust-by-example/unsafe/asm.html"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "UOSVdyDM1nnb8Mg",
+	"json": "{\"id\":\"UOSVdyDM1nnb8Mg\",\"url\":\"https://doc.rust-lang.org/stable/std/ops/trait.ShrAssign.html\",\"loadedUrl\":\"https://doc.rust-lang.org/stable/std/ops/trait.ShrAssign.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/std/ops/trait.ShrAssign.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:13:00.730Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/std/ops/trait.ShrAssign.html",
+	"url": "https://doc.rust-lang.org/stable/std/ops/trait.ShrAssign.html"
+}

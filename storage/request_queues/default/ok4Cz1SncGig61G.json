@@ -1,0 +1,9 @@
+{
+	"id": "ok4Cz1SncGig61G",
+	"json": "{\"id\":\"ok4Cz1SncGig61G\",\"url\":\"https://doc.rust-lang.org/stable/std/env/fn.vars.html\",\"loadedUrl\":\"https://doc.rust-lang.org/stable/std/env/fn.vars.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/std/env/fn.vars.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:22:58.166Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/std/env/fn.vars.html",
+	"url": "https://doc.rust-lang.org/stable/std/env/fn.vars.html"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "yZNoMU8kSrRdKMP",
+	"json": "{\"id\":\"yZNoMU8kSrRdKMP\",\"url\":\"https://doc.rust-lang.org/stable/core/arch/x86/fn._mm_mask_min_sd.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/core/arch/x86/fn._mm_mask_min_sd.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722144170078,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/core/arch/x86/fn._mm_mask_min_sd.html",
+	"url": "https://doc.rust-lang.org/stable/core/arch/x86/fn._mm_mask_min_sd.html"
+}

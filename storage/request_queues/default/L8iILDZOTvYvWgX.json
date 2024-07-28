@@ -1,0 +1,9 @@
+{
+	"id": "L8iILDZOTvYvWgX",
+	"json": "{\"id\":\"L8iILDZOTvYvWgX\",\"url\":\"https://doc.rust-lang.org/edition-guide/rust-2021/panic-macro-consistency.html\",\"uniqueKey\":\"https://doc.rust-lang.org/edition-guide/rust-2021/panic-macro-consistency.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722144036144,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/edition-guide/rust-2021/panic-macro-consistency.html",
+	"url": "https://doc.rust-lang.org/edition-guide/rust-2021/panic-macro-consistency.html"
+}

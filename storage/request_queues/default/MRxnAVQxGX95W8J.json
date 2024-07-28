@@ -1,0 +1,9 @@
+{
+	"id": "MRxnAVQxGX95W8J",
+	"json": "{\"id\":\"MRxnAVQxGX95W8J\",\"url\":\"https://doc.rust-lang.org/stable/std/os/windows/io/type.RawSocket.html\",\"loadedUrl\":\"https://doc.rust-lang.org/stable/std/os/windows/io/type.RawSocket.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/std/os/windows/io/type.RawSocket.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:26:54.895Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/std/os/windows/io/type.RawSocket.html",
+	"url": "https://doc.rust-lang.org/stable/std/os/windows/io/type.RawSocket.html"
+}

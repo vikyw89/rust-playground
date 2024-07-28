@@ -1,0 +1,9 @@
+{
+	"id": "5iks9oCEZikrP1A",
+	"json": "{\"id\":\"5iks9oCEZikrP1A\",\"url\":\"https://doc.rust-lang.org/stable/src/core/stdarch/crates/core_arch/src/x86/bmi2.rs.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/src/core/stdarch/crates/core_arch/src/x86/bmi2.rs.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722143496860,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/src/core/stdarch/crates/core_arch/src/x86/bmi2.rs.html",
+	"url": "https://doc.rust-lang.org/stable/src/core/stdarch/crates/core_arch/src/x86/bmi2.rs.html"
+}

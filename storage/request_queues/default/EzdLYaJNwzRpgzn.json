@@ -1,0 +1,9 @@
+{
+	"id": "EzdLYaJNwzRpgzn",
+	"json": "{\"id\":\"EzdLYaJNwzRpgzn\",\"url\":\"https://doc.rust-lang.org/stable/unstable-book/library-features/array-into-iter-constructors.html\",\"loadedUrl\":\"https://doc.rust-lang.org/stable/unstable-book/library-features/array-into-iter-constructors.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/unstable-book/library-features/array-into-iter-constructors.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:16:42.749Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/unstable-book/library-features/array-into-iter-constructors.html",
+	"url": "https://doc.rust-lang.org/stable/unstable-book/library-features/array-into-iter-constructors.html"
+}

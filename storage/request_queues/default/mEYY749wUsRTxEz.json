@@ -1,0 +1,9 @@
+{
+	"id": "mEYY749wUsRTxEz",
+	"json": "{\"id\":\"mEYY749wUsRTxEz\",\"url\":\"https://doc.rust-lang.org/book/ch16-03-shared-state.html\",\"uniqueKey\":\"https://doc.rust-lang.org/book/ch16-03-shared-state.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722143685972,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/book/ch16-03-shared-state.html",
+	"url": "https://doc.rust-lang.org/book/ch16-03-shared-state.html"
+}

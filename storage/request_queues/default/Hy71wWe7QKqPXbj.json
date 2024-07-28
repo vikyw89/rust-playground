@@ -1,0 +1,9 @@
+{
+	"id": "Hy71wWe7QKqPXbj",
+	"json": "{\"id\":\"Hy71wWe7QKqPXbj\",\"url\":\"https://doc.rust-lang.org/std/iter/struct.Cycle.html\",\"uniqueKey\":\"https://doc.rust-lang.org/std/iter/struct.Cycle.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722144393787,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/std/iter/struct.Cycle.html",
+	"url": "https://doc.rust-lang.org/std/iter/struct.Cycle.html"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "irKqTt9oqmVIIke",
+	"json": "{\"id\":\"irKqTt9oqmVIIke\",\"url\":\"https://doc.rust-lang.org/stable/nomicon/drop-flags.html\",\"loadedUrl\":\"https://doc.rust-lang.org/stable/nomicon/drop-flags.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/nomicon/drop-flags.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:14:07.576Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/nomicon/drop-flags.html",
+	"url": "https://doc.rust-lang.org/stable/nomicon/drop-flags.html"
+}

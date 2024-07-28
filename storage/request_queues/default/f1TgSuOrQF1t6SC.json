@@ -1,0 +1,9 @@
+{
+	"id": "f1TgSuOrQF1t6SC",
+	"json": "{\"id\":\"f1TgSuOrQF1t6SC\",\"url\":\"https://doc.rust-lang.org/stable/core/arch/x86_64/fn._mm_ucomige_ss.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/core/arch/x86_64/fn._mm_ucomige_ss.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722144164731,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/core/arch/x86_64/fn._mm_ucomige_ss.html",
+	"url": "https://doc.rust-lang.org/stable/core/arch/x86_64/fn._mm_ucomige_ss.html"
+}

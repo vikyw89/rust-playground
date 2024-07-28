@@ -1,0 +1,9 @@
+{
+	"id": "xABWhiW6uWnUgNo",
+	"json": "{\"id\":\"xABWhiW6uWnUgNo\",\"url\":\"https://doc.rust-lang.org/nightly/cargo/reference/publishing.html\",\"uniqueKey\":\"https://doc.rust-lang.org/nightly/cargo/reference/publishing.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722144045576,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/nightly/cargo/reference/publishing.html",
+	"url": "https://doc.rust-lang.org/nightly/cargo/reference/publishing.html"
+}

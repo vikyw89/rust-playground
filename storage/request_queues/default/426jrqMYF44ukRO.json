@@ -1,0 +1,9 @@
+{
+	"id": "426jrqMYF44ukRO",
+	"json": "{\"id\":\"426jrqMYF44ukRO\",\"url\":\"https://doc.rust-lang.org/stable/core/arch/aarch64/struct.SY.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/core/arch/aarch64/struct.SY.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722144164017,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/core/arch/aarch64/struct.SY.html",
+	"url": "https://doc.rust-lang.org/stable/core/arch/aarch64/struct.SY.html"
+}

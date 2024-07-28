@@ -1,0 +1,9 @@
+{
+	"id": "yu8S9zguHULp5FB",
+	"json": "{\"id\":\"yu8S9zguHULp5FB\",\"url\":\"https://doc.rust-lang.org/1.80.0/rustdoc/write-documentation/linking-to-items-by-name.html\",\"uniqueKey\":\"https://doc.rust-lang.org/1.80.0/rustdoc/write-documentation/linking-to-items-by-name.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722144388536,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/1.80.0/rustdoc/write-documentation/linking-to-items-by-name.html",
+	"url": "https://doc.rust-lang.org/1.80.0/rustdoc/write-documentation/linking-to-items-by-name.html"
+}

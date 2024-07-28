@@ -1,0 +1,9 @@
+{
+	"id": "PObgrsDrPu1D0dJ",
+	"json": "{\"id\":\"PObgrsDrPu1D0dJ\",\"url\":\"https://doc.rust-lang.org/book/ch20-03-graceful-shutdown-and-cleanup.html\",\"uniqueKey\":\"https://doc.rust-lang.org/book/ch20-03-graceful-shutdown-and-cleanup.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722143685977,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/book/ch20-03-graceful-shutdown-and-cleanup.html",
+	"url": "https://doc.rust-lang.org/book/ch20-03-graceful-shutdown-and-cleanup.html"
+}

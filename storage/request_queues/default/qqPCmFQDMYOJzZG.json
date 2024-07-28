@@ -1,0 +1,9 @@
+{
+	"id": "qqPCmFQDMYOJzZG",
+	"json": "{\"id\":\"qqPCmFQDMYOJzZG\",\"url\":\"https://doc.rust-lang.org/stable/nomicon/concurrency.html\",\"loadedUrl\":\"https://doc.rust-lang.org/stable/nomicon/concurrency.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/nomicon/concurrency.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:14:09.539Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/nomicon/concurrency.html",
+	"url": "https://doc.rust-lang.org/stable/nomicon/concurrency.html"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "rRhT8pQSd3g5wZq",
+	"json": "{\"id\":\"rRhT8pQSd3g5wZq\",\"url\":\"https://doc.rust-lang.org/stable/nomicon/arc-mutex/arc-base.html\",\"loadedUrl\":\"https://doc.rust-lang.org/stable/nomicon/arc-mutex/arc-base.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/nomicon/arc-mutex/arc-base.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:14:11.820Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/nomicon/arc-mutex/arc-base.html",
+	"url": "https://doc.rust-lang.org/stable/nomicon/arc-mutex/arc-base.html"
+}

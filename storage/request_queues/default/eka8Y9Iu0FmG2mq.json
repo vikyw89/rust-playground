@@ -1,0 +1,9 @@
+{
+	"id": "eka8Y9Iu0FmG2mq",
+	"json": "{\"id\":\"eka8Y9Iu0FmG2mq\",\"url\":\"https://doc.rust-lang.org/nightly/unstable-book/compiler-flags/virtual-function-elimination.html\",\"uniqueKey\":\"https://doc.rust-lang.org/nightly/unstable-book/compiler-flags/virtual-function-elimination.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722143685962,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/nightly/unstable-book/compiler-flags/virtual-function-elimination.html",
+	"url": "https://doc.rust-lang.org/nightly/unstable-book/compiler-flags/virtual-function-elimination.html"
+}

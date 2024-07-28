@@ -1,0 +1,9 @@
+{
+	"id": "9bXQfNKIvlw5wff",
+	"json": "{\"id\":\"9bXQfNKIvlw5wff\",\"url\":\"https://doc.rust-lang.org/stable/src/std/net/tcp.rs.html#656-673\",\"loadedUrl\":\"https://doc.rust-lang.org/stable/src/std/net/tcp.rs.html#656-673\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/src/std/net/tcp.rs.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:25:56.597Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/src/std/net/tcp.rs.html",
+	"url": "https://doc.rust-lang.org/stable/src/std/net/tcp.rs.html#656-673"
+}

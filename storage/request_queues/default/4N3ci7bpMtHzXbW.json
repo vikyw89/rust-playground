@@ -1,0 +1,9 @@
+{
+	"id": "4N3ci7bpMtHzXbW",
+	"json": "{\"id\":\"4N3ci7bpMtHzXbW\",\"url\":\"https://doc.rust-lang.org/nightly/nightly-rustc/rustdoc_json_types/struct.DynTrait.html\",\"uniqueKey\":\"https://doc.rust-lang.org/nightly/nightly-rustc/rustdoc_json_types/struct.DynTrait.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722144045672,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/nightly/nightly-rustc/rustdoc_json_types/struct.DynTrait.html",
+	"url": "https://doc.rust-lang.org/nightly/nightly-rustc/rustdoc_json_types/struct.DynTrait.html"
+}

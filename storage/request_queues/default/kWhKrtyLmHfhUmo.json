@@ -1,0 +1,9 @@
+{
+	"id": "kWhKrtyLmHfhUmo",
+	"json": "{\"id\":\"kWhKrtyLmHfhUmo\",\"url\":\"https://doc.rust-lang.org/stable/core/arch/wasm32/fn.i32x4_relaxed_dot_i8x16_i7x16_add.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/core/arch/wasm32/fn.i32x4_relaxed_dot_i8x16_i7x16_add.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722144166157,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/core/arch/wasm32/fn.i32x4_relaxed_dot_i8x16_i7x16_add.html",
+	"url": "https://doc.rust-lang.org/stable/core/arch/wasm32/fn.i32x4_relaxed_dot_i8x16_i7x16_add.html"
+}

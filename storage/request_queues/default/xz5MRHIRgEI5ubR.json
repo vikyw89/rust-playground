@@ -1,0 +1,9 @@
+{
+	"id": "xz5MRHIRgEI5ubR",
+	"json": "{\"id\":\"xz5MRHIRgEI5ubR\",\"url\":\"https://doc.rust-lang.org/book/ch08-01-vectors.html\",\"uniqueKey\":\"https://doc.rust-lang.org/book/ch08-01-vectors.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722143685958,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/book/ch08-01-vectors.html",
+	"url": "https://doc.rust-lang.org/book/ch08-01-vectors.html"
+}

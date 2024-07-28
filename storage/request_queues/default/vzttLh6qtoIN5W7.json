@@ -1,0 +1,9 @@
+{
+	"id": "vzttLh6qtoIN5W7",
+	"json": "{\"id\":\"vzttLh6qtoIN5W7\",\"url\":\"https://doc.rust-lang.org/stable/core/arch/x86/struct.CpuidResult.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/core/arch/x86/struct.CpuidResult.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722144163459,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/core/arch/x86/struct.CpuidResult.html",
+	"url": "https://doc.rust-lang.org/stable/core/arch/x86/struct.CpuidResult.html"
+}

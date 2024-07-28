@@ -1,0 +1,9 @@
+{
+	"id": "uuGIVGPyOlOnf84",
+	"json": "{\"id\":\"uuGIVGPyOlOnf84\",\"url\":\"https://doc.rust-lang.org/stable/alloc/rc/struct.Rc.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/alloc/rc/struct.Rc.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722143522384,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/alloc/rc/struct.Rc.html",
+	"url": "https://doc.rust-lang.org/stable/alloc/rc/struct.Rc.html"
+}

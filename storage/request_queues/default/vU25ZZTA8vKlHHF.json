@@ -1,0 +1,9 @@
+{
+	"id": "vU25ZZTA8vKlHHF",
+	"json": "{\"id\":\"vU25ZZTA8vKlHHF\",\"url\":\"https://doc.rust-lang.org/stable/reference/variables.html\",\"loadedUrl\":\"https://doc.rust-lang.org/stable/reference/variables.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/reference/variables.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:13:34.869Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/reference/variables.html",
+	"url": "https://doc.rust-lang.org/stable/reference/variables.html"
+}

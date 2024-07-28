@@ -1,0 +1,9 @@
+{
+	"id": "1ynX5AQPtKa6eNf",
+	"json": "{\"id\":\"1ynX5AQPtKa6eNf\",\"url\":\"https://doc.rust-lang.org/stable/core/arch/x86_64/fn._mm256_cvtsepi64_epi16.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/core/arch/x86_64/fn._mm256_cvtsepi64_epi16.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722144164816,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/core/arch/x86_64/fn._mm256_cvtsepi64_epi16.html",
+	"url": "https://doc.rust-lang.org/stable/core/arch/x86_64/fn._mm256_cvtsepi64_epi16.html"
+}

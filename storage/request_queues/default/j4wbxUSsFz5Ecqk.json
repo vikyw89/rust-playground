@@ -1,0 +1,9 @@
+{
+	"id": "j4wbxUSsFz5Ecqk",
+	"json": "{\"id\":\"j4wbxUSsFz5Ecqk\",\"url\":\"https://doc.rust-lang.org/stable/std/char/constant.REPLACEMENT_CHARACTER.html\",\"loadedUrl\":\"https://doc.rust-lang.org/stable/std/char/constant.REPLACEMENT_CHARACTER.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/std/char/constant.REPLACEMENT_CHARACTER.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:12:05.102Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/std/char/constant.REPLACEMENT_CHARACTER.html",
+	"url": "https://doc.rust-lang.org/stable/std/char/constant.REPLACEMENT_CHARACTER.html"
+}

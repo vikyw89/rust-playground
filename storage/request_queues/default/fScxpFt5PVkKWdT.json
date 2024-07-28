@@ -1,0 +1,9 @@
+{
+	"id": "fScxpFt5PVkKWdT",
+	"json": "{\"id\":\"fScxpFt5PVkKWdT\",\"url\":\"https://doc.rust-lang.org/stable/edition-guide/rust-2024/cargo-table-key-names.html\",\"loadedUrl\":\"https://doc.rust-lang.org/stable/edition-guide/rust-2024/cargo-table-key-names.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/edition-guide/rust-2024/cargo-table-key-names.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:20:33.104Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/edition-guide/rust-2024/cargo-table-key-names.html",
+	"url": "https://doc.rust-lang.org/stable/edition-guide/rust-2024/cargo-table-key-names.html"
+}

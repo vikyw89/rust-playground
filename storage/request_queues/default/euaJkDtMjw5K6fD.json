@@ -1,0 +1,9 @@
+{
+	"id": "euaJkDtMjw5K6fD",
+	"json": "{\"id\":\"euaJkDtMjw5K6fD\",\"url\":\"https://doc.rust-lang.org/std/ops/trait.Residual.html\",\"uniqueKey\":\"https://doc.rust-lang.org/std/ops/trait.Residual.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722144390048,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/std/ops/trait.Residual.html",
+	"url": "https://doc.rust-lang.org/std/ops/trait.Residual.html"
+}

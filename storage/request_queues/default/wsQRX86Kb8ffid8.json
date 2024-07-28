@@ -1,0 +1,9 @@
+{
+	"id": "wsQRX86Kb8ffid8",
+	"json": "{\"id\":\"wsQRX86Kb8ffid8\",\"url\":\"https://doc.rust-lang.org/std/env/fn.split_paths.html\",\"uniqueKey\":\"https://doc.rust-lang.org/std/env/fn.split_paths.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722144045591,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/std/env/fn.split_paths.html",
+	"url": "https://doc.rust-lang.org/std/env/fn.split_paths.html"
+}

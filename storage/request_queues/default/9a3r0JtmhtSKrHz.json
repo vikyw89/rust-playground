@@ -1,0 +1,9 @@
+{
+	"id": "9a3r0JtmhtSKrHz",
+	"json": "{\"id\":\"9a3r0JtmhtSKrHz\",\"url\":\"https://doc.rust-lang.org/stable/unstable-book/library-features/deref-pure-trait.html\",\"loadedUrl\":\"https://doc.rust-lang.org/stable/unstable-book/library-features/deref-pure-trait.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/unstable-book/library-features/deref-pure-trait.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:17:54.214Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/unstable-book/library-features/deref-pure-trait.html",
+	"url": "https://doc.rust-lang.org/stable/unstable-book/library-features/deref-pure-trait.html"
+}

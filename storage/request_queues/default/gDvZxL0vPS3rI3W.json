@@ -1,0 +1,9 @@
+{
+	"id": "gDvZxL0vPS3rI3W",
+	"json": "{\"id\":\"gDvZxL0vPS3rI3W\",\"url\":\"https://doc.rust-lang.org/stable/unstable-book/library-features/buf-read-has-data-left.html\",\"loadedUrl\":\"https://doc.rust-lang.org/stable/unstable-book/library-features/buf-read-has-data-left.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/unstable-book/library-features/buf-read-has-data-left.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:16:54.071Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/unstable-book/library-features/buf-read-has-data-left.html",
+	"url": "https://doc.rust-lang.org/stable/unstable-book/library-features/buf-read-has-data-left.html"
+}

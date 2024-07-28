@@ -1,0 +1,9 @@
+{
+	"id": "DJmi72wA8pu4mgj",
+	"json": "{\"id\":\"DJmi72wA8pu4mgj\",\"url\":\"https://doc.rust-lang.org/stable/core/arch/x86_64/fn._mm512_mask_testn_epi16_mask.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/core/arch/x86_64/fn._mm512_mask_testn_epi16_mask.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722144168008,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/core/arch/x86_64/fn._mm512_mask_testn_epi16_mask.html",
+	"url": "https://doc.rust-lang.org/stable/core/arch/x86_64/fn._mm512_mask_testn_epi16_mask.html"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "Mutqd4j4pJ2Vz6R",
+	"json": "{\"id\":\"Mutqd4j4pJ2Vz6R\",\"url\":\"https://doc.rust-lang.org/stable/core/arch/x86/fn._mm512_mask_permutevar_ps.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/core/arch/x86/fn._mm512_mask_permutevar_ps.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722144167926,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/core/arch/x86/fn._mm512_mask_permutevar_ps.html",
+	"url": "https://doc.rust-lang.org/stable/core/arch/x86/fn._mm512_mask_permutevar_ps.html"
+}

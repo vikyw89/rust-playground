@@ -1,0 +1,9 @@
+{
+	"id": "aBVDNSNtB98k51c",
+	"json": "{\"id\":\"aBVDNSNtB98k51c\",\"url\":\"https://doc.rust-lang.org/stable/std/arch/macro.is_powerpc_feature_detected.html\",\"loadedUrl\":\"https://doc.rust-lang.org/stable/std/arch/macro.is_powerpc_feature_detected.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/std/arch/macro.is_powerpc_feature_detected.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:22:47.400Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/std/arch/macro.is_powerpc_feature_detected.html",
+	"url": "https://doc.rust-lang.org/stable/std/arch/macro.is_powerpc_feature_detected.html"
+}

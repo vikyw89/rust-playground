@@ -1,0 +1,9 @@
+{
+	"id": "XfY5zYzp5nzDp90",
+	"json": "{\"id\":\"XfY5zYzp5nzDp90\",\"url\":\"https://doc.rust-lang.org/std/str/pattern/struct.CharArrayRefSearcher.html\",\"uniqueKey\":\"https://doc.rust-lang.org/std/str/pattern/struct.CharArrayRefSearcher.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722144390064,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/std/str/pattern/struct.CharArrayRefSearcher.html",
+	"url": "https://doc.rust-lang.org/std/str/pattern/struct.CharArrayRefSearcher.html"
+}

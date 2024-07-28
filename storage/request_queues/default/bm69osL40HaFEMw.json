@@ -1,0 +1,9 @@
+{
+	"id": "bm69osL40HaFEMw",
+	"json": "{\"id\":\"bm69osL40HaFEMw\",\"url\":\"https://doc.rust-lang.org/stable/std/string/struct.Drain.html\",\"loadedUrl\":\"https://doc.rust-lang.org/stable/std/string/struct.Drain.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/std/string/struct.Drain.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:11:59.309Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/std/string/struct.Drain.html",
+	"url": "https://doc.rust-lang.org/stable/std/string/struct.Drain.html"
+}

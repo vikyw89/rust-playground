@@ -1,0 +1,9 @@
+{
+	"id": "x0QMYQJ833ozbjv",
+	"json": "{\"id\":\"x0QMYQJ833ozbjv\",\"url\":\"https://doc.rust-lang.org/nightly/unstable-book/library-features/c-void-variant.html\",\"uniqueKey\":\"https://doc.rust-lang.org/nightly/unstable-book/library-features/c-void-variant.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722143686040,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/nightly/unstable-book/library-features/c-void-variant.html",
+	"url": "https://doc.rust-lang.org/nightly/unstable-book/library-features/c-void-variant.html"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "oAMyszmGNLtsfdH",
+	"json": "{\"id\":\"oAMyszmGNLtsfdH\",\"url\":\"https://doc.rust-lang.org/stable/core/arch/x86/fn._fxrstor.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/core/arch/x86/fn._fxrstor.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722144164172,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/core/arch/x86/fn._fxrstor.html",
+	"url": "https://doc.rust-lang.org/stable/core/arch/x86/fn._fxrstor.html"
+}

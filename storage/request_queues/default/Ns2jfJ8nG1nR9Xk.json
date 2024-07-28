@@ -1,0 +1,9 @@
+{
+	"id": "Ns2jfJ8nG1nR9Xk",
+	"json": "{\"id\":\"Ns2jfJ8nG1nR9Xk\",\"url\":\"https://doc.rust-lang.org/stable/core/arch/x86/fn._mm_shufflelo_epi16.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/core/arch/x86/fn._mm_shufflelo_epi16.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722144164665,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/core/arch/x86/fn._mm_shufflelo_epi16.html",
+	"url": "https://doc.rust-lang.org/stable/core/arch/x86/fn._mm_shufflelo_epi16.html"
+}

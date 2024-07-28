@@ -1,0 +1,9 @@
+{
+	"id": "1X6KIr3B9uRbWii",
+	"json": "{\"id\":\"1X6KIr3B9uRbWii\",\"url\":\"https://doc.rust-lang.org/1.80.0/core/ffi/c_str/struct.FromBytesUntilNulError.html\",\"uniqueKey\":\"https://doc.rust-lang.org/1.80.0/core/ffi/c_str/struct.FromBytesUntilNulError.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722144248065,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/1.80.0/core/ffi/c_str/struct.FromBytesUntilNulError.html",
+	"url": "https://doc.rust-lang.org/1.80.0/core/ffi/c_str/struct.FromBytesUntilNulError.html"
+}

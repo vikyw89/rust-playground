@@ -1,0 +1,9 @@
+{
+	"id": "3pmZwHRJjcNLGRl",
+	"json": "{\"id\":\"3pmZwHRJjcNLGRl\",\"url\":\"https://doc.rust-lang.org/stable/core/arch/aarch64/fn.vpmin_u16.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/core/arch/aarch64/fn.vpmin_u16.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722144166457,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/core/arch/aarch64/fn.vpmin_u16.html",
+	"url": "https://doc.rust-lang.org/stable/core/arch/aarch64/fn.vpmin_u16.html"
+}

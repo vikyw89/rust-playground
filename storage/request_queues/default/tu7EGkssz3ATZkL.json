@@ -1,0 +1,9 @@
+{
+	"id": "tu7EGkssz3ATZkL",
+	"json": "{\"id\":\"tu7EGkssz3ATZkL\",\"url\":\"https://doc.rust-lang.org/1.49.0/reference/expressions/path-expr.html\",\"uniqueKey\":\"https://doc.rust-lang.org/1.49.0/reference/expressions/path-expr.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722143682265,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/1.49.0/reference/expressions/path-expr.html",
+	"url": "https://doc.rust-lang.org/1.49.0/reference/expressions/path-expr.html"
+}

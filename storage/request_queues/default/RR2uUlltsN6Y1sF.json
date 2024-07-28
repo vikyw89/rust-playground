@@ -1,0 +1,9 @@
+{
+	"id": "RR2uUlltsN6Y1sF",
+	"json": "{\"id\":\"RR2uUlltsN6Y1sF\",\"url\":\"https://doc.rust-lang.org/stable/unstable-book/language-features/intra-doc-pointers.html\",\"loadedUrl\":\"https://doc.rust-lang.org/stable/unstable-book/language-features/intra-doc-pointers.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/unstable-book/language-features/intra-doc-pointers.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:15:53.986Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/unstable-book/language-features/intra-doc-pointers.html",
+	"url": "https://doc.rust-lang.org/stable/unstable-book/language-features/intra-doc-pointers.html"
+}

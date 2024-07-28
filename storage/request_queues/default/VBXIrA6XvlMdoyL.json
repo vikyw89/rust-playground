@@ -1,0 +1,9 @@
+{
+	"id": "VBXIrA6XvlMdoyL",
+	"json": "{\"id\":\"VBXIrA6XvlMdoyL\",\"url\":\"https://doc.rust-lang.org/stable/std/sync/atomic/struct.AtomicUsize.html\",\"loadedUrl\":\"https://doc.rust-lang.org/stable/std/sync/atomic/struct.AtomicUsize.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/std/sync/atomic/struct.AtomicUsize.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:14:51.329Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/std/sync/atomic/struct.AtomicUsize.html",
+	"url": "https://doc.rust-lang.org/stable/std/sync/atomic/struct.AtomicUsize.html"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "miHW0whwutIkS2t",
+	"json": "{\"id\":\"miHW0whwutIkS2t\",\"url\":\"https://doc.rust-lang.org/1.80.0/src/std/sys/thread_local/fast_local/lazy.rs.html\",\"uniqueKey\":\"https://doc.rust-lang.org/1.80.0/src/std/sys/thread_local/fast_local/lazy.rs.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722143512355,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/1.80.0/src/std/sys/thread_local/fast_local/lazy.rs.html",
+	"url": "https://doc.rust-lang.org/1.80.0/src/std/sys/thread_local/fast_local/lazy.rs.html"
+}

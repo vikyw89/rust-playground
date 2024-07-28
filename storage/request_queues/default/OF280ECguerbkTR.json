@@ -1,0 +1,9 @@
+{
+	"id": "OF280ECguerbkTR",
+	"json": "{\"id\":\"OF280ECguerbkTR\",\"url\":\"https://doc.rust-lang.org/stable/std/ptr/fn.null.html\",\"loadedUrl\":\"https://doc.rust-lang.org/stable/std/ptr/fn.null.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/std/ptr/fn.null.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:21:29.652Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/std/ptr/fn.null.html",
+	"url": "https://doc.rust-lang.org/stable/std/ptr/fn.null.html"
+}

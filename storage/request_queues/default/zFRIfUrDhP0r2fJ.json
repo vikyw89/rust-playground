@@ -1,0 +1,9 @@
+{
+	"id": "zFRIfUrDhP0r2fJ",
+	"json": "{\"id\":\"zFRIfUrDhP0r2fJ\",\"url\":\"https://doc.rust-lang.org/stable/rust-by-example/scope/lifetime/lifetime_bounds.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/rust-by-example/scope/lifetime/lifetime_bounds.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722144357815,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/rust-by-example/scope/lifetime/lifetime_bounds.html",
+	"url": "https://doc.rust-lang.org/stable/rust-by-example/scope/lifetime/lifetime_bounds.html"
+}

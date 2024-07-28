@@ -1,0 +1,9 @@
+{
+	"id": "cVYI6AcKa8yVh5m",
+	"json": "{\"id\":\"cVYI6AcKa8yVh5m\",\"url\":\"https://doc.rust-lang.org/stable/unstable-book/library-features/linked-list-retain.html\",\"loadedUrl\":\"https://doc.rust-lang.org/stable/unstable-book/library-features/linked-list-retain.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/unstable-book/library-features/linked-list-retain.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:18:39.845Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/unstable-book/library-features/linked-list-retain.html",
+	"url": "https://doc.rust-lang.org/stable/unstable-book/library-features/linked-list-retain.html"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "mMEtxiPyGlp79Vp",
+	"json": "{\"id\":\"mMEtxiPyGlp79Vp\",\"url\":\"https://doc.rust-lang.org/1.80.0/src/alloc/collections/linked_list.rs.html#1170\",\"loadedUrl\":\"https://doc.rust-lang.org/1.80.0/src/alloc/collections/linked_list.rs.html#1170\",\"uniqueKey\":\"https://doc.rust-lang.org/1.80.0/src/alloc/collections/linked_list.rs.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:13:26.133Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/1.80.0/src/alloc/collections/linked_list.rs.html",
+	"url": "https://doc.rust-lang.org/1.80.0/src/alloc/collections/linked_list.rs.html#1170"
+}

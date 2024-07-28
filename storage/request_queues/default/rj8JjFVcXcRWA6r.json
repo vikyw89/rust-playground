@@ -1,0 +1,9 @@
+{
+	"id": "rj8JjFVcXcRWA6r",
+	"json": "{\"id\":\"rj8JjFVcXcRWA6r\",\"url\":\"https://doc.rust-lang.org/stable/std/intrinsics/mir/fn.UnwindTerminate.html\",\"loadedUrl\":\"https://doc.rust-lang.org/stable/std/intrinsics/mir/fn.UnwindTerminate.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/std/intrinsics/mir/fn.UnwindTerminate.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:26:42.160Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/std/intrinsics/mir/fn.UnwindTerminate.html",
+	"url": "https://doc.rust-lang.org/stable/std/intrinsics/mir/fn.UnwindTerminate.html"
+}

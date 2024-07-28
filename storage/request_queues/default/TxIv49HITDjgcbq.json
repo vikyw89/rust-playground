@@ -1,0 +1,9 @@
+{
+	"id": "TxIv49HITDjgcbq",
+	"json": "{\"id\":\"TxIv49HITDjgcbq\",\"url\":\"https://doc.rust-lang.org/1.80.0/core/iter/traits/collect/trait.Extend.html\",\"uniqueKey\":\"https://doc.rust-lang.org/1.80.0/core/iter/traits/collect/trait.Extend.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722143515683,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/1.80.0/core/iter/traits/collect/trait.Extend.html",
+	"url": "https://doc.rust-lang.org/1.80.0/core/iter/traits/collect/trait.Extend.html"
+}

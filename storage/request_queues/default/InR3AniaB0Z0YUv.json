@@ -1,0 +1,9 @@
+{
+	"id": "InR3AniaB0Z0YUv",
+	"json": "{\"id\":\"InR3AniaB0Z0YUv\",\"url\":\"https://doc.rust-lang.org/stable/cargo/guide/index.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/cargo/guide/index.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722143682264,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/cargo/guide/index.html",
+	"url": "https://doc.rust-lang.org/stable/cargo/guide/index.html"
+}

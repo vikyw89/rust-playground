@@ -1,0 +1,9 @@
+{
+	"id": "9rA6NGVW4Wosms5",
+	"json": "{\"id\":\"9rA6NGVW4Wosms5\",\"url\":\"https://doc.rust-lang.org/nomicon/concurrency.html\",\"uniqueKey\":\"https://doc.rust-lang.org/nomicon/concurrency.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722144041613,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/nomicon/concurrency.html",
+	"url": "https://doc.rust-lang.org/nomicon/concurrency.html"
+}

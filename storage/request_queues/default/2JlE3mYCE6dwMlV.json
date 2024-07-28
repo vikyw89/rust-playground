@@ -1,0 +1,9 @@
+{
+	"id": "2JlE3mYCE6dwMlV",
+	"json": "{\"id\":\"2JlE3mYCE6dwMlV\",\"url\":\"https://doc.rust-lang.org/stable/unstable-book/library-features/const-arguments-as-str.html\",\"loadedUrl\":\"https://doc.rust-lang.org/stable/unstable-book/library-features/const-arguments-as-str.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/unstable-book/library-features/const-arguments-as-str.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:17:10.141Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/unstable-book/library-features/const-arguments-as-str.html",
+	"url": "https://doc.rust-lang.org/stable/unstable-book/library-features/const-arguments-as-str.html"
+}

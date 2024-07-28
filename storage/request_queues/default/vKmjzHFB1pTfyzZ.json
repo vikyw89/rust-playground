@@ -1,0 +1,9 @@
+{
+	"id": "vKmjzHFB1pTfyzZ",
+	"json": "{\"id\":\"vKmjzHFB1pTfyzZ\",\"url\":\"https://doc.rust-lang.org/stable/std/str/struct.ParseBoolError.html\",\"loadedUrl\":\"https://doc.rust-lang.org/stable/std/str/struct.ParseBoolError.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/std/str/struct.ParseBoolError.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:21:00.161Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/std/str/struct.ParseBoolError.html",
+	"url": "https://doc.rust-lang.org/stable/std/str/struct.ParseBoolError.html"
+}

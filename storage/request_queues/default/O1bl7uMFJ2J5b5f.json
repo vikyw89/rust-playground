@@ -1,0 +1,9 @@
+{
+	"id": "O1bl7uMFJ2J5b5f",
+	"json": "{\"id\":\"O1bl7uMFJ2J5b5f\",\"url\":\"https://doc.rust-lang.org/stable/std/collections/struct.BinaryHeap.html\",\"loadedUrl\":\"https://doc.rust-lang.org/stable/std/collections/struct.BinaryHeap.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/std/collections/struct.BinaryHeap.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:13:58.269Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/std/collections/struct.BinaryHeap.html",
+	"url": "https://doc.rust-lang.org/stable/std/collections/struct.BinaryHeap.html"
+}

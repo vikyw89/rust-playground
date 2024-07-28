@@ -1,0 +1,9 @@
+{
+	"id": "5ehKIKBq2fPtWk8",
+	"json": "{\"id\":\"5ehKIKBq2fPtWk8\",\"url\":\"https://doc.rust-lang.org/nightly/rust-by-example/trait/clone.html\",\"uniqueKey\":\"https://doc.rust-lang.org/nightly/rust-by-example/trait/clone.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722144357821,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/nightly/rust-by-example/trait/clone.html",
+	"url": "https://doc.rust-lang.org/nightly/rust-by-example/trait/clone.html"
+}

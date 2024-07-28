@@ -1,0 +1,9 @@
+{
+	"id": "B5B9YX5XIfmnIog",
+	"json": "{\"id\":\"B5B9YX5XIfmnIog\",\"url\":\"https://doc.rust-lang.org/reference/unsafety.html\",\"uniqueKey\":\"https://doc.rust-lang.org/reference/unsafety.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722143556348,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/reference/unsafety.html",
+	"url": "https://doc.rust-lang.org/reference/unsafety.html"
+}

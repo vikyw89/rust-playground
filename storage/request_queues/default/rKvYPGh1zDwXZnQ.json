@@ -1,0 +1,9 @@
+{
+	"id": "rKvYPGh1zDwXZnQ",
+	"json": "{\"id\":\"rKvYPGh1zDwXZnQ\",\"url\":\"https://doc.rust-lang.org/stable/core/arch/x86/fn._mm_fmadd_round_sd.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/core/arch/x86/fn._mm_fmadd_round_sd.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722144169921,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/core/arch/x86/fn._mm_fmadd_round_sd.html",
+	"url": "https://doc.rust-lang.org/stable/core/arch/x86/fn._mm_fmadd_round_sd.html"
+}

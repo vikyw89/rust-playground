@@ -1,0 +1,9 @@
+{
+	"id": "HwRor7GRZ8vCAvv",
+	"json": "{\"id\":\"HwRor7GRZ8vCAvv\",\"url\":\"https://doc.rust-lang.org/nightly/unstable-book/library-features/unix-socket-ancillary-data.html\",\"uniqueKey\":\"https://doc.rust-lang.org/nightly/unstable-book/library-features/unix-socket-ancillary-data.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722143686130,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/nightly/unstable-book/library-features/unix-socket-ancillary-data.html",
+	"url": "https://doc.rust-lang.org/nightly/unstable-book/library-features/unix-socket-ancillary-data.html"
+}

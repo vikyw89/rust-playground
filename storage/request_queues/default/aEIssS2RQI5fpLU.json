@@ -1,0 +1,9 @@
+{
+	"id": "aEIssS2RQI5fpLU",
+	"json": "{\"id\":\"aEIssS2RQI5fpLU\",\"url\":\"https://doc.rust-lang.org/stable/rustc/platform-support/nvptx64-nvidia-cuda.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/rustc/platform-support/nvptx64-nvidia-cuda.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722143682347,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/rustc/platform-support/nvptx64-nvidia-cuda.html",
+	"url": "https://doc.rust-lang.org/stable/rustc/platform-support/nvptx64-nvidia-cuda.html"
+}

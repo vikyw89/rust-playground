@@ -1,0 +1,9 @@
+{
+	"id": "bcR0qHdaICjPMxr",
+	"json": "{\"id\":\"bcR0qHdaICjPMxr\",\"url\":\"https://doc.rust-lang.org/stable/std/sync/struct.Barrier.html\",\"loadedUrl\":\"https://doc.rust-lang.org/stable/std/sync/struct.Barrier.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/std/sync/struct.Barrier.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:14:45.936Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/std/sync/struct.Barrier.html",
+	"url": "https://doc.rust-lang.org/stable/std/sync/struct.Barrier.html"
+}

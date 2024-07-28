@@ -1,0 +1,9 @@
+{
+	"id": "lCK1zcHIeCA4Pxu",
+	"json": "{\"id\":\"lCK1zcHIeCA4Pxu\",\"url\":\"https://doc.rust-lang.org/reference/expressions/underscore-expr.html\",\"uniqueKey\":\"https://doc.rust-lang.org/reference/expressions/underscore-expr.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722143556216,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/reference/expressions/underscore-expr.html",
+	"url": "https://doc.rust-lang.org/reference/expressions/underscore-expr.html"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "3ExHhi0oUraxrtg",
+	"json": "{\"id\":\"3ExHhi0oUraxrtg\",\"url\":\"https://doc.rust-lang.org/stable/std/iter/struct.ArrayChunks.html\",\"loadedUrl\":\"https://doc.rust-lang.org/stable/std/iter/struct.ArrayChunks.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/std/iter/struct.ArrayChunks.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:21:57.250Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/std/iter/struct.ArrayChunks.html",
+	"url": "https://doc.rust-lang.org/stable/std/iter/struct.ArrayChunks.html"
+}

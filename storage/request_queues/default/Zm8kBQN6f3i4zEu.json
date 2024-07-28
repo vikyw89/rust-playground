@@ -1,0 +1,9 @@
+{
+	"id": "Zm8kBQN6f3i4zEu",
+	"json": "{\"id\":\"Zm8kBQN6f3i4zEu\",\"url\":\"https://doc.rust-lang.org/std/primitive.i128.html\",\"uniqueKey\":\"https://doc.rust-lang.org/std/primitive.i128.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722143685855,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/std/primitive.i128.html",
+	"url": "https://doc.rust-lang.org/std/primitive.i128.html"
+}

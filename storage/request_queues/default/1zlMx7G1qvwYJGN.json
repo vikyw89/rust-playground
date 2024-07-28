@@ -1,0 +1,9 @@
+{
+	"id": "1zlMx7G1qvwYJGN",
+	"json": "{\"id\":\"1zlMx7G1qvwYJGN\",\"url\":\"https://doc.rust-lang.org/nightly/unstable-book/compiler-flags/on-broken-pipe.html\",\"uniqueKey\":\"https://doc.rust-lang.org/nightly/unstable-book/compiler-flags/on-broken-pipe.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722143685955,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/nightly/unstable-book/compiler-flags/on-broken-pipe.html",
+	"url": "https://doc.rust-lang.org/nightly/unstable-book/compiler-flags/on-broken-pipe.html"
+}

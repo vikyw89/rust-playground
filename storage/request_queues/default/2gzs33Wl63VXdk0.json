@@ -1,0 +1,9 @@
+{
+	"id": "2gzs33Wl63VXdk0",
+	"json": "{\"id\":\"2gzs33Wl63VXdk0\",\"url\":\"https://doc.rust-lang.org/cargo/reference/build-script-examples.html\",\"loadedUrl\":\"https://doc.rust-lang.org/cargo/reference/build-script-examples.html\",\"uniqueKey\":\"https://doc.rust-lang.org/cargo/reference/build-script-examples.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:09:22.571Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/cargo/reference/build-script-examples.html",
+	"url": "https://doc.rust-lang.org/cargo/reference/build-script-examples.html"
+}

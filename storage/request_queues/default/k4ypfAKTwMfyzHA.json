@@ -1,0 +1,9 @@
+{
+	"id": "k4ypfAKTwMfyzHA",
+	"json": "{\"id\":\"k4ypfAKTwMfyzHA\",\"url\":\"https://doc.rust-lang.org/stable/reference/types/enum.html\",\"loadedUrl\":\"https://doc.rust-lang.org/stable/reference/types/enum.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/reference/types/enum.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:13:21.488Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/reference/types/enum.html",
+	"url": "https://doc.rust-lang.org/stable/reference/types/enum.html"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "dHLzGExoxn9SHTE",
+	"json": "{\"id\":\"dHLzGExoxn9SHTE\",\"url\":\"https://doc.rust-lang.org/reference/lexical-structure.html\",\"uniqueKey\":\"https://doc.rust-lang.org/reference/lexical-structure.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722143555799,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/reference/lexical-structure.html",
+	"url": "https://doc.rust-lang.org/reference/lexical-structure.html"
+}

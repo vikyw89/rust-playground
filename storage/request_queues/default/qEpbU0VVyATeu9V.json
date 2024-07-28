@@ -1,0 +1,9 @@
+{
+	"id": "qEpbU0VVyATeu9V",
+	"json": "{\"id\":\"qEpbU0VVyATeu9V\",\"url\":\"https://doc.rust-lang.org/stable/std/mem/macro.offset_of.html\",\"loadedUrl\":\"https://doc.rust-lang.org/stable/std/mem/macro.offset_of.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/std/mem/macro.offset_of.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:23:54.910Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/std/mem/macro.offset_of.html",
+	"url": "https://doc.rust-lang.org/stable/std/mem/macro.offset_of.html"
+}

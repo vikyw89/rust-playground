@@ -1,0 +1,9 @@
+{
+	"id": "HTFuH6WWNwPp5wY",
+	"json": "{\"id\":\"HTFuH6WWNwPp5wY\",\"url\":\"https://doc.rust-lang.org/stable/std/simd/trait.SimdCast.html\",\"loadedUrl\":\"https://doc.rust-lang.org/stable/std/simd/trait.SimdCast.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/std/simd/trait.SimdCast.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:21:09.659Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/std/simd/trait.SimdCast.html",
+	"url": "https://doc.rust-lang.org/stable/std/simd/trait.SimdCast.html"
+}

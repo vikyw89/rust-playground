@@ -1,0 +1,9 @@
+{
+	"id": "pvXXVmxTDgejiZJ",
+	"json": "{\"id\":\"pvXXVmxTDgejiZJ\",\"url\":\"https://doc.rust-lang.org/stable/core/arch/x86/fn._mm256_mask_cmplt_epi16_mask.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/core/arch/x86/fn._mm256_mask_cmplt_epi16_mask.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722144165066,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/core/arch/x86/fn._mm256_mask_cmplt_epi16_mask.html",
+	"url": "https://doc.rust-lang.org/stable/core/arch/x86/fn._mm256_mask_cmplt_epi16_mask.html"
+}

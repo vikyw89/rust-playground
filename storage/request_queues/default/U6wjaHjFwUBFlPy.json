@@ -1,0 +1,9 @@
+{
+	"id": "U6wjaHjFwUBFlPy",
+	"json": "{\"id\":\"U6wjaHjFwUBFlPy\",\"url\":\"https://doc.rust-lang.org/stable/core/marker/struct.PhantomPinned.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/core/marker/struct.PhantomPinned.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722143585730,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/core/marker/struct.PhantomPinned.html",
+	"url": "https://doc.rust-lang.org/stable/core/marker/struct.PhantomPinned.html"
+}

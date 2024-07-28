@@ -1,0 +1,9 @@
+{
+	"id": "Cbl7uWI5EzzmjOp",
+	"json": "{\"id\":\"Cbl7uWI5EzzmjOp\",\"url\":\"https://doc.rust-lang.org/stable/std/intrinsics/mir/fn.Move.html\",\"loadedUrl\":\"https://doc.rust-lang.org/stable/std/intrinsics/mir/fn.Move.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/std/intrinsics/mir/fn.Move.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:26:41.343Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/std/intrinsics/mir/fn.Move.html",
+	"url": "https://doc.rust-lang.org/stable/std/intrinsics/mir/fn.Move.html"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "G1CNAM4YP1NSWh8",
+	"json": "{\"id\":\"G1CNAM4YP1NSWh8\",\"url\":\"https://doc.rust-lang.org/stable/reference/inline-assembly.html\",\"loadedUrl\":\"https://doc.rust-lang.org/stable/reference/inline-assembly.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/reference/inline-assembly.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:13:37.109Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/reference/inline-assembly.html",
+	"url": "https://doc.rust-lang.org/stable/reference/inline-assembly.html"
+}

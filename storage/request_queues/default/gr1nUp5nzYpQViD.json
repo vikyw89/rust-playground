@@ -1,0 +1,9 @@
+{
+	"id": "gr1nUp5nzYpQViD",
+	"json": "{\"id\":\"gr1nUp5nzYpQViD\",\"url\":\"https://doc.rust-lang.org/stable/test/enum.RunIgnored.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/test/enum.RunIgnored.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722144024144,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/test/enum.RunIgnored.html",
+	"url": "https://doc.rust-lang.org/stable/test/enum.RunIgnored.html"
+}

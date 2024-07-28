@@ -1,0 +1,9 @@
+{
+	"id": "u1I1pxUHAVkrSGZ",
+	"json": "{\"id\":\"u1I1pxUHAVkrSGZ\",\"url\":\"https://doc.rust-lang.org/nomicon/working-with-unsafe.html\",\"uniqueKey\":\"https://doc.rust-lang.org/nomicon/working-with-unsafe.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722144041604,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/nomicon/working-with-unsafe.html",
+	"url": "https://doc.rust-lang.org/nomicon/working-with-unsafe.html"
+}

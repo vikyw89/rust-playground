@@ -1,0 +1,9 @@
+{
+	"id": "l4WCNbxrtDZV8lo",
+	"json": "{\"id\":\"l4WCNbxrtDZV8lo\",\"url\":\"https://doc.rust-lang.org/stable/book/ch13-02-iterators.html\",\"loadedUrl\":\"https://doc.rust-lang.org/stable/book/ch13-02-iterators.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/book/ch13-02-iterators.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:08:26.590Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/book/ch13-02-iterators.html",
+	"url": "https://doc.rust-lang.org/stable/book/ch13-02-iterators.html"
+}

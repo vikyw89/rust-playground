@@ -1,0 +1,9 @@
+{
+	"id": "XcmXH7Wj2XuapDR",
+	"json": "{\"id\":\"XcmXH7Wj2XuapDR\",\"url\":\"https://doc.rust-lang.org/1.80.0/src/core/task/wake.rs.html#852\",\"loadedUrl\":\"https://doc.rust-lang.org/1.80.0/src/core/task/wake.rs.html#852\",\"uniqueKey\":\"https://doc.rust-lang.org/1.80.0/src/core/task/wake.rs.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:13:10.614Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/1.80.0/src/core/task/wake.rs.html",
+	"url": "https://doc.rust-lang.org/1.80.0/src/core/task/wake.rs.html#852"
+}

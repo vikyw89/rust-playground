@@ -1,0 +1,9 @@
+{
+	"id": "7FW7Lx1Mx52by5P",
+	"json": "{\"id\":\"7FW7Lx1Mx52by5P\",\"url\":\"https://doc.rust-lang.org/nightly/edition-guide/rust-2021/default-cargo-resolver.html\",\"uniqueKey\":\"https://doc.rust-lang.org/nightly/edition-guide/rust-2021/default-cargo-resolver.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722144031587,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/nightly/edition-guide/rust-2021/default-cargo-resolver.html",
+	"url": "https://doc.rust-lang.org/nightly/edition-guide/rust-2021/default-cargo-resolver.html"
+}

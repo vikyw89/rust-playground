@@ -1,0 +1,9 @@
+{
+	"id": "u2Uu52DhRiZ2yq9",
+	"json": "{\"id\":\"u2Uu52DhRiZ2yq9\",\"url\":\"https://doc.rust-lang.org/stable/std/keyword.while.html\",\"loadedUrl\":\"https://doc.rust-lang.org/stable/std/keyword.while.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/std/keyword.while.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:11:33.538Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/std/keyword.while.html",
+	"url": "https://doc.rust-lang.org/stable/std/keyword.while.html"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "GyYemLkIeQBzyr4",
+	"json": "{\"id\":\"GyYemLkIeQBzyr4\",\"url\":\"https://doc.rust-lang.org/stable/src/core/num/flt2dec/estimator.rs.html\",\"loadedUrl\":\"https://doc.rust-lang.org/stable/src/core/num/flt2dec/estimator.rs.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/src/core/num/flt2dec/estimator.rs.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:29:34.540Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/src/core/num/flt2dec/estimator.rs.html",
+	"url": "https://doc.rust-lang.org/stable/src/core/num/flt2dec/estimator.rs.html"
+}

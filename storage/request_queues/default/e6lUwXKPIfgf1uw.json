@@ -1,0 +1,9 @@
+{
+	"id": "e6lUwXKPIfgf1uw",
+	"json": "{\"id\":\"e6lUwXKPIfgf1uw\",\"url\":\"https://doc.rust-lang.org/stable/std/os/unix/fs/trait.MetadataExt.html\",\"loadedUrl\":\"https://doc.rust-lang.org/stable/std/os/unix/fs/trait.MetadataExt.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/std/os/unix/fs/trait.MetadataExt.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:26:25.939Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/std/os/unix/fs/trait.MetadataExt.html",
+	"url": "https://doc.rust-lang.org/stable/std/os/unix/fs/trait.MetadataExt.html"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "HG51Pve9igioMVG",
+	"json": "{\"id\":\"HG51Pve9igioMVG\",\"url\":\"https://doc.rust-lang.org/stable/unstable-book/library-features/stdio-makes-pipe.html\",\"loadedUrl\":\"https://doc.rust-lang.org/stable/unstable-book/library-features/stdio-makes-pipe.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/unstable-book/library-features/stdio-makes-pipe.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:19:34.634Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/unstable-book/library-features/stdio-makes-pipe.html",
+	"url": "https://doc.rust-lang.org/stable/unstable-book/library-features/stdio-makes-pipe.html"
+}

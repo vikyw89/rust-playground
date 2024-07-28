@@ -1,0 +1,9 @@
+{
+	"id": "kKjtwX0TXIBm0cV",
+	"json": "{\"id\":\"kKjtwX0TXIBm0cV\",\"url\":\"https://doc.rust-lang.org/stable/std/intrinsics/mir/enum.BasicBlock.html\",\"loadedUrl\":\"https://doc.rust-lang.org/stable/std/intrinsics/mir/enum.BasicBlock.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/std/intrinsics/mir/enum.BasicBlock.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:26:22.632Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/std/intrinsics/mir/enum.BasicBlock.html",
+	"url": "https://doc.rust-lang.org/stable/std/intrinsics/mir/enum.BasicBlock.html"
+}

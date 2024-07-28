@@ -1,0 +1,9 @@
+{
+	"id": "bTkz1hYCDQyud92",
+	"json": "{\"id\":\"bTkz1hYCDQyud92\",\"url\":\"https://doc.rust-lang.org/unstable-book/library-features/set-ptr-value.html\",\"uniqueKey\":\"https://doc.rust-lang.org/unstable-book/library-features/set-ptr-value.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722144037910,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/unstable-book/library-features/set-ptr-value.html",
+	"url": "https://doc.rust-lang.org/unstable-book/library-features/set-ptr-value.html"
+}

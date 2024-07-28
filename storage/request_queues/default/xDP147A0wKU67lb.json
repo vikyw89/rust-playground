@@ -1,0 +1,9 @@
+{
+	"id": "xDP147A0wKU67lb",
+	"json": "{\"id\":\"xDP147A0wKU67lb\",\"url\":\"https://doc.rust-lang.org/stable/unstable-book/library-features/const-ptr-write.html\",\"loadedUrl\":\"https://doc.rust-lang.org/stable/unstable-book/library-features/const-ptr-write.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/unstable-book/library-features/const-ptr-write.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:17:32.124Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/unstable-book/library-features/const-ptr-write.html",
+	"url": "https://doc.rust-lang.org/stable/unstable-book/library-features/const-ptr-write.html"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "8DcTs4Wob3a0B1E",
+	"json": "{\"id\":\"8DcTs4Wob3a0B1E\",\"url\":\"https://doc.rust-lang.org/stable/rust-by-example/custom_types/structs.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/rust-by-example/custom_types/structs.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722144356837,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/rust-by-example/custom_types/structs.html",
+	"url": "https://doc.rust-lang.org/stable/rust-by-example/custom_types/structs.html"
+}

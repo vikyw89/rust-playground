@@ -1,0 +1,9 @@
+{
+	"id": "b7PlvGUjkcaO6Bo",
+	"json": "{\"id\":\"b7PlvGUjkcaO6Bo\",\"url\":\"https://doc.rust-lang.org/stable/book/appendix-01-keywords.html\",\"loadedUrl\":\"https://doc.rust-lang.org/stable/book/appendix-01-keywords.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/book/appendix-01-keywords.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:08:35.489Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/book/appendix-01-keywords.html",
+	"url": "https://doc.rust-lang.org/stable/book/appendix-01-keywords.html"
+}

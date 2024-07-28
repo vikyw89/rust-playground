@@ -1,0 +1,9 @@
+{
+	"id": "M01Qt7Bg2Nuwtnb",
+	"json": "{\"id\":\"M01Qt7Bg2Nuwtnb\",\"url\":\"https://doc.rust-lang.org/stable/std/thread/fn.yield_now.html\",\"loadedUrl\":\"https://doc.rust-lang.org/stable/std/thread/fn.yield_now.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/std/thread/fn.yield_now.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:20:28.794Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/std/thread/fn.yield_now.html",
+	"url": "https://doc.rust-lang.org/stable/std/thread/fn.yield_now.html"
+}

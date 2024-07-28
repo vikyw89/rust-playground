@@ -1,0 +1,9 @@
+{
+	"id": "7cK0BlkiuqsKKfk",
+	"json": "{\"id\":\"7cK0BlkiuqsKKfk\",\"url\":\"https://doc.rust-lang.org/stable/unstable-book/language-features/freeze-impls.html\",\"loadedUrl\":\"https://doc.rust-lang.org/stable/unstable-book/language-features/freeze-impls.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/unstable-book/language-features/freeze-impls.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:15:45.958Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/unstable-book/language-features/freeze-impls.html",
+	"url": "https://doc.rust-lang.org/stable/unstable-book/language-features/freeze-impls.html"
+}

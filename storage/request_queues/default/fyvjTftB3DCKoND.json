@@ -1,0 +1,9 @@
+{
+	"id": "fyvjTftB3DCKoND",
+	"json": "{\"id\":\"fyvjTftB3DCKoND\",\"url\":\"https://doc.rust-lang.org/stable/core/ffi/struct.CStr.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/core/ffi/struct.CStr.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722143585757,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/core/ffi/struct.CStr.html",
+	"url": "https://doc.rust-lang.org/stable/core/ffi/struct.CStr.html"
+}

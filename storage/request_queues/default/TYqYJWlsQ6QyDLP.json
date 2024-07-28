@@ -1,0 +1,9 @@
+{
+	"id": "TYqYJWlsQ6QyDLP",
+	"json": "{\"id\":\"TYqYJWlsQ6QyDLP\",\"url\":\"https://doc.rust-lang.org/stable/core/arch/mips64/fn.break_.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/core/arch/mips64/fn.break_.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722144163687,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/core/arch/mips64/fn.break_.html",
+	"url": "https://doc.rust-lang.org/stable/core/arch/mips64/fn.break_.html"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "WFoh4gycNgjeg3j",
+	"json": "{\"id\":\"WFoh4gycNgjeg3j\",\"url\":\"https://doc.rust-lang.org/rustdoc/how-to-read-rustdoc.html\",\"uniqueKey\":\"https://doc.rust-lang.org/rustdoc/how-to-read-rustdoc.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722144035415,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/rustdoc/how-to-read-rustdoc.html",
+	"url": "https://doc.rust-lang.org/rustdoc/how-to-read-rustdoc.html"
+}

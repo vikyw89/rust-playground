@@ -1,0 +1,9 @@
+{
+	"id": "BD0VtvNq2E4tDeD",
+	"json": "{\"id\":\"BD0VtvNq2E4tDeD\",\"url\":\"https://doc.rust-lang.org/book/ch03-02-data-types.html\",\"uniqueKey\":\"https://doc.rust-lang.org/book/ch03-02-data-types.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722143685928,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/book/ch03-02-data-types.html",
+	"url": "https://doc.rust-lang.org/book/ch03-02-data-types.html"
+}

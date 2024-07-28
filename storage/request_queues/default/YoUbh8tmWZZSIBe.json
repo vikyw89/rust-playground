@@ -1,0 +1,9 @@
+{
+	"id": "YoUbh8tmWZZSIBe",
+	"json": "{\"id\":\"YoUbh8tmWZZSIBe\",\"url\":\"https://doc.rust-lang.org/book/ch14-00-more-about-cargo.html\",\"uniqueKey\":\"https://doc.rust-lang.org/book/ch14-00-more-about-cargo.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722143685966,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/book/ch14-00-more-about-cargo.html",
+	"url": "https://doc.rust-lang.org/book/ch14-00-more-about-cargo.html"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "pN0US8Ri4eXw06b",
+	"json": "{\"id\":\"pN0US8Ri4eXw06b\",\"url\":\"https://doc.rust-lang.org/stable/core/arch/x86/constant._XABORT_DEBUG.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/core/arch/x86/constant._XABORT_DEBUG.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722144164155,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/core/arch/x86/constant._XABORT_DEBUG.html",
+	"url": "https://doc.rust-lang.org/stable/core/arch/x86/constant._XABORT_DEBUG.html"
+}

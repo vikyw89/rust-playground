@@ -1,0 +1,9 @@
+{
+	"id": "e1KjUhVj55wKBHQ",
+	"json": "{\"id\":\"e1KjUhVj55wKBHQ\",\"url\":\"https://doc.rust-lang.org/stable/std/iter/struct.Successors.html\",\"loadedUrl\":\"https://doc.rust-lang.org/stable/std/iter/struct.Successors.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/std/iter/struct.Successors.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:23:51.887Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/std/iter/struct.Successors.html",
+	"url": "https://doc.rust-lang.org/stable/std/iter/struct.Successors.html"
+}

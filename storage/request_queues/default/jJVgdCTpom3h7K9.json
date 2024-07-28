@@ -1,0 +1,9 @@
+{
+	"id": "jJVgdCTpom3h7K9",
+	"json": "{\"id\":\"jJVgdCTpom3h7K9\",\"url\":\"https://doc.rust-lang.org/stable/book/ch03-00-common-programming-concepts.html\",\"loadedUrl\":\"https://doc.rust-lang.org/stable/book/ch03-00-common-programming-concepts.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/book/ch03-00-common-programming-concepts.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:08:12.504Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/book/ch03-00-common-programming-concepts.html",
+	"url": "https://doc.rust-lang.org/stable/book/ch03-00-common-programming-concepts.html"
+}

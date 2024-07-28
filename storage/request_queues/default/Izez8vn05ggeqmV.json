@@ -1,0 +1,9 @@
+{
+	"id": "Izez8vn05ggeqmV",
+	"json": "{\"id\":\"Izez8vn05ggeqmV\",\"url\":\"https://doc.rust-lang.org/stable/src/core/portable-simd/crates/core_simd/src/simd/num/int.rs.html\",\"loadedUrl\":\"https://doc.rust-lang.org/stable/src/core/portable-simd/crates/core_simd/src/simd/num/int.rs.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/src/core/portable-simd/crates/core_simd/src/simd/num/int.rs.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:29:53.097Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/src/core/portable-simd/crates/core_simd/src/simd/num/int.rs.html",
+	"url": "https://doc.rust-lang.org/stable/src/core/portable-simd/crates/core_simd/src/simd/num/int.rs.html"
+}

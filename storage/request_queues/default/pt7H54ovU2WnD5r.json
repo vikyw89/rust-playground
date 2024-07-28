@@ -1,0 +1,9 @@
+{
+	"id": "pt7H54ovU2WnD5r",
+	"json": "{\"id\":\"pt7H54ovU2WnD5r\",\"url\":\"https://doc.rust-lang.org/rust-by-example/std_misc/ffi.html\",\"uniqueKey\":\"https://doc.rust-lang.org/rust-by-example/std_misc/ffi.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722144351297,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/rust-by-example/std_misc/ffi.html",
+	"url": "https://doc.rust-lang.org/rust-by-example/std_misc/ffi.html"
+}

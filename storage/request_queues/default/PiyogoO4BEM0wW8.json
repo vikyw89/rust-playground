@@ -1,0 +1,9 @@
+{
+	"id": "PiyogoO4BEM0wW8",
+	"json": "{\"id\":\"PiyogoO4BEM0wW8\",\"url\":\"https://doc.rust-lang.org/stable/core/arch/aarch64/fn.vpminq_s8.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/core/arch/aarch64/fn.vpminq_s8.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722144166462,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/core/arch/aarch64/fn.vpminq_s8.html",
+	"url": "https://doc.rust-lang.org/stable/core/arch/aarch64/fn.vpminq_s8.html"
+}

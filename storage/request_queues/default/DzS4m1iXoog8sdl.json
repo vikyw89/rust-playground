@@ -1,0 +1,9 @@
+{
+	"id": "DzS4m1iXoog8sdl",
+	"json": "{\"id\":\"DzS4m1iXoog8sdl\",\"url\":\"https://doc.rust-lang.org/book/ch18-03-pattern-syntax.html\",\"uniqueKey\":\"https://doc.rust-lang.org/book/ch18-03-pattern-syntax.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722143685974,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/book/ch18-03-pattern-syntax.html",
+	"url": "https://doc.rust-lang.org/book/ch18-03-pattern-syntax.html"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "EiheiNN7HaBiSKu",
+	"json": "{\"id\":\"EiheiNN7HaBiSKu\",\"url\":\"https://doc.rust-lang.org/std/iter/struct.Fuse.html\",\"uniqueKey\":\"https://doc.rust-lang.org/std/iter/struct.Fuse.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722144044437,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/std/iter/struct.Fuse.html",
+	"url": "https://doc.rust-lang.org/std/iter/struct.Fuse.html"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "CuTrwvt0JQYgFi5",
+	"json": "{\"id\":\"CuTrwvt0JQYgFi5\",\"url\":\"https://doc.rust-lang.org/nightly/nightly-rustc/rustc_pattern_analysis/index.html\",\"uniqueKey\":\"https://doc.rust-lang.org/nightly/nightly-rustc/rustc_pattern_analysis/index.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722144045649,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/nightly/nightly-rustc/rustc_pattern_analysis/index.html",
+	"url": "https://doc.rust-lang.org/nightly/nightly-rustc/rustc_pattern_analysis/index.html"
+}

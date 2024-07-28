@@ -1,0 +1,9 @@
+{
+	"id": "zKxZHjq1hrDjYVe",
+	"json": "{\"id\":\"zKxZHjq1hrDjYVe\",\"url\":\"https://doc.rust-lang.org/stable/core/arch/x86_64/constant._CMP_EQ_US.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/core/arch/x86_64/constant._CMP_EQ_US.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722144163951,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/core/arch/x86_64/constant._CMP_EQ_US.html",
+	"url": "https://doc.rust-lang.org/stable/core/arch/x86_64/constant._CMP_EQ_US.html"
+}

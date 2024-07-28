@@ -1,0 +1,9 @@
+{
+	"id": "n3uoCgb4izk80Qn",
+	"json": "{\"id\":\"n3uoCgb4izk80Qn\",\"url\":\"https://doc.rust-lang.org/stable/std/collections/struct.HashSet.html\",\"loadedUrl\":\"https://doc.rust-lang.org/stable/std/collections/struct.HashSet.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/std/collections/struct.HashSet.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:14:01.379Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/std/collections/struct.HashSet.html",
+	"url": "https://doc.rust-lang.org/stable/std/collections/struct.HashSet.html"
+}

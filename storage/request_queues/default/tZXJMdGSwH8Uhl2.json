@@ -1,0 +1,9 @@
+{
+	"id": "tZXJMdGSwH8Uhl2",
+	"json": "{\"id\":\"tZXJMdGSwH8Uhl2\",\"url\":\"https://doc.rust-lang.org/stable/std/intrinsics/fn.pref_align_of.html\",\"loadedUrl\":\"https://doc.rust-lang.org/stable/std/intrinsics/fn.pref_align_of.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/std/intrinsics/fn.pref_align_of.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:23:40.864Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/std/intrinsics/fn.pref_align_of.html",
+	"url": "https://doc.rust-lang.org/stable/std/intrinsics/fn.pref_align_of.html"
+}

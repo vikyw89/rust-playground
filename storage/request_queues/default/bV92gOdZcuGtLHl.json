@@ -1,0 +1,9 @@
+{
+	"id": "bV92gOdZcuGtLHl",
+	"json": "{\"id\":\"bV92gOdZcuGtLHl\",\"url\":\"https://doc.rust-lang.org/stable/core/arch/mips/index.html\",\"loadedUrl\":\"https://doc.rust-lang.org/stable/core/arch/mips/index.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/core/arch/mips/index.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:22:43.704Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/core/arch/mips/index.html",
+	"url": "https://doc.rust-lang.org/stable/core/arch/mips/index.html"
+}

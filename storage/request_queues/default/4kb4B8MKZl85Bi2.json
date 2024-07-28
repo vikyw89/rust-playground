@@ -1,0 +1,9 @@
+{
+	"id": "4kb4B8MKZl85Bi2",
+	"json": "{\"id\":\"4kb4B8MKZl85Bi2\",\"url\":\"https://doc.rust-lang.org/stable/src/core/fmt/builders.rs.html\",\"loadedUrl\":\"https://doc.rust-lang.org/stable/src/core/fmt/builders.rs.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/src/core/fmt/builders.rs.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:29:06.994Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/src/core/fmt/builders.rs.html",
+	"url": "https://doc.rust-lang.org/stable/src/core/fmt/builders.rs.html"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "9dHPyeZDfIMusjl",
+	"json": "{\"id\":\"9dHPyeZDfIMusjl\",\"url\":\"https://doc.rust-lang.org/std/arch/macro.is_x86_feature_detected.html\",\"uniqueKey\":\"https://doc.rust-lang.org/std/arch/macro.is_x86_feature_detected.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722144046581,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/std/arch/macro.is_x86_feature_detected.html",
+	"url": "https://doc.rust-lang.org/std/arch/macro.is_x86_feature_detected.html"
+}

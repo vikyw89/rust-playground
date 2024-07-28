@@ -1,0 +1,9 @@
+{
+	"id": "zq5r6MZnqar7k2z",
+	"json": "{\"id\":\"zq5r6MZnqar7k2z\",\"url\":\"https://doc.rust-lang.org/stable/rustc/lints/listing/allowed-by-default.html#unsafe-op-in-unsafe-fn\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/rustc/lints/listing/allowed-by-default.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722143616938,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/rustc/lints/listing/allowed-by-default.html",
+	"url": "https://doc.rust-lang.org/stable/rustc/lints/listing/allowed-by-default.html#unsafe-op-in-unsafe-fn"
+}

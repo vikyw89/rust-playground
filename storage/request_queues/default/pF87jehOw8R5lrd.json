@@ -1,0 +1,9 @@
+{
+	"id": "pF87jehOw8R5lrd",
+	"json": "{\"id\":\"pF87jehOw8R5lrd\",\"url\":\"https://doc.rust-lang.org/rust-by-example/flow_control/match/destructuring/destructure_tuple.html\",\"uniqueKey\":\"https://doc.rust-lang.org/rust-by-example/flow_control/match/destructuring/destructure_tuple.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722144351157,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/rust-by-example/flow_control/match/destructuring/destructure_tuple.html",
+	"url": "https://doc.rust-lang.org/rust-by-example/flow_control/match/destructuring/destructure_tuple.html"
+}

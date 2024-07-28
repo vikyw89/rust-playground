@@ -1,0 +1,9 @@
+{
+	"id": "KIfmlmxO2dTyZbC",
+	"json": "{\"id\":\"KIfmlmxO2dTyZbC\",\"url\":\"https://doc.rust-lang.org/stable/unstable-book/language-features/deprecated-safe.html\",\"loadedUrl\":\"https://doc.rust-lang.org/stable/unstable-book/language-features/deprecated-safe.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/unstable-book/language-features/deprecated-safe.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:15:32.998Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/unstable-book/language-features/deprecated-safe.html",
+	"url": "https://doc.rust-lang.org/stable/unstable-book/language-features/deprecated-safe.html"
+}

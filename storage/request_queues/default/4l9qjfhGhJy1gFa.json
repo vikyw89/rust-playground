@@ -1,0 +1,9 @@
+{
+	"id": "4l9qjfhGhJy1gFa",
+	"json": "{\"id\":\"4l9qjfhGhJy1gFa\",\"url\":\"https://doc.rust-lang.org/nomicon/checked-uninit.html\",\"uniqueKey\":\"https://doc.rust-lang.org/nomicon/checked-uninit.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722144041610,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/nomicon/checked-uninit.html",
+	"url": "https://doc.rust-lang.org/nomicon/checked-uninit.html"
+}

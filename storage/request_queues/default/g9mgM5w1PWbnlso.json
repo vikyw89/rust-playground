@@ -1,0 +1,9 @@
+{
+	"id": "g9mgM5w1PWbnlso",
+	"json": "{\"id\":\"g9mgM5w1PWbnlso\",\"url\":\"https://doc.rust-lang.org/stable/std/sync/mpsc/enum.RecvTimeoutError.html\",\"loadedUrl\":\"https://doc.rust-lang.org/stable/std/sync/mpsc/enum.RecvTimeoutError.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/std/sync/mpsc/enum.RecvTimeoutError.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:26:22.946Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/std/sync/mpsc/enum.RecvTimeoutError.html",
+	"url": "https://doc.rust-lang.org/stable/std/sync/mpsc/enum.RecvTimeoutError.html"
+}

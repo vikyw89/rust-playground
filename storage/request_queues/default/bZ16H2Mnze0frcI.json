@@ -1,0 +1,9 @@
+{
+	"id": "bZ16H2Mnze0frcI",
+	"json": "{\"id\":\"bZ16H2Mnze0frcI\",\"url\":\"https://doc.rust-lang.org/stable/core/arch/x86_64/fn._mm_maskz_max_sd.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/core/arch/x86_64/fn._mm_maskz_max_sd.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722144170396,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/core/arch/x86_64/fn._mm_maskz_max_sd.html",
+	"url": "https://doc.rust-lang.org/stable/core/arch/x86_64/fn._mm_maskz_max_sd.html"
+}

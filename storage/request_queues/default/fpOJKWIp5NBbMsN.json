@@ -1,0 +1,9 @@
+{
+	"id": "fpOJKWIp5NBbMsN",
+	"json": "{\"id\":\"fpOJKWIp5NBbMsN\",\"url\":\"https://doc.rust-lang.org/stable/cargo/guide/why-cargo-exists.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/cargo/guide/why-cargo-exists.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722143682306,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/cargo/guide/why-cargo-exists.html",
+	"url": "https://doc.rust-lang.org/stable/cargo/guide/why-cargo-exists.html"
+}

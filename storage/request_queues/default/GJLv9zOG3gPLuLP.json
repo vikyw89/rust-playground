@@ -1,0 +1,9 @@
+{
+	"id": "GJLv9zOG3gPLuLP",
+	"json": "{\"id\":\"GJLv9zOG3gPLuLP\",\"url\":\"https://doc.rust-lang.org/std/sync/struct.Arc.html\",\"uniqueKey\":\"https://doc.rust-lang.org/std/sync/struct.Arc.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722144044434,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/std/sync/struct.Arc.html",
+	"url": "https://doc.rust-lang.org/std/sync/struct.Arc.html"
+}

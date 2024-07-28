@@ -1,0 +1,9 @@
+{
+	"id": "AVzFUNakSKCG1yw",
+	"json": "{\"id\":\"AVzFUNakSKCG1yw\",\"url\":\"https://doc.rust-lang.org/stable/std/thread/struct.ScopedJoinHandle.html\",\"loadedUrl\":\"https://doc.rust-lang.org/stable/std/thread/struct.ScopedJoinHandle.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/std/thread/struct.ScopedJoinHandle.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:20:26.581Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/std/thread/struct.ScopedJoinHandle.html",
+	"url": "https://doc.rust-lang.org/stable/std/thread/struct.ScopedJoinHandle.html"
+}

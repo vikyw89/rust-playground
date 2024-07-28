@@ -1,0 +1,9 @@
+{
+	"id": "l5moBN2j2N8REYT",
+	"json": "{\"id\":\"l5moBN2j2N8REYT\",\"url\":\"https://doc.rust-lang.org/stable/core/arch/x86_64/fn._mm512_reduce_add_ps.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/core/arch/x86_64/fn._mm512_reduce_add_ps.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722144168440,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/core/arch/x86_64/fn._mm512_reduce_add_ps.html",
+	"url": "https://doc.rust-lang.org/stable/core/arch/x86_64/fn._mm512_reduce_add_ps.html"
+}

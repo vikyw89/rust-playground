@@ -1,0 +1,9 @@
+{
+	"id": "C8F9Qa8QYLA8vcF",
+	"json": "{\"id\":\"C8F9Qa8QYLA8vcF\",\"url\":\"https://doc.rust-lang.org/stable/book/\",\"loadedUrl\":\"https://doc.rust-lang.org/stable/book/\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/book\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"state\":4}},\"handledAt\":\"2024-07-28T05:08:09.617Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/book",
+	"url": "https://doc.rust-lang.org/stable/book/"
+}

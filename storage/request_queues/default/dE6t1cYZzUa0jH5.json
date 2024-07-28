@@ -1,0 +1,9 @@
+{
+	"id": "dE6t1cYZzUa0jH5",
+	"json": "{\"id\":\"dE6t1cYZzUa0jH5\",\"url\":\"https://doc.rust-lang.org/stable/src/core/iter/adapters/chain.rs.html\",\"loadedUrl\":\"https://doc.rust-lang.org/stable/src/core/iter/adapters/chain.rs.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/src/core/iter/adapters/chain.rs.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:29:11.480Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/src/core/iter/adapters/chain.rs.html",
+	"url": "https://doc.rust-lang.org/stable/src/core/iter/adapters/chain.rs.html"
+}

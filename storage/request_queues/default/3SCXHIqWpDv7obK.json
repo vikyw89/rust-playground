@@ -1,0 +1,9 @@
+{
+	"id": "3SCXHIqWpDv7obK",
+	"json": "{\"id\":\"3SCXHIqWpDv7obK\",\"url\":\"https://doc.rust-lang.org/stable/unstable-book/language-features/unsafe-extern-blocks.html\",\"loadedUrl\":\"https://doc.rust-lang.org/stable/unstable-book/language-features/unsafe-extern-blocks.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/unstable-book/language-features/unsafe-extern-blocks.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:16:32.170Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/unstable-book/language-features/unsafe-extern-blocks.html",
+	"url": "https://doc.rust-lang.org/stable/unstable-book/language-features/unsafe-extern-blocks.html"
+}

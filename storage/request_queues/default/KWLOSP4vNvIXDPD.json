@@ -1,0 +1,9 @@
+{
+	"id": "KWLOSP4vNvIXDPD",
+	"json": "{\"id\":\"KWLOSP4vNvIXDPD\",\"url\":\"https://doc.rust-lang.org/book/ch15-00-smart-pointers.html\",\"uniqueKey\":\"https://doc.rust-lang.org/book/ch15-00-smart-pointers.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722143685968,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/book/ch15-00-smart-pointers.html",
+	"url": "https://doc.rust-lang.org/book/ch15-00-smart-pointers.html"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "NGjb2KtSWUDYTgy",
+	"json": "{\"id\":\"NGjb2KtSWUDYTgy\",\"url\":\"https://doc.rust-lang.org/stable/src/std/thread/scoped.rs.html#204-263\",\"loadedUrl\":\"https://doc.rust-lang.org/stable/src/std/thread/scoped.rs.html#204-263\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/src/std/thread/scoped.rs.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:20:28.840Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/src/std/thread/scoped.rs.html",
+	"url": "https://doc.rust-lang.org/stable/src/std/thread/scoped.rs.html#204-263"
+}

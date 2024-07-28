@@ -1,0 +1,9 @@
+{
+	"id": "mH4akRZzT5yIHEe",
+	"json": "{\"id\":\"mH4akRZzT5yIHEe\",\"url\":\"https://doc.rust-lang.org/rustc/platform-support/armv8r-none-eabihf.html\",\"uniqueKey\":\"https://doc.rust-lang.org/rustc/platform-support/armv8r-none-eabihf.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722143681575,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/rustc/platform-support/armv8r-none-eabihf.html",
+	"url": "https://doc.rust-lang.org/rustc/platform-support/armv8r-none-eabihf.html"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "Pep1z0WAqFsdYt3",
+	"json": "{\"id\":\"Pep1z0WAqFsdYt3\",\"url\":\"https://doc.rust-lang.org/stable/edition-guide/rust-2021/warnings-promoted-to-error.html\",\"loadedUrl\":\"https://doc.rust-lang.org/stable/edition-guide/rust-2021/warnings-promoted-to-error.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/edition-guide/rust-2021/warnings-promoted-to-error.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:20:31.887Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/edition-guide/rust-2021/warnings-promoted-to-error.html",
+	"url": "https://doc.rust-lang.org/stable/edition-guide/rust-2021/warnings-promoted-to-error.html"
+}

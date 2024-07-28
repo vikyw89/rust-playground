@@ -1,0 +1,9 @@
+{
+	"id": "OPoLdSmmfnRg9Fd",
+	"json": "{\"id\":\"OPoLdSmmfnRg9Fd\",\"url\":\"https://doc.rust-lang.org/stable/unstable-book/library-features/const-ipv4.html\",\"loadedUrl\":\"https://doc.rust-lang.org/stable/unstable-book/library-features/const-ipv4.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/unstable-book/library-features/const-ipv4.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:17:21.925Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/unstable-book/library-features/const-ipv4.html",
+	"url": "https://doc.rust-lang.org/stable/unstable-book/library-features/const-ipv4.html"
+}

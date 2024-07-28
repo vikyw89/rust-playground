@@ -1,0 +1,9 @@
+{
+	"id": "kEY5fKutVo1yljo",
+	"json": "{\"id\":\"kEY5fKutVo1yljo\",\"url\":\"https://doc.rust-lang.org/std/ascii/enum.Char.html\",\"uniqueKey\":\"https://doc.rust-lang.org/std/ascii/enum.Char.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722144035512,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/std/ascii/enum.Char.html",
+	"url": "https://doc.rust-lang.org/std/ascii/enum.Char.html"
+}

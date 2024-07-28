@@ -1,0 +1,9 @@
+{
+	"id": "fR8ByXra99NSKcx",
+	"json": "{\"id\":\"fR8ByXra99NSKcx\",\"url\":\"https://doc.rust-lang.org/stable/core/arch/x86/fn._mm256_and_ps.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/core/arch/x86/fn._mm256_and_ps.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722144164182,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/core/arch/x86/fn._mm256_and_ps.html",
+	"url": "https://doc.rust-lang.org/stable/core/arch/x86/fn._mm256_and_ps.html"
+}

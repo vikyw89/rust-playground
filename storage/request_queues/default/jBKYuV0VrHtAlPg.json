@@ -1,0 +1,9 @@
+{
+	"id": "jBKYuV0VrHtAlPg",
+	"json": "{\"id\":\"jBKYuV0VrHtAlPg\",\"url\":\"https://doc.rust-lang.org/edition-guide/rust-2024/index.html\",\"uniqueKey\":\"https://doc.rust-lang.org/edition-guide/rust-2024/index.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722144036146,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/edition-guide/rust-2024/index.html",
+	"url": "https://doc.rust-lang.org/edition-guide/rust-2024/index.html"
+}

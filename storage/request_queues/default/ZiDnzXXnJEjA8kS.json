@@ -1,0 +1,9 @@
+{
+	"id": "ZiDnzXXnJEjA8kS",
+	"json": "{\"id\":\"ZiDnzXXnJEjA8kS\",\"url\":\"https://doc.rust-lang.org/reference/glossary.html\",\"uniqueKey\":\"https://doc.rust-lang.org/reference/glossary.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722143556350,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/reference/glossary.html",
+	"url": "https://doc.rust-lang.org/reference/glossary.html"
+}

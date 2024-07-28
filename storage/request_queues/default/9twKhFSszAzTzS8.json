@@ -1,0 +1,9 @@
+{
+	"id": "9twKhFSszAzTzS8",
+	"json": "{\"id\":\"9twKhFSszAzTzS8\",\"url\":\"https://doc.rust-lang.org/nomicon/arc-mutex/arc-final.html\",\"uniqueKey\":\"https://doc.rust-lang.org/nomicon/arc-mutex/arc-final.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722144041618,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/nomicon/arc-mutex/arc-final.html",
+	"url": "https://doc.rust-lang.org/nomicon/arc-mutex/arc-final.html"
+}

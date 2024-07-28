@@ -1,0 +1,9 @@
+{
+	"id": "OH1T7yi7Txa9HBY",
+	"json": "{\"id\":\"OH1T7yi7Txa9HBY\",\"url\":\"https://doc.rust-lang.org/stable/test/bench/struct.Bencher.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/test/bench/struct.Bencher.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722143499052,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/test/bench/struct.Bencher.html",
+	"url": "https://doc.rust-lang.org/stable/test/bench/struct.Bencher.html"
+}

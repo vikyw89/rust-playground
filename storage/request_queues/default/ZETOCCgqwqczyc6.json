@@ -1,0 +1,9 @@
+{
+	"id": "ZETOCCgqwqczyc6",
+	"json": "{\"id\":\"ZETOCCgqwqczyc6\",\"url\":\"https://doc.rust-lang.org/stable/std/cell/struct.Ref.html\",\"loadedUrl\":\"https://doc.rust-lang.org/stable/std/cell/struct.Ref.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/std/cell/struct.Ref.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:22:50.578Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/std/cell/struct.Ref.html",
+	"url": "https://doc.rust-lang.org/stable/std/cell/struct.Ref.html"
+}

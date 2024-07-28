@@ -1,0 +1,9 @@
+{
+	"id": "ovSWnZi40iwEz2Q",
+	"json": "{\"id\":\"ovSWnZi40iwEz2Q\",\"url\":\"https://doc.rust-lang.org/stable/core/arch/powerpc64/fn.vec_sldw.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/core/arch/powerpc64/fn.vec_sldw.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722144165103,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/core/arch/powerpc64/fn.vec_sldw.html",
+	"url": "https://doc.rust-lang.org/stable/core/arch/powerpc64/fn.vec_sldw.html"
+}

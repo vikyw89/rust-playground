@@ -1,0 +1,9 @@
+{
+	"id": "nZOmwxp92ROume3",
+	"json": "{\"id\":\"nZOmwxp92ROume3\",\"url\":\"https://doc.rust-lang.org/stable/std/net/struct.Incoming.html\",\"loadedUrl\":\"https://doc.rust-lang.org/stable/std/net/struct.Incoming.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/std/net/struct.Incoming.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:14:00.847Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/std/net/struct.Incoming.html",
+	"url": "https://doc.rust-lang.org/stable/std/net/struct.Incoming.html"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "b63vuDHY7WBTtAU",
+	"json": "{\"id\":\"b63vuDHY7WBTtAU\",\"url\":\"https://doc.rust-lang.org/stable/std/os/wasi/fs/trait.FileTypeExt.html\",\"loadedUrl\":\"https://doc.rust-lang.org/stable/std/os/wasi/fs/trait.FileTypeExt.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/std/os/wasi/fs/trait.FileTypeExt.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:26:27.918Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/std/os/wasi/fs/trait.FileTypeExt.html",
+	"url": "https://doc.rust-lang.org/stable/std/os/wasi/fs/trait.FileTypeExt.html"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "vfcr5xd22Two27i",
+	"json": "{\"id\":\"vfcr5xd22Two27i\",\"url\":\"https://doc.rust-lang.org/stable/reference/lifetime-elision.html\",\"loadedUrl\":\"https://doc.rust-lang.org/stable/reference/lifetime-elision.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/reference/lifetime-elision.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:13:31.421Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/reference/lifetime-elision.html",
+	"url": "https://doc.rust-lang.org/stable/reference/lifetime-elision.html"
+}

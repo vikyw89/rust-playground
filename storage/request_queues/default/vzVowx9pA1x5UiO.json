@@ -1,0 +1,9 @@
+{
+	"id": "vzVowx9pA1x5UiO",
+	"json": "{\"id\":\"vzVowx9pA1x5UiO\",\"url\":\"https://doc.rust-lang.org/1.80.0/src/std/sync/lazy_lock.rs.html\",\"uniqueKey\":\"https://doc.rust-lang.org/1.80.0/src/std/sync/lazy_lock.rs.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722143512339,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/1.80.0/src/std/sync/lazy_lock.rs.html",
+	"url": "https://doc.rust-lang.org/1.80.0/src/std/sync/lazy_lock.rs.html"
+}

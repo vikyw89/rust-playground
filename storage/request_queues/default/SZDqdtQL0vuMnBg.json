@@ -1,0 +1,9 @@
+{
+	"id": "SZDqdtQL0vuMnBg",
+	"json": "{\"id\":\"SZDqdtQL0vuMnBg\",\"url\":\"https://doc.rust-lang.org/unstable-book/language-features/pattern-complexity.html\",\"uniqueKey\":\"https://doc.rust-lang.org/unstable-book/language-features/pattern-complexity.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722144037666,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/unstable-book/language-features/pattern-complexity.html",
+	"url": "https://doc.rust-lang.org/unstable-book/language-features/pattern-complexity.html"
+}

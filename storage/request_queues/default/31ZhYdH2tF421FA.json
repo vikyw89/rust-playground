@@ -1,0 +1,9 @@
+{
+	"id": "31ZhYdH2tF421FA",
+	"json": "{\"id\":\"31ZhYdH2tF421FA\",\"url\":\"https://doc.rust-lang.org/stable/core/arch/x86_64/fn._mm256_broadcast_pd.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/core/arch/x86_64/fn._mm256_broadcast_pd.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722144164202,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/core/arch/x86_64/fn._mm256_broadcast_pd.html",
+	"url": "https://doc.rust-lang.org/stable/core/arch/x86_64/fn._mm256_broadcast_pd.html"
+}

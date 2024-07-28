@@ -1,0 +1,9 @@
+{
+	"id": "3Asou2d0ioBJpPe",
+	"json": "{\"id\":\"3Asou2d0ioBJpPe\",\"url\":\"https://doc.rust-lang.org/stable/std/intrinsics/fn.aggregate_raw_ptr.html\",\"loadedUrl\":\"https://doc.rust-lang.org/stable/std/intrinsics/fn.aggregate_raw_ptr.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/std/intrinsics/fn.aggregate_raw_ptr.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:23:20.301Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/std/intrinsics/fn.aggregate_raw_ptr.html",
+	"url": "https://doc.rust-lang.org/stable/std/intrinsics/fn.aggregate_raw_ptr.html"
+}

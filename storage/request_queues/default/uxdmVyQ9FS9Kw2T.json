@@ -1,0 +1,9 @@
+{
+	"id": "uxdmVyQ9FS9Kw2T",
+	"json": "{\"id\":\"uxdmVyQ9FS9Kw2T\",\"url\":\"https://doc.rust-lang.org/stable/core/arch/x86_64/fn._mm_maskz_cvtepi32_pd.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/core/arch/x86_64/fn._mm_maskz_cvtepi32_pd.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722144170344,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/core/arch/x86_64/fn._mm_maskz_cvtepi32_pd.html",
+	"url": "https://doc.rust-lang.org/stable/core/arch/x86_64/fn._mm_maskz_cvtepi32_pd.html"
+}

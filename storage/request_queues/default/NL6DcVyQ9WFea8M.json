@@ -1,0 +1,9 @@
+{
+	"id": "NL6DcVyQ9WFea8M",
+	"json": "{\"id\":\"NL6DcVyQ9WFea8M\",\"url\":\"https://doc.rust-lang.org/1.80.0/src/alloc/collections/binary_heap/mod.rs.html#1723\",\"loadedUrl\":\"https://doc.rust-lang.org/1.80.0/src/alloc/collections/binary_heap/mod.rs.html#1723\",\"uniqueKey\":\"https://doc.rust-lang.org/1.80.0/src/alloc/collections/binary_heap/mod.rs.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:13:13.560Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/1.80.0/src/alloc/collections/binary_heap/mod.rs.html",
+	"url": "https://doc.rust-lang.org/1.80.0/src/alloc/collections/binary_heap/mod.rs.html#1723"
+}

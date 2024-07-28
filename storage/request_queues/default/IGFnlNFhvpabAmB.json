@@ -1,0 +1,9 @@
+{
+	"id": "IGFnlNFhvpabAmB",
+	"json": "{\"id\":\"IGFnlNFhvpabAmB\",\"url\":\"https://doc.rust-lang.org/nightly/nightly-rustc/rustdoc_json_types/struct.Header.html\",\"uniqueKey\":\"https://doc.rust-lang.org/nightly/nightly-rustc/rustdoc_json_types/struct.Header.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722144045678,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/nightly/nightly-rustc/rustdoc_json_types/struct.Header.html",
+	"url": "https://doc.rust-lang.org/nightly/nightly-rustc/rustdoc_json_types/struct.Header.html"
+}

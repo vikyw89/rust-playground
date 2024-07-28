@@ -1,0 +1,9 @@
+{
+	"id": "yVcDhm5TJWErX27",
+	"json": "{\"id\":\"yVcDhm5TJWErX27\",\"url\":\"https://doc.rust-lang.org/std/sync/struct.Weak.html\",\"uniqueKey\":\"https://doc.rust-lang.org/std/sync/struct.Weak.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722144044446,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/std/sync/struct.Weak.html",
+	"url": "https://doc.rust-lang.org/std/sync/struct.Weak.html"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "kfkwW7DS0Yui7SE",
+	"json": "{\"id\":\"kfkwW7DS0Yui7SE\",\"url\":\"https://doc.rust-lang.org/stable/std/task/struct.RawWaker.html\",\"loadedUrl\":\"https://doc.rust-lang.org/stable/std/task/struct.RawWaker.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/std/task/struct.RawWaker.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:25:47.773Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/std/task/struct.RawWaker.html",
+	"url": "https://doc.rust-lang.org/stable/std/task/struct.RawWaker.html"
+}

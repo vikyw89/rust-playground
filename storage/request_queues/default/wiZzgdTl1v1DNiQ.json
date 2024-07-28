@@ -1,0 +1,9 @@
+{
+	"id": "wiZzgdTl1v1DNiQ",
+	"json": "{\"id\":\"wiZzgdTl1v1DNiQ\",\"url\":\"https://doc.rust-lang.org/stable/std/net/enum.Ipv6MulticastScope.html\",\"loadedUrl\":\"https://doc.rust-lang.org/stable/std/net/enum.Ipv6MulticastScope.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/std/net/enum.Ipv6MulticastScope.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:14:02.544Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/std/net/enum.Ipv6MulticastScope.html",
+	"url": "https://doc.rust-lang.org/stable/std/net/enum.Ipv6MulticastScope.html"
+}

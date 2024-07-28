@@ -1,0 +1,9 @@
+{
+	"id": "0GgWYOY9GUwzlwI",
+	"json": "{\"id\":\"0GgWYOY9GUwzlwI\",\"url\":\"https://doc.rust-lang.org/stable/std/iter/struct.Map.html\",\"loadedUrl\":\"https://doc.rust-lang.org/stable/std/iter/struct.Map.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/std/iter/struct.Map.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:21:46.772Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/std/iter/struct.Map.html",
+	"url": "https://doc.rust-lang.org/stable/std/iter/struct.Map.html"
+}

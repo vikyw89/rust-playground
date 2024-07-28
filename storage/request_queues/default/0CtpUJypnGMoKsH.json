@@ -1,0 +1,9 @@
+{
+	"id": "0CtpUJypnGMoKsH",
+	"json": "{\"id\":\"0CtpUJypnGMoKsH\",\"url\":\"https://doc.rust-lang.org/nightly/cargo/commands/cargo-pkgid.html\",\"uniqueKey\":\"https://doc.rust-lang.org/nightly/cargo/commands/cargo-pkgid.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722144045621,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/nightly/cargo/commands/cargo-pkgid.html",
+	"url": "https://doc.rust-lang.org/nightly/cargo/commands/cargo-pkgid.html"
+}

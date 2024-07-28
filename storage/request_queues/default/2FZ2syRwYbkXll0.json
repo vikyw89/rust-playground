@@ -1,0 +1,9 @@
+{
+	"id": "2FZ2syRwYbkXll0",
+	"json": "{\"id\":\"2FZ2syRwYbkXll0\",\"url\":\"https://doc.rust-lang.org/stable/unstable-book/library-features/duration-consts-float.html\",\"loadedUrl\":\"https://doc.rust-lang.org/stable/unstable-book/library-features/duration-consts-float.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/unstable-book/library-features/duration-consts-float.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:17:58.360Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/unstable-book/library-features/duration-consts-float.html",
+	"url": "https://doc.rust-lang.org/stable/unstable-book/library-features/duration-consts-float.html"
+}

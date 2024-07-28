@@ -1,0 +1,9 @@
+{
+	"id": "5oXzi6QSrrY6X2e",
+	"json": "{\"id\":\"5oXzi6QSrrY6X2e\",\"url\":\"https://doc.rust-lang.org/std/slice/struct.Iter.html\",\"uniqueKey\":\"https://doc.rust-lang.org/std/slice/struct.Iter.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722144044444,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/std/slice/struct.Iter.html",
+	"url": "https://doc.rust-lang.org/std/slice/struct.Iter.html"
+}

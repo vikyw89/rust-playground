@@ -1,0 +1,9 @@
+{
+	"id": "masdW8AFiEq5mZi",
+	"json": "{\"id\":\"masdW8AFiEq5mZi\",\"url\":\"https://doc.rust-lang.org/1.49.0/reference/items/functions.html\",\"uniqueKey\":\"https://doc.rust-lang.org/1.49.0/reference/items/functions.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722143681589,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/1.49.0/reference/items/functions.html",
+	"url": "https://doc.rust-lang.org/1.49.0/reference/items/functions.html"
+}

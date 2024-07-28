@@ -1,0 +1,9 @@
+{
+	"id": "hPrDpIh1ssC1TQN",
+	"json": "{\"id\":\"hPrDpIh1ssC1TQN\",\"url\":\"https://doc.rust-lang.org/stable/std/task/struct.RawWakerVTable.html\",\"loadedUrl\":\"https://doc.rust-lang.org/stable/std/task/struct.RawWakerVTable.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/std/task/struct.RawWakerVTable.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:25:47.805Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/std/task/struct.RawWakerVTable.html",
+	"url": "https://doc.rust-lang.org/stable/std/task/struct.RawWakerVTable.html"
+}

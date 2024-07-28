@@ -1,0 +1,9 @@
+{
+	"id": "skm38m1NsuhwZQF",
+	"json": "{\"id\":\"skm38m1NsuhwZQF\",\"url\":\"https://doc.rust-lang.org/stable/std/borrow/trait.Borrow.html\",\"loadedUrl\":\"https://doc.rust-lang.org/stable/std/borrow/trait.Borrow.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/std/borrow/trait.Borrow.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:11:55.695Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/std/borrow/trait.Borrow.html",
+	"url": "https://doc.rust-lang.org/stable/std/borrow/trait.Borrow.html"
+}

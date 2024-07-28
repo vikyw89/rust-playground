@@ -1,0 +1,9 @@
+{
+	"id": "Bv8F6qLbUFYfqdD",
+	"json": "{\"id\":\"Bv8F6qLbUFYfqdD\",\"url\":\"https://doc.rust-lang.org/stable/book/ch04-01-what-is-ownership.html\",\"loadedUrl\":\"https://doc.rust-lang.org/stable/book/ch04-01-what-is-ownership.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/book/ch04-01-what-is-ownership.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:08:14.622Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/book/ch04-01-what-is-ownership.html",
+	"url": "https://doc.rust-lang.org/stable/book/ch04-01-what-is-ownership.html"
+}

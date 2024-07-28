@@ -1,0 +1,9 @@
+{
+	"id": "Af5XgqHpKpF0cBD",
+	"json": "{\"id\":\"Af5XgqHpKpF0cBD\",\"url\":\"https://doc.rust-lang.org/reference/expressions/tuple-expr.html\",\"uniqueKey\":\"https://doc.rust-lang.org/reference/expressions/tuple-expr.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722143556171,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/reference/expressions/tuple-expr.html",
+	"url": "https://doc.rust-lang.org/reference/expressions/tuple-expr.html"
+}

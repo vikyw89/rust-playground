@@ -1,0 +1,9 @@
+{
+	"id": "A5JqSG2m6jidW5b",
+	"json": "{\"id\":\"A5JqSG2m6jidW5b\",\"url\":\"https://doc.rust-lang.org/stable/core/arch/x86/fn._mm_maskz_shuffle_ps.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/core/arch/x86/fn._mm_maskz_shuffle_ps.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722144170407,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/core/arch/x86/fn._mm_maskz_shuffle_ps.html",
+	"url": "https://doc.rust-lang.org/stable/core/arch/x86/fn._mm_maskz_shuffle_ps.html"
+}

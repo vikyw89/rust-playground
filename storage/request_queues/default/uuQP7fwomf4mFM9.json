@@ -1,0 +1,9 @@
+{
+	"id": "uuQP7fwomf4mFM9",
+	"json": "{\"id\":\"uuQP7fwomf4mFM9\",\"url\":\"https://doc.rust-lang.org/stable/core/arch/x86/fn._mm256_mask_max_epi32.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/core/arch/x86/fn._mm256_mask_max_epi32.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722144165166,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/core/arch/x86/fn._mm256_mask_max_epi32.html",
+	"url": "https://doc.rust-lang.org/stable/core/arch/x86/fn._mm256_mask_max_epi32.html"
+}

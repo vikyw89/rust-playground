@@ -1,0 +1,9 @@
+{
+	"id": "dGjujSNAn2lfdaP",
+	"json": "{\"id\":\"dGjujSNAn2lfdaP\",\"url\":\"https://doc.rust-lang.org/stable/unstable-book/language-features/impl-trait-in-assoc-type.html\",\"loadedUrl\":\"https://doc.rust-lang.org/stable/unstable-book/language-features/impl-trait-in-assoc-type.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/unstable-book/language-features/impl-trait-in-assoc-type.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:15:53.845Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/unstable-book/language-features/impl-trait-in-assoc-type.html",
+	"url": "https://doc.rust-lang.org/stable/unstable-book/language-features/impl-trait-in-assoc-type.html"
+}

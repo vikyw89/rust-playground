@@ -1,0 +1,9 @@
+{
+	"id": "f1l07oz47IvjoA1",
+	"json": "{\"id\":\"f1l07oz47IvjoA1\",\"url\":\"https://doc.rust-lang.org/stable/unstable-book/library-features/cursor-remaining.html\",\"loadedUrl\":\"https://doc.rust-lang.org/stable/unstable-book/library-features/cursor-remaining.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/unstable-book/library-features/cursor-remaining.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:17:51.131Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/unstable-book/library-features/cursor-remaining.html",
+	"url": "https://doc.rust-lang.org/stable/unstable-book/library-features/cursor-remaining.html"
+}

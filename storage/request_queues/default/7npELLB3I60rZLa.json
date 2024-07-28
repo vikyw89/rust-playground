@@ -1,0 +1,9 @@
+{
+	"id": "7npELLB3I60rZLa",
+	"json": "{\"id\":\"7npELLB3I60rZLa\",\"url\":\"https://doc.rust-lang.org/stable/rust-by-example/variable_bindings/freeze.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/rust-by-example/variable_bindings/freeze.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722144357655,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/rust-by-example/variable_bindings/freeze.html",
+	"url": "https://doc.rust-lang.org/stable/rust-by-example/variable_bindings/freeze.html"
+}

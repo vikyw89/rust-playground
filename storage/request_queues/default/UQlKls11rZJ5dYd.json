@@ -1,0 +1,9 @@
+{
+	"id": "UQlKls11rZJ5dYd",
+	"json": "{\"id\":\"UQlKls11rZJ5dYd\",\"url\":\"https://doc.rust-lang.org/1.80.0/src/core/portable-simd/crates/core_simd/src/ops/shift_scalar.rs.html#62\",\"loadedUrl\":\"https://doc.rust-lang.org/1.80.0/src/core/portable-simd/crates/core_simd/src/ops/shift_scalar.rs.html#62\",\"uniqueKey\":\"https://doc.rust-lang.org/1.80.0/src/core/portable-simd/crates/core_simd/src/ops/shift_scalar.rs.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:21:25.592Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/1.80.0/src/core/portable-simd/crates/core_simd/src/ops/shift_scalar.rs.html",
+	"url": "https://doc.rust-lang.org/1.80.0/src/core/portable-simd/crates/core_simd/src/ops/shift_scalar.rs.html#62"
+}

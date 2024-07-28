@@ -1,0 +1,9 @@
+{
+	"id": "y1PiqpwhekjbDyi",
+	"json": "{\"id\":\"y1PiqpwhekjbDyi\",\"url\":\"https://doc.rust-lang.org/book/ch05-01-defining-structs.html\",\"uniqueKey\":\"https://doc.rust-lang.org/book/ch05-01-defining-structs.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722143685942,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/book/ch05-01-defining-structs.html",
+	"url": "https://doc.rust-lang.org/book/ch05-01-defining-structs.html"
+}

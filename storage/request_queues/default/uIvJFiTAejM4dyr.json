@@ -1,0 +1,9 @@
+{
+	"id": "uIvJFiTAejM4dyr",
+	"json": "{\"id\":\"uIvJFiTAejM4dyr\",\"url\":\"https://doc.rust-lang.org/stable/std/intrinsics/simd/fn.simd_ge.html\",\"loadedUrl\":\"https://doc.rust-lang.org/stable/std/intrinsics/simd/fn.simd_ge.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/std/intrinsics/simd/fn.simd_ge.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:26:45.133Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/std/intrinsics/simd/fn.simd_ge.html",
+	"url": "https://doc.rust-lang.org/stable/std/intrinsics/simd/fn.simd_ge.html"
+}

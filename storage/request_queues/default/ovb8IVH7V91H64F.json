@@ -1,0 +1,9 @@
+{
+	"id": "ovb8IVH7V91H64F",
+	"json": "{\"id\":\"ovb8IVH7V91H64F\",\"url\":\"https://doc.rust-lang.org/stable/core/arch/x86/fn._mm256_setr_m128d.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/core/arch/x86/fn._mm256_setr_m128d.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722144164290,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/core/arch/x86/fn._mm256_setr_m128d.html",
+	"url": "https://doc.rust-lang.org/stable/core/arch/x86/fn._mm256_setr_m128d.html"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "fjaQ3moSD4qCuRy",
+	"json": "{\"id\":\"fjaQ3moSD4qCuRy\",\"url\":\"https://doc.rust-lang.org/stable/core/arch/x86_64/fn._mm_maskz_permutexvar_epi8.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/core/arch/x86_64/fn._mm_maskz_permutexvar_epi8.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722144170418,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/core/arch/x86_64/fn._mm_maskz_permutexvar_epi8.html",
+	"url": "https://doc.rust-lang.org/stable/core/arch/x86_64/fn._mm_maskz_permutexvar_epi8.html"
+}

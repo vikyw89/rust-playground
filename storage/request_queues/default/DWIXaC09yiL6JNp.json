@@ -1,0 +1,9 @@
+{
+	"id": "DWIXaC09yiL6JNp",
+	"json": "{\"id\":\"DWIXaC09yiL6JNp\",\"url\":\"https://doc.rust-lang.org/1.49.0/reference/statements.html\",\"uniqueKey\":\"https://doc.rust-lang.org/1.49.0/reference/statements.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722143682261,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/1.49.0/reference/statements.html",
+	"url": "https://doc.rust-lang.org/1.49.0/reference/statements.html"
+}

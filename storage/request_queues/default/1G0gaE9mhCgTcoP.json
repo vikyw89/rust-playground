@@ -1,0 +1,9 @@
+{
+	"id": "1G0gaE9mhCgTcoP",
+	"json": "{\"id\":\"1G0gaE9mhCgTcoP\",\"url\":\"https://doc.rust-lang.org/1.80.0/core/assert_matches/index.html\",\"uniqueKey\":\"https://doc.rust-lang.org/1.80.0/core/assert_matches/index.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722143587464,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/1.80.0/core/assert_matches/index.html",
+	"url": "https://doc.rust-lang.org/1.80.0/core/assert_matches/index.html"
+}

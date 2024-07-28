@@ -1,0 +1,9 @@
+{
+	"id": "GJ4x3QiiMCp1yFO",
+	"json": "{\"id\":\"GJ4x3QiiMCp1yFO\",\"url\":\"https://doc.rust-lang.org/nightly/unstable-book/library-features/mem-copy-fn.html\",\"uniqueKey\":\"https://doc.rust-lang.org/nightly/unstable-book/library-features/mem-copy-fn.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722143686094,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/nightly/unstable-book/library-features/mem-copy-fn.html",
+	"url": "https://doc.rust-lang.org/nightly/unstable-book/library-features/mem-copy-fn.html"
+}

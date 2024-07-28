@@ -1,0 +1,9 @@
+{
+	"id": "KZVwgkPtlGSHBm1",
+	"json": "{\"id\":\"KZVwgkPtlGSHBm1\",\"url\":\"https://doc.rust-lang.org/std/string/struct.String.html#impl-Deref-for-String\",\"uniqueKey\":\"https://doc.rust-lang.org/std/string/struct.String.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722143785284,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/std/string/struct.String.html",
+	"url": "https://doc.rust-lang.org/std/string/struct.String.html#impl-Deref-for-String"
+}

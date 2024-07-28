@@ -1,0 +1,9 @@
+{
+	"id": "epflTpTKIU2Q7Un",
+	"json": "{\"id\":\"epflTpTKIU2Q7Un\",\"url\":\"https://doc.rust-lang.org/1.80.0/src/core/array/equality.rs.html#65-67\",\"loadedUrl\":\"https://doc.rust-lang.org/1.80.0/src/core/array/equality.rs.html#65-67\",\"uniqueKey\":\"https://doc.rust-lang.org/1.80.0/src/core/array/equality.rs.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:20:59.373Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/1.80.0/src/core/array/equality.rs.html",
+	"url": "https://doc.rust-lang.org/1.80.0/src/core/array/equality.rs.html#65-67"
+}

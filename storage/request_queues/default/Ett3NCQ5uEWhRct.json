@@ -1,0 +1,9 @@
+{
+	"id": "Ett3NCQ5uEWhRct",
+	"json": "{\"id\":\"Ett3NCQ5uEWhRct\",\"url\":\"https://doc.rust-lang.org/1.80.0/core/macro.assert_unsafe_precondition.html\",\"uniqueKey\":\"https://doc.rust-lang.org/1.80.0/core/macro.assert_unsafe_precondition.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722143587484,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/1.80.0/core/macro.assert_unsafe_precondition.html",
+	"url": "https://doc.rust-lang.org/1.80.0/core/macro.assert_unsafe_precondition.html"
+}

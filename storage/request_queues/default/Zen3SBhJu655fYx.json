@@ -1,0 +1,9 @@
+{
+	"id": "Zen3SBhJu655fYx",
+	"json": "{\"id\":\"Zen3SBhJu655fYx\",\"url\":\"https://doc.rust-lang.org/cargo/commands/cargo-tree.html\",\"loadedUrl\":\"https://doc.rust-lang.org/cargo/commands/cargo-tree.html\",\"uniqueKey\":\"https://doc.rust-lang.org/cargo/commands/cargo-tree.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:09:30.180Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/cargo/commands/cargo-tree.html",
+	"url": "https://doc.rust-lang.org/cargo/commands/cargo-tree.html"
+}

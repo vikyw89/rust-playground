@@ -1,0 +1,9 @@
+{
+	"id": "DwHNgBsTT4peei0",
+	"json": "{\"id\":\"DwHNgBsTT4peei0\",\"url\":\"https://doc.rust-lang.org/stable/std/collections/hash_map/enum.Entry.html\",\"loadedUrl\":\"https://doc.rust-lang.org/stable/std/collections/hash_map/enum.Entry.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/std/collections/hash_map/enum.Entry.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:26:22.203Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/std/collections/hash_map/enum.Entry.html",
+	"url": "https://doc.rust-lang.org/stable/std/collections/hash_map/enum.Entry.html"
+}

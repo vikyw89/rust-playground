@@ -1,0 +1,9 @@
+{
+	"id": "drJByTlWahpK4FF",
+	"json": "{\"id\":\"drJByTlWahpK4FF\",\"url\":\"https://doc.rust-lang.org/stable/std/os/unix/net/struct.UCred.html\",\"loadedUrl\":\"https://doc.rust-lang.org/stable/std/os/unix/net/struct.UCred.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/std/os/unix/net/struct.UCred.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:26:20.839Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/std/os/unix/net/struct.UCred.html",
+	"url": "https://doc.rust-lang.org/stable/std/os/unix/net/struct.UCred.html"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "Re918wDpXgckPTc",
+	"json": "{\"id\":\"Re918wDpXgckPTc\",\"url\":\"https://doc.rust-lang.org/stable/std/thread/fn.available_parallelism.html\",\"loadedUrl\":\"https://doc.rust-lang.org/stable/std/thread/fn.available_parallelism.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/std/thread/fn.available_parallelism.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:20:26.870Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/std/thread/fn.available_parallelism.html",
+	"url": "https://doc.rust-lang.org/stable/std/thread/fn.available_parallelism.html"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "oA26Bk2Ds4HqEKg",
+	"json": "{\"id\":\"oA26Bk2Ds4HqEKg\",\"url\":\"https://doc.rust-lang.org/1.80.0/src/core/portable-simd/crates/core_simd/src/vendor/x86.rs.html\",\"uniqueKey\":\"https://doc.rust-lang.org/1.80.0/src/core/portable-simd/crates/core_simd/src/vendor/x86.rs.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722143511721,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/1.80.0/src/core/portable-simd/crates/core_simd/src/vendor/x86.rs.html",
+	"url": "https://doc.rust-lang.org/1.80.0/src/core/portable-simd/crates/core_simd/src/vendor/x86.rs.html"
+}

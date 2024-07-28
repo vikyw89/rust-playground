@@ -1,0 +1,9 @@
+{
+	"id": "hAWtLON6l07C5VM",
+	"json": "{\"id\":\"hAWtLON6l07C5VM\",\"url\":\"https://doc.rust-lang.org/stable/core/arch/x86/constant._MM_PERM_CBDB.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/core/arch/x86/constant._MM_PERM_CBDB.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722144164110,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/core/arch/x86/constant._MM_PERM_CBDB.html",
+	"url": "https://doc.rust-lang.org/stable/core/arch/x86/constant._MM_PERM_CBDB.html"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "ZrHlCEEIH15LAVA",
+	"json": "{\"id\":\"ZrHlCEEIH15LAVA\",\"url\":\"https://doc.rust-lang.org/stable/cargo/reference/pkgid-spec.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/cargo/reference/pkgid-spec.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722143682324,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/cargo/reference/pkgid-spec.html",
+	"url": "https://doc.rust-lang.org/stable/cargo/reference/pkgid-spec.html"
+}

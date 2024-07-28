@@ -1,0 +1,9 @@
+{
+	"id": "99QUwYpCznIqpcR",
+	"json": "{\"id\":\"99QUwYpCznIqpcR\",\"url\":\"https://doc.rust-lang.org/std/alloc/struct.Layout.html\",\"uniqueKey\":\"https://doc.rust-lang.org/std/alloc/struct.Layout.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722144042410,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/std/alloc/struct.Layout.html",
+	"url": "https://doc.rust-lang.org/std/alloc/struct.Layout.html"
+}

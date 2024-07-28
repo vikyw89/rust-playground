@@ -1,0 +1,9 @@
+{
+	"id": "CdKiKHV0loqpq12",
+	"json": "{\"id\":\"CdKiKHV0loqpq12\",\"url\":\"https://doc.rust-lang.org/stable/unstable-book/compiler-flags/branch-protection.html\",\"loadedUrl\":\"https://doc.rust-lang.org/stable/unstable-book/compiler-flags/branch-protection.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/unstable-book/compiler-flags/branch-protection.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:14:55.878Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/unstable-book/compiler-flags/branch-protection.html",
+	"url": "https://doc.rust-lang.org/stable/unstable-book/compiler-flags/branch-protection.html"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "JuZpco3myQq76QR",
+	"json": "{\"id\":\"JuZpco3myQq76QR\",\"url\":\"https://doc.rust-lang.org/std/ptr/fn.dangling.html\",\"uniqueKey\":\"https://doc.rust-lang.org/std/ptr/fn.dangling.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722144042640,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/std/ptr/fn.dangling.html",
+	"url": "https://doc.rust-lang.org/std/ptr/fn.dangling.html"
+}

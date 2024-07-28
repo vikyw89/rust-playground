@@ -1,0 +1,9 @@
+{
+	"id": "uNaVRATR2dpfXpH",
+	"json": "{\"id\":\"uNaVRATR2dpfXpH\",\"url\":\"https://doc.rust-lang.org/stable/unstable-book/library-features/exclusive-wrapper.html\",\"loadedUrl\":\"https://doc.rust-lang.org/stable/unstable-book/library-features/exclusive-wrapper.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/unstable-book/library-features/exclusive-wrapper.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:18:08.029Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/unstable-book/library-features/exclusive-wrapper.html",
+	"url": "https://doc.rust-lang.org/stable/unstable-book/library-features/exclusive-wrapper.html"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "sC2SNGhi1SfFAfl",
+	"json": "{\"id\":\"sC2SNGhi1SfFAfl\",\"url\":\"https://doc.rust-lang.org/stable/core/arch/x86/fn._mm_mask2_permutex2var_epi64.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/core/arch/x86/fn._mm_mask2_permutex2var_epi64.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722144169939,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/core/arch/x86/fn._mm_mask2_permutex2var_epi64.html",
+	"url": "https://doc.rust-lang.org/stable/core/arch/x86/fn._mm_mask2_permutex2var_epi64.html"
+}

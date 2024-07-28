@@ -1,0 +1,9 @@
+{
+	"id": "3gYAfqfHXWF4A5K",
+	"json": "{\"id\":\"3gYAfqfHXWF4A5K\",\"url\":\"https://doc.rust-lang.org/stable/reference/items/unions.html\",\"loadedUrl\":\"https://doc.rust-lang.org/stable/reference/items/unions.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/reference/items/unions.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:09:17.410Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/reference/items/unions.html",
+	"url": "https://doc.rust-lang.org/stable/reference/items/unions.html"
+}

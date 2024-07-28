@@ -1,0 +1,9 @@
+{
+	"id": "LGJUfGt3j6q3WL1",
+	"json": "{\"id\":\"LGJUfGt3j6q3WL1\",\"url\":\"https://doc.rust-lang.org/rust-by-example/std/arc.html\",\"uniqueKey\":\"https://doc.rust-lang.org/rust-by-example/std/arc.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722144351258,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/rust-by-example/std/arc.html",
+	"url": "https://doc.rust-lang.org/rust-by-example/std/arc.html"
+}

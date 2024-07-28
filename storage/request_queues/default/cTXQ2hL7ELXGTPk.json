@@ -1,0 +1,9 @@
+{
+	"id": "cTXQ2hL7ELXGTPk",
+	"json": "{\"id\":\"cTXQ2hL7ELXGTPk\",\"url\":\"https://doc.rust-lang.org/stable/std/os/wasi/io/index.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/std/os/wasi/io/index.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722144248516,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/std/os/wasi/io/index.html",
+	"url": "https://doc.rust-lang.org/stable/std/os/wasi/io/index.html"
+}

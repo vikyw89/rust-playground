@@ -1,0 +1,9 @@
+{
+	"id": "ZxJjPAb2VHXrOzD",
+	"json": "{\"id\":\"ZxJjPAb2VHXrOzD\",\"url\":\"https://doc.rust-lang.org/std/collections/btree_map/struct.Range.html\",\"uniqueKey\":\"https://doc.rust-lang.org/std/collections/btree_map/struct.Range.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722144044438,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/std/collections/btree_map/struct.Range.html",
+	"url": "https://doc.rust-lang.org/std/collections/btree_map/struct.Range.html"
+}

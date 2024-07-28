@@ -1,0 +1,9 @@
+{
+	"id": "z1c7JlsWJp8cZuy",
+	"json": "{\"id\":\"z1c7JlsWJp8cZuy\",\"url\":\"https://doc.rust-lang.org/stable/core/arch/riscv64/fn.hsv_b.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/core/arch/riscv64/fn.hsv_b.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722144125414,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/core/arch/riscv64/fn.hsv_b.html",
+	"url": "https://doc.rust-lang.org/stable/core/arch/riscv64/fn.hsv_b.html"
+}

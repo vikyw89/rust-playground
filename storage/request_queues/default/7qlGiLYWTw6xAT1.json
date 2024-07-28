@@ -1,0 +1,9 @@
+{
+	"id": "7qlGiLYWTw6xAT1",
+	"json": "{\"id\":\"7qlGiLYWTw6xAT1\",\"url\":\"https://doc.rust-lang.org/stable/std/net/enum.SocketAddr.html\",\"loadedUrl\":\"https://doc.rust-lang.org/stable/std/net/enum.SocketAddr.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/std/net/enum.SocketAddr.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:12:33.911Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/std/net/enum.SocketAddr.html",
+	"url": "https://doc.rust-lang.org/stable/std/net/enum.SocketAddr.html"
+}

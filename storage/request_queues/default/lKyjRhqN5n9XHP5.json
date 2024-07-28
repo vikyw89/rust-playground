@@ -1,0 +1,9 @@
+{
+	"id": "lKyjRhqN5n9XHP5",
+	"json": "{\"id\":\"lKyjRhqN5n9XHP5\",\"url\":\"https://doc.rust-lang.org/stable/unstable-book/library-features/derive-clone-copy.html\",\"loadedUrl\":\"https://doc.rust-lang.org/stable/unstable-book/library-features/derive-clone-copy.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/unstable-book/library-features/derive-clone-copy.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:17:54.151Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/unstable-book/library-features/derive-clone-copy.html",
+	"url": "https://doc.rust-lang.org/stable/unstable-book/library-features/derive-clone-copy.html"
+}

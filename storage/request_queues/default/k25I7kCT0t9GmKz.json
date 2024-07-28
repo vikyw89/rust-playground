@@ -1,0 +1,9 @@
+{
+	"id": "k25I7kCT0t9GmKz",
+	"json": "{\"id\":\"k25I7kCT0t9GmKz\",\"url\":\"https://doc.rust-lang.org/stable/alloc/collections/index.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/alloc/collections/index.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722144015786,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/alloc/collections/index.html",
+	"url": "https://doc.rust-lang.org/stable/alloc/collections/index.html"
+}

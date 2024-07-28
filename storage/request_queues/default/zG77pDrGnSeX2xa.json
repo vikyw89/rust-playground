@@ -1,0 +1,9 @@
+{
+	"id": "zG77pDrGnSeX2xa",
+	"json": "{\"id\":\"zG77pDrGnSeX2xa\",\"url\":\"https://doc.rust-lang.org/nightly/cargo/guide/cargo-home.html\",\"uniqueKey\":\"https://doc.rust-lang.org/nightly/cargo/guide/cargo-home.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722144045553,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/nightly/cargo/guide/cargo-home.html",
+	"url": "https://doc.rust-lang.org/nightly/cargo/guide/cargo-home.html"
+}

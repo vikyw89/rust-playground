@@ -1,0 +1,9 @@
+{
+	"id": "BtxANSzjCVMTP1Q",
+	"json": "{\"id\":\"BtxANSzjCVMTP1Q\",\"url\":\"https://doc.rust-lang.org/stable/unstable-book/library-features/drain-keep-rest.html\",\"loadedUrl\":\"https://doc.rust-lang.org/stable/unstable-book/library-features/drain-keep-rest.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/unstable-book/library-features/drain-keep-rest.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:17:57.641Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/unstable-book/library-features/drain-keep-rest.html",
+	"url": "https://doc.rust-lang.org/stable/unstable-book/library-features/drain-keep-rest.html"
+}

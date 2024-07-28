@@ -1,0 +1,9 @@
+{
+	"id": "cRu0AZP3DzzX0gH",
+	"json": "{\"id\":\"cRu0AZP3DzzX0gH\",\"url\":\"https://doc.rust-lang.org/nightly/unstable-book/library-features/exitcode-exit-method.html\",\"uniqueKey\":\"https://doc.rust-lang.org/nightly/unstable-book/library-features/exitcode-exit-method.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722143686074,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/nightly/unstable-book/library-features/exitcode-exit-method.html",
+	"url": "https://doc.rust-lang.org/nightly/unstable-book/library-features/exitcode-exit-method.html"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "C1mi2mRLbReXk7j",
+	"json": "{\"id\":\"C1mi2mRLbReXk7j\",\"url\":\"https://doc.rust-lang.org/std/cell/struct.UnsafeCell.html#memory-layout\",\"loadedUrl\":\"https://doc.rust-lang.org/std/cell/struct.UnsafeCell.html#memory-layout\",\"uniqueKey\":\"https://doc.rust-lang.org/std/cell/struct.UnsafeCell.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:20:42.416Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/std/cell/struct.UnsafeCell.html",
+	"url": "https://doc.rust-lang.org/std/cell/struct.UnsafeCell.html#memory-layout"
+}

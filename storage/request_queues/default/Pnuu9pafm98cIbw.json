@@ -1,0 +1,9 @@
+{
+	"id": "Pnuu9pafm98cIbw",
+	"json": "{\"id\":\"Pnuu9pafm98cIbw\",\"url\":\"https://doc.rust-lang.org/stable/proc_macro/struct.LexError.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/proc_macro/struct.LexError.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722143498004,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/proc_macro/struct.LexError.html",
+	"url": "https://doc.rust-lang.org/stable/proc_macro/struct.LexError.html"
+}

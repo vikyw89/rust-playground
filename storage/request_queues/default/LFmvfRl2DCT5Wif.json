@@ -1,0 +1,9 @@
+{
+	"id": "LFmvfRl2DCT5Wif",
+	"json": "{\"id\":\"LFmvfRl2DCT5Wif\",\"url\":\"https://doc.rust-lang.org/stable/std/marker/trait.Sync.html\",\"loadedUrl\":\"https://doc.rust-lang.org/stable/std/marker/trait.Sync.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/std/marker/trait.Sync.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:11:40.152Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/std/marker/trait.Sync.html",
+	"url": "https://doc.rust-lang.org/stable/std/marker/trait.Sync.html"
+}

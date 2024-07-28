@@ -1,0 +1,9 @@
+{
+	"id": "COH2A5Jiy1OBLte",
+	"json": "{\"id\":\"COH2A5Jiy1OBLte\",\"url\":\"https://doc.rust-lang.org/stable/unstable-book/library-features/reentrant-lock.html\",\"loadedUrl\":\"https://doc.rust-lang.org/stable/unstable-book/library-features/reentrant-lock.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/unstable-book/library-features/reentrant-lock.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:19:19.932Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/unstable-book/library-features/reentrant-lock.html",
+	"url": "https://doc.rust-lang.org/stable/unstable-book/library-features/reentrant-lock.html"
+}

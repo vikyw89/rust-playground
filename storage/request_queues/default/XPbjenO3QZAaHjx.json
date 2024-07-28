@@ -1,0 +1,9 @@
+{
+	"id": "XPbjenO3QZAaHjx",
+	"json": "{\"id\":\"XPbjenO3QZAaHjx\",\"url\":\"https://doc.rust-lang.org/stable/rust-by-example/macros/repeat.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/rust-by-example/macros/repeat.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722144357819,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/rust-by-example/macros/repeat.html",
+	"url": "https://doc.rust-lang.org/stable/rust-by-example/macros/repeat.html"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "1I2gOX8mWHF3boJ",
+	"json": "{\"id\":\"1I2gOX8mWHF3boJ\",\"url\":\"https://doc.rust-lang.org/std/iter/struct.Map.html\",\"uniqueKey\":\"https://doc.rust-lang.org/std/iter/struct.Map.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722144393783,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/std/iter/struct.Map.html",
+	"url": "https://doc.rust-lang.org/std/iter/struct.Map.html"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "3oIoFWwvX1e0bl7",
+	"json": "{\"id\":\"3oIoFWwvX1e0bl7\",\"url\":\"https://doc.rust-lang.org/stable/core/arch/x86_64/fn._mm_testnzc_si128.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/core/arch/x86_64/fn._mm_testnzc_si128.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722144164727,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/core/arch/x86_64/fn._mm_testnzc_si128.html",
+	"url": "https://doc.rust-lang.org/stable/core/arch/x86_64/fn._mm_testnzc_si128.html"
+}

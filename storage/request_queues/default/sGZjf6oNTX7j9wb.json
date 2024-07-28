@@ -1,0 +1,9 @@
+{
+	"id": "sGZjf6oNTX7j9wb",
+	"json": "{\"id\":\"sGZjf6oNTX7j9wb\",\"url\":\"https://doc.rust-lang.org/stable/core/arch/x86/constant._MM_EXCEPT_DENORM.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/core/arch/x86/constant._MM_EXCEPT_DENORM.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722144163965,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/core/arch/x86/constant._MM_EXCEPT_DENORM.html",
+	"url": "https://doc.rust-lang.org/stable/core/arch/x86/constant._MM_EXCEPT_DENORM.html"
+}

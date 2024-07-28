@@ -1,0 +1,9 @@
+{
+	"id": "cqCFBcbitDyiI2e",
+	"json": "{\"id\":\"cqCFBcbitDyiI2e\",\"url\":\"https://doc.rust-lang.org/stable/std/os/wasi/fs/trait.OpenOptionsExt.html\",\"loadedUrl\":\"https://doc.rust-lang.org/stable/std/os/wasi/fs/trait.OpenOptionsExt.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/std/os/wasi/fs/trait.OpenOptionsExt.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:26:27.769Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/std/os/wasi/fs/trait.OpenOptionsExt.html",
+	"url": "https://doc.rust-lang.org/stable/std/os/wasi/fs/trait.OpenOptionsExt.html"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "u24eRD3KCud2bIo",
+	"json": "{\"id\":\"u24eRD3KCud2bIo\",\"url\":\"https://doc.rust-lang.org/stable/core/arch/x86_64/fn._mm_mask_adds_epu8.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/core/arch/x86_64/fn._mm_mask_adds_epu8.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722144169996,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/core/arch/x86_64/fn._mm_mask_adds_epu8.html",
+	"url": "https://doc.rust-lang.org/stable/core/arch/x86_64/fn._mm_mask_adds_epu8.html"
+}

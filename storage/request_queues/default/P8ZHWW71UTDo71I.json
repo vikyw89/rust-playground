@@ -1,0 +1,9 @@
+{
+	"id": "P8ZHWW71UTDo71I",
+	"json": "{\"id\":\"P8ZHWW71UTDo71I\",\"url\":\"https://doc.rust-lang.org/stable/rust-by-example/error/multiple_error_types/wrap_error.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/rust-by-example/error/multiple_error_types/wrap_error.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722144357825,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/rust-by-example/error/multiple_error_types/wrap_error.html",
+	"url": "https://doc.rust-lang.org/stable/rust-by-example/error/multiple_error_types/wrap_error.html"
+}

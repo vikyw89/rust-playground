@@ -1,0 +1,9 @@
+{
+	"id": "BWD0CfXgfrh3M4t",
+	"json": "{\"id\":\"BWD0CfXgfrh3M4t\",\"url\":\"https://doc.rust-lang.org/stable/std/intrinsics/mir/fn.StorageLive.html\",\"loadedUrl\":\"https://doc.rust-lang.org/stable/std/intrinsics/mir/fn.StorageLive.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/std/intrinsics/mir/fn.StorageLive.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:26:41.774Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/std/intrinsics/mir/fn.StorageLive.html",
+	"url": "https://doc.rust-lang.org/stable/std/intrinsics/mir/fn.StorageLive.html"
+}

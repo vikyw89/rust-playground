@@ -1,0 +1,9 @@
+{
+	"id": "wD36ySKEph0WYwK",
+	"json": "{\"id\":\"wD36ySKEph0WYwK\",\"url\":\"https://doc.rust-lang.org/stable/core/arch/x86/fn._mm_cmpestrm.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/core/arch/x86/fn._mm_cmpestrm.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722144164362,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/core/arch/x86/fn._mm_cmpestrm.html",
+	"url": "https://doc.rust-lang.org/stable/core/arch/x86/fn._mm_cmpestrm.html"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "JS8nob9PaB0mm9s",
+	"json": "{\"id\":\"JS8nob9PaB0mm9s\",\"url\":\"https://doc.rust-lang.org/unstable-book/library-features/core-io-borrowed-buf.html\",\"uniqueKey\":\"https://doc.rust-lang.org/unstable-book/library-features/core-io-borrowed-buf.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722144037738,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/unstable-book/library-features/core-io-borrowed-buf.html",
+	"url": "https://doc.rust-lang.org/unstable-book/library-features/core-io-borrowed-buf.html"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "w5otAIc8xPcJ1vl",
+	"json": "{\"id\":\"w5otAIc8xPcJ1vl\",\"url\":\"https://doc.rust-lang.org/stable/core/arch/x86_64/fn._mm_shuffle_pd.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/core/arch/x86_64/fn._mm_shuffle_pd.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722144164688,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/core/arch/x86_64/fn._mm_shuffle_pd.html",
+	"url": "https://doc.rust-lang.org/stable/core/arch/x86_64/fn._mm_shuffle_pd.html"
+}

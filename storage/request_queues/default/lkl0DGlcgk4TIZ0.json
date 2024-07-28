@@ -1,0 +1,9 @@
+{
+	"id": "lkl0DGlcgk4TIZ0",
+	"json": "{\"id\":\"lkl0DGlcgk4TIZ0\",\"url\":\"https://doc.rust-lang.org/stable/unstable-book/library-features/btreemap-alloc.html\",\"loadedUrl\":\"https://doc.rust-lang.org/stable/unstable-book/library-features/btreemap-alloc.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/unstable-book/library-features/btreemap-alloc.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:16:52.568Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/unstable-book/library-features/btreemap-alloc.html",
+	"url": "https://doc.rust-lang.org/stable/unstable-book/library-features/btreemap-alloc.html"
+}

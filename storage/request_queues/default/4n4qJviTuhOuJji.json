@@ -1,0 +1,9 @@
+{
+	"id": "4n4qJviTuhOuJji",
+	"json": "{\"id\":\"4n4qJviTuhOuJji\",\"url\":\"https://doc.rust-lang.org/stable/std/simd/prelude/trait.SimdFloat.html#tymethod.simd_min\",\"loadedUrl\":\"https://doc.rust-lang.org/stable/std/simd/prelude/trait.SimdFloat.html#tymethod.simd_min\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/std/simd/prelude/trait.SimdFloat.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:24:16.014Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/std/simd/prelude/trait.SimdFloat.html",
+	"url": "https://doc.rust-lang.org/stable/std/simd/prelude/trait.SimdFloat.html#tymethod.simd_min"
+}

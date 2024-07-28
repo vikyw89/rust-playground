@@ -1,0 +1,9 @@
+{
+	"id": "KgACsDFD6OkbbN7",
+	"json": "{\"id\":\"KgACsDFD6OkbbN7\",\"url\":\"https://doc.rust-lang.org/stable/unstable-book/library-features/addr-parse-ascii.html\",\"loadedUrl\":\"https://doc.rust-lang.org/stable/unstable-book/library-features/addr-parse-ascii.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/unstable-book/library-features/addr-parse-ascii.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:16:38.215Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/unstable-book/library-features/addr-parse-ascii.html",
+	"url": "https://doc.rust-lang.org/stable/unstable-book/library-features/addr-parse-ascii.html"
+}

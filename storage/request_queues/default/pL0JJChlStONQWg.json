@@ -1,0 +1,9 @@
+{
+	"id": "pL0JJChlStONQWg",
+	"json": "{\"id\":\"pL0JJChlStONQWg\",\"url\":\"https://doc.rust-lang.org/unstable-book/library-features/unicode-internals.html\",\"uniqueKey\":\"https://doc.rust-lang.org/unstable-book/library-features/unicode-internals.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722144038052,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/unstable-book/library-features/unicode-internals.html",
+	"url": "https://doc.rust-lang.org/unstable-book/library-features/unicode-internals.html"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "o8Midv51MQQaS8X",
+	"json": "{\"id\":\"o8Midv51MQQaS8X\",\"url\":\"https://doc.rust-lang.org/1.80.0/src/core/arch.rs.html\",\"uniqueKey\":\"https://doc.rust-lang.org/1.80.0/src/core/arch.rs.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722143512132,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/1.80.0/src/core/arch.rs.html",
+	"url": "https://doc.rust-lang.org/1.80.0/src/core/arch.rs.html"
+}

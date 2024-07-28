@@ -1,0 +1,9 @@
+{
+	"id": "YQgNPtGUaoqW1g4",
+	"json": "{\"id\":\"YQgNPtGUaoqW1g4\",\"url\":\"https://doc.rust-lang.org/stable/core/arch/x86/fn._MM_SET_ROUNDING_MODE.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/core/arch/x86/fn._MM_SET_ROUNDING_MODE.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722144164158,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/core/arch/x86/fn._MM_SET_ROUNDING_MODE.html",
+	"url": "https://doc.rust-lang.org/stable/core/arch/x86/fn._MM_SET_ROUNDING_MODE.html"
+}

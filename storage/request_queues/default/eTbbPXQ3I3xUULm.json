@@ -1,0 +1,9 @@
+{
+	"id": "eTbbPXQ3I3xUULm",
+	"json": "{\"id\":\"eTbbPXQ3I3xUULm\",\"url\":\"https://doc.rust-lang.org/stable/core/arch/x86_64/fn._fxsave64.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/core/arch/x86_64/fn._fxsave64.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722144164186,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/core/arch/x86_64/fn._fxsave64.html",
+	"url": "https://doc.rust-lang.org/stable/core/arch/x86_64/fn._fxsave64.html"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "iGRZbxcKXBa5LMO",
+	"json": "{\"id\":\"iGRZbxcKXBa5LMO\",\"url\":\"https://doc.rust-lang.org/stable/std/process/struct.CommandEnvs.html\",\"loadedUrl\":\"https://doc.rust-lang.org/stable/std/process/struct.CommandEnvs.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/std/process/struct.CommandEnvs.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:14:40.210Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/std/process/struct.CommandEnvs.html",
+	"url": "https://doc.rust-lang.org/stable/std/process/struct.CommandEnvs.html"
+}

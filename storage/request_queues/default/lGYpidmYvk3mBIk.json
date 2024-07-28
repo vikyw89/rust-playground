@@ -1,0 +1,9 @@
+{
+	"id": "lGYpidmYvk3mBIk",
+	"json": "{\"id\":\"lGYpidmYvk3mBIk\",\"url\":\"https://doc.rust-lang.org/nomicon/vec/vec-zsts.html\",\"uniqueKey\":\"https://doc.rust-lang.org/nomicon/vec/vec-zsts.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722144041616,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/nomicon/vec/vec-zsts.html",
+	"url": "https://doc.rust-lang.org/nomicon/vec/vec-zsts.html"
+}

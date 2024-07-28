@@ -1,0 +1,9 @@
+{
+	"id": "P5fdWcl4vgR47ex",
+	"json": "{\"id\":\"P5fdWcl4vgR47ex\",\"url\":\"https://doc.rust-lang.org/unstable-book/language-features/transparent-unions.html\",\"uniqueKey\":\"https://doc.rust-lang.org/unstable-book/language-features/transparent-unions.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722144037678,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/unstable-book/language-features/transparent-unions.html",
+	"url": "https://doc.rust-lang.org/unstable-book/language-features/transparent-unions.html"
+}

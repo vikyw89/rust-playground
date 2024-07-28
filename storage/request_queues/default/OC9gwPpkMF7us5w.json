@@ -1,0 +1,9 @@
+{
+	"id": "OC9gwPpkMF7us5w",
+	"json": "{\"id\":\"OC9gwPpkMF7us5w\",\"url\":\"https://doc.rust-lang.org/stable/std/slice/struct.Split.html\",\"loadedUrl\":\"https://doc.rust-lang.org/stable/std/slice/struct.Split.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/std/slice/struct.Split.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:14:28.167Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/std/slice/struct.Split.html",
+	"url": "https://doc.rust-lang.org/stable/std/slice/struct.Split.html"
+}

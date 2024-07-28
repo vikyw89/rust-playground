@@ -1,0 +1,9 @@
+{
+	"id": "pX00st4js0y3BR7",
+	"json": "{\"id\":\"pX00st4js0y3BR7\",\"url\":\"https://doc.rust-lang.org/stable/book/ch13-00-functional-features.html\",\"loadedUrl\":\"https://doc.rust-lang.org/stable/book/ch13-00-functional-features.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/book/ch13-00-functional-features.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:08:25.943Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/book/ch13-00-functional-features.html",
+	"url": "https://doc.rust-lang.org/stable/book/ch13-00-functional-features.html"
+}

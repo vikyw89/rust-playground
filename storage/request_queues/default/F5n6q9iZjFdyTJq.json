@@ -1,0 +1,9 @@
+{
+	"id": "F5n6q9iZjFdyTJq",
+	"json": "{\"id\":\"F5n6q9iZjFdyTJq\",\"url\":\"https://doc.rust-lang.org/stable/std/alloc/trait.Allocator.html\",\"loadedUrl\":\"https://doc.rust-lang.org/stable/std/alloc/trait.Allocator.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/std/alloc/trait.Allocator.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:12:18.588Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/std/alloc/trait.Allocator.html",
+	"url": "https://doc.rust-lang.org/stable/std/alloc/trait.Allocator.html"
+}

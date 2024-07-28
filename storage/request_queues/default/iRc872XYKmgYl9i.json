@@ -1,0 +1,9 @@
+{
+	"id": "iRc872XYKmgYl9i",
+	"json": "{\"id\":\"iRc872XYKmgYl9i\",\"url\":\"https://doc.rust-lang.org/cargo/getting-started/installation.html\",\"loadedUrl\":\"https://doc.rust-lang.org/cargo/getting-started/installation.html\",\"uniqueKey\":\"https://doc.rust-lang.org/cargo/getting-started/installation.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:09:18.509Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/cargo/getting-started/installation.html",
+	"url": "https://doc.rust-lang.org/cargo/getting-started/installation.html"
+}

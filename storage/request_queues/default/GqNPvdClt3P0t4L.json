@@ -1,0 +1,9 @@
+{
+	"id": "GqNPvdClt3P0t4L",
+	"json": "{\"id\":\"GqNPvdClt3P0t4L\",\"url\":\"https://doc.rust-lang.org/nightly/unstable-book/language-features/default-type-parameter-fallback.html\",\"uniqueKey\":\"https://doc.rust-lang.org/nightly/unstable-book/language-features/default-type-parameter-fallback.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722143685986,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/nightly/unstable-book/language-features/default-type-parameter-fallback.html",
+	"url": "https://doc.rust-lang.org/nightly/unstable-book/language-features/default-type-parameter-fallback.html"
+}

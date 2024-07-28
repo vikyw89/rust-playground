@@ -1,0 +1,9 @@
+{
+	"id": "m3eSfvF28S3p9Th",
+	"json": "{\"id\":\"m3eSfvF28S3p9Th\",\"url\":\"https://doc.rust-lang.org/1.80.0/src/alloc/vec/in_place_drop.rs.html\",\"uniqueKey\":\"https://doc.rust-lang.org/1.80.0/src/alloc/vec/in_place_drop.rs.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722143511690,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/1.80.0/src/alloc/vec/in_place_drop.rs.html",
+	"url": "https://doc.rust-lang.org/1.80.0/src/alloc/vec/in_place_drop.rs.html"
+}

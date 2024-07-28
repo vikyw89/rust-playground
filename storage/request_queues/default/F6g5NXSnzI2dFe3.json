@@ -1,0 +1,9 @@
+{
+	"id": "F6g5NXSnzI2dFe3",
+	"json": "{\"id\":\"F6g5NXSnzI2dFe3\",\"url\":\"https://doc.rust-lang.org/stable/std/collections/btree_set/struct.ExtractIf.html\",\"loadedUrl\":\"https://doc.rust-lang.org/stable/std/collections/btree_set/struct.ExtractIf.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/std/collections/btree_set/struct.ExtractIf.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:26:05.399Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/std/collections/btree_set/struct.ExtractIf.html",
+	"url": "https://doc.rust-lang.org/stable/std/collections/btree_set/struct.ExtractIf.html"
+}

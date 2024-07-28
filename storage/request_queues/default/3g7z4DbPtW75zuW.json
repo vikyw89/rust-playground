@@ -1,0 +1,9 @@
+{
+	"id": "3g7z4DbPtW75zuW",
+	"json": "{\"id\":\"3g7z4DbPtW75zuW\",\"url\":\"https://doc.rust-lang.org/stable/std/net/struct.Ipv6Addr.html\",\"loadedUrl\":\"https://doc.rust-lang.org/stable/std/net/struct.Ipv6Addr.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/std/net/struct.Ipv6Addr.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:14:01.806Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/std/net/struct.Ipv6Addr.html",
+	"url": "https://doc.rust-lang.org/stable/std/net/struct.Ipv6Addr.html"
+}

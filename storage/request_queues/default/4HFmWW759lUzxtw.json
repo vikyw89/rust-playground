@@ -1,0 +1,9 @@
+{
+	"id": "4HFmWW759lUzxtw",
+	"json": "{\"id\":\"4HFmWW759lUzxtw\",\"url\":\"https://doc.rust-lang.org/stable/core/arch/powerpc/struct.vector_bool_short.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/core/arch/powerpc/struct.vector_bool_short.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722144163942,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/core/arch/powerpc/struct.vector_bool_short.html",
+	"url": "https://doc.rust-lang.org/stable/core/arch/powerpc/struct.vector_bool_short.html"
+}

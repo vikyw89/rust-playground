@@ -1,0 +1,9 @@
+{
+	"id": "nIM3DMwT4HgoOX1",
+	"json": "{\"id\":\"nIM3DMwT4HgoOX1\",\"url\":\"https://doc.rust-lang.org/1.80.0/core/macro.debug_assert.html\",\"uniqueKey\":\"https://doc.rust-lang.org/1.80.0/core/macro.debug_assert.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722143587487,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/1.80.0/core/macro.debug_assert.html",
+	"url": "https://doc.rust-lang.org/1.80.0/core/macro.debug_assert.html"
+}

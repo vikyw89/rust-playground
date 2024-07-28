@@ -1,0 +1,9 @@
+{
+	"id": "XgfyeV4y9AX1kyu",
+	"json": "{\"id\":\"XgfyeV4y9AX1kyu\",\"url\":\"https://doc.rust-lang.org/stable/book/ch17-01-what-is-oo.html\",\"loadedUrl\":\"https://doc.rust-lang.org/stable/book/ch17-01-what-is-oo.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/book/ch17-01-what-is-oo.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:08:30.983Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/book/ch17-01-what-is-oo.html",
+	"url": "https://doc.rust-lang.org/stable/book/ch17-01-what-is-oo.html"
+}

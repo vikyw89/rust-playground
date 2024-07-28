@@ -1,0 +1,9 @@
+{
+	"id": "ojjOQ48jKPAf8dL",
+	"json": "{\"id\":\"ojjOQ48jKPAf8dL\",\"url\":\"https://doc.rust-lang.org/stable/alloc/borrow/enum.Cow.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/alloc/borrow/enum.Cow.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722143522464,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/alloc/borrow/enum.Cow.html",
+	"url": "https://doc.rust-lang.org/stable/alloc/borrow/enum.Cow.html"
+}

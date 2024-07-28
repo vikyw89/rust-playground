@@ -1,0 +1,9 @@
+{
+	"id": "S41LdQjeMeVwBeq",
+	"json": "{\"id\":\"S41LdQjeMeVwBeq\",\"url\":\"https://doc.rust-lang.org/stable/std/collections/hash_map/struct.Drain.html\",\"loadedUrl\":\"https://doc.rust-lang.org/stable/std/collections/hash_map/struct.Drain.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/std/collections/hash_map/struct.Drain.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:26:06.933Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/std/collections/hash_map/struct.Drain.html",
+	"url": "https://doc.rust-lang.org/stable/std/collections/hash_map/struct.Drain.html"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "TACgOaumgbcv1g6",
+	"json": "{\"id\":\"TACgOaumgbcv1g6\",\"url\":\"https://doc.rust-lang.org/nightly/nightly-rustc/rustdoc_json_types/struct.Crate.html\",\"uniqueKey\":\"https://doc.rust-lang.org/nightly/nightly-rustc/rustdoc_json_types/struct.Crate.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722144045668,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/nightly/nightly-rustc/rustdoc_json_types/struct.Crate.html",
+	"url": "https://doc.rust-lang.org/nightly/nightly-rustc/rustdoc_json_types/struct.Crate.html"
+}

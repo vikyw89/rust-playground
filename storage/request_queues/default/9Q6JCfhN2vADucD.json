@@ -1,0 +1,9 @@
+{
+	"id": "9Q6JCfhN2vADucD",
+	"json": "{\"id\":\"9Q6JCfhN2vADucD\",\"url\":\"https://doc.rust-lang.org/stable/unstable-book/language-features/fn-delegation.html\",\"loadedUrl\":\"https://doc.rust-lang.org/stable/unstable-book/language-features/fn-delegation.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/unstable-book/language-features/fn-delegation.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:15:43.071Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/unstable-book/language-features/fn-delegation.html",
+	"url": "https://doc.rust-lang.org/stable/unstable-book/language-features/fn-delegation.html"
+}

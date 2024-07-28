@@ -1,0 +1,9 @@
+{
+	"id": "lOTFfgQJLx4xwWH",
+	"json": "{\"id\":\"lOTFfgQJLx4xwWH\",\"url\":\"https://doc.rust-lang.org/stable/src/core/num/dec2flt/slow.rs.html\",\"loadedUrl\":\"https://doc.rust-lang.org/stable/src/core/num/dec2flt/slow.rs.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/src/core/num/dec2flt/slow.rs.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:29:33.268Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/src/core/num/dec2flt/slow.rs.html",
+	"url": "https://doc.rust-lang.org/stable/src/core/num/dec2flt/slow.rs.html"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "AQ7HdE8ycLQLQBx",
+	"json": "{\"id\":\"AQ7HdE8ycLQLQBx\",\"url\":\"https://doc.rust-lang.org/stable/core/arch/powerpc64/struct.vector_unsigned_short.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/core/arch/powerpc64/struct.vector_unsigned_short.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722144165042,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/core/arch/powerpc64/struct.vector_unsigned_short.html",
+	"url": "https://doc.rust-lang.org/stable/core/arch/powerpc64/struct.vector_unsigned_short.html"
+}

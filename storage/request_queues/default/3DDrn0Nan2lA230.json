@@ -1,0 +1,9 @@
+{
+	"id": "3DDrn0Nan2lA230",
+	"json": "{\"id\":\"3DDrn0Nan2lA230\",\"url\":\"https://doc.rust-lang.org/std/mem/fn.copy.html\",\"uniqueKey\":\"https://doc.rust-lang.org/std/mem/fn.copy.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722144042617,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/std/mem/fn.copy.html",
+	"url": "https://doc.rust-lang.org/std/mem/fn.copy.html"
+}

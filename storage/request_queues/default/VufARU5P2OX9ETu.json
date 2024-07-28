@@ -1,0 +1,9 @@
+{
+	"id": "VufARU5P2OX9ETu",
+	"json": "{\"id\":\"VufARU5P2OX9ETu\",\"url\":\"https://doc.rust-lang.org/std/convert/enum.Infallible.html\",\"uniqueKey\":\"https://doc.rust-lang.org/std/convert/enum.Infallible.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722144036210,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/std/convert/enum.Infallible.html",
+	"url": "https://doc.rust-lang.org/std/convert/enum.Infallible.html"
+}

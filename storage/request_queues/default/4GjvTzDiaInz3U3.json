@@ -1,0 +1,9 @@
+{
+	"id": "4GjvTzDiaInz3U3",
+	"json": "{\"id\":\"4GjvTzDiaInz3U3\",\"url\":\"https://doc.rust-lang.org/stable/nomicon/poisoning.html\",\"loadedUrl\":\"https://doc.rust-lang.org/stable/nomicon/poisoning.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/nomicon/poisoning.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:14:09.461Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/nomicon/poisoning.html",
+	"url": "https://doc.rust-lang.org/stable/nomicon/poisoning.html"
+}

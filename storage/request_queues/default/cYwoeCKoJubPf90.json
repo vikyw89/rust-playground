@@ -1,0 +1,9 @@
+{
+	"id": "cYwoeCKoJubPf90",
+	"json": "{\"id\":\"cYwoeCKoJubPf90\",\"url\":\"https://doc.rust-lang.org/stable/rust-by-example/flow_control/match/destructuring.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/rust-by-example/flow_control/match/destructuring.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722144357746,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/rust-by-example/flow_control/match/destructuring.html",
+	"url": "https://doc.rust-lang.org/stable/rust-by-example/flow_control/match/destructuring.html"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "p0vgCDJjDEqgIfw",
+	"json": "{\"id\":\"p0vgCDJjDEqgIfw\",\"url\":\"https://doc.rust-lang.org/stable/std/fmt/struct.FormatterFn.html\",\"loadedUrl\":\"https://doc.rust-lang.org/stable/std/fmt/struct.FormatterFn.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/std/fmt/struct.FormatterFn.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:23:10.569Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/std/fmt/struct.FormatterFn.html",
+	"url": "https://doc.rust-lang.org/stable/std/fmt/struct.FormatterFn.html"
+}

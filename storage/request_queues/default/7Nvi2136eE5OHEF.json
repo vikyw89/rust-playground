@@ -1,0 +1,9 @@
+{
+	"id": "7Nvi2136eE5OHEF",
+	"json": "{\"id\":\"7Nvi2136eE5OHEF\",\"url\":\"https://doc.rust-lang.org/unstable-book/language-features/builtin-syntax.html\",\"uniqueKey\":\"https://doc.rust-lang.org/unstable-book/language-features/builtin-syntax.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722144037627,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/unstable-book/language-features/builtin-syntax.html",
+	"url": "https://doc.rust-lang.org/unstable-book/language-features/builtin-syntax.html"
+}

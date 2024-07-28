@@ -1,0 +1,9 @@
+{
+	"id": "371epweGKmVI9qF",
+	"json": "{\"id\":\"371epweGKmVI9qF\",\"url\":\"https://doc.rust-lang.org/std/sync/struct.RwLock.html\",\"uniqueKey\":\"https://doc.rust-lang.org/std/sync/struct.RwLock.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722144044453,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/std/sync/struct.RwLock.html",
+	"url": "https://doc.rust-lang.org/std/sync/struct.RwLock.html"
+}

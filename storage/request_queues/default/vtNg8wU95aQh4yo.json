@@ -1,0 +1,9 @@
+{
+	"id": "vtNg8wU95aQh4yo",
+	"json": "{\"id\":\"vtNg8wU95aQh4yo\",\"url\":\"https://doc.rust-lang.org/stable/std/ptr/fn.drop_in_place.html\",\"loadedUrl\":\"https://doc.rust-lang.org/stable/std/ptr/fn.drop_in_place.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/std/ptr/fn.drop_in_place.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:13:06.996Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/std/ptr/fn.drop_in_place.html",
+	"url": "https://doc.rust-lang.org/stable/std/ptr/fn.drop_in_place.html"
+}

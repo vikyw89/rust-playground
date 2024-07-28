@@ -1,0 +1,9 @@
+{
+	"id": "DJfG8VZjl5aOUeg",
+	"json": "{\"id\":\"DJfG8VZjl5aOUeg\",\"url\":\"https://doc.rust-lang.org/book/ch04-01-what-is-ownership.html\",\"uniqueKey\":\"https://doc.rust-lang.org/book/ch04-01-what-is-ownership.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722143685939,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/book/ch04-01-what-is-ownership.html",
+	"url": "https://doc.rust-lang.org/book/ch04-01-what-is-ownership.html"
+}

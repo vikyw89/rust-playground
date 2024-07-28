@@ -1,0 +1,9 @@
+{
+	"id": "eMhFN5R0orRfdHy",
+	"json": "{\"id\":\"eMhFN5R0orRfdHy\",\"url\":\"https://doc.rust-lang.org/stable/unstable-book/language-features/non-lifetime-binders.html\",\"loadedUrl\":\"https://doc.rust-lang.org/stable/unstable-book/language-features/non-lifetime-binders.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/unstable-book/language-features/non-lifetime-binders.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:16:06.733Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/unstable-book/language-features/non-lifetime-binders.html",
+	"url": "https://doc.rust-lang.org/stable/unstable-book/language-features/non-lifetime-binders.html"
+}

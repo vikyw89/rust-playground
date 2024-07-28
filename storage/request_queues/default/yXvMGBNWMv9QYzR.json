@@ -1,0 +1,9 @@
+{
+	"id": "yXvMGBNWMv9QYzR",
+	"json": "{\"id\":\"yXvMGBNWMv9QYzR\",\"url\":\"https://doc.rust-lang.org/stable/rustc/platform-support/apple-ios-macabi.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/rustc/platform-support/apple-ios-macabi.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722143682315,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/rustc/platform-support/apple-ios-macabi.html",
+	"url": "https://doc.rust-lang.org/stable/rustc/platform-support/apple-ios-macabi.html"
+}

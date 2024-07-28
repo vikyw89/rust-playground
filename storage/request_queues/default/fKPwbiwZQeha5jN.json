@@ -1,0 +1,9 @@
+{
+	"id": "fKPwbiwZQeha5jN",
+	"json": "{\"id\":\"fKPwbiwZQeha5jN\",\"url\":\"https://doc.rust-lang.org/stable/unstable-book/library-features/slice-index-methods.html\",\"loadedUrl\":\"https://doc.rust-lang.org/stable/unstable-book/library-features/slice-index-methods.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/unstable-book/library-features/slice-index-methods.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:19:28.007Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/unstable-book/library-features/slice-index-methods.html",
+	"url": "https://doc.rust-lang.org/stable/unstable-book/library-features/slice-index-methods.html"
+}

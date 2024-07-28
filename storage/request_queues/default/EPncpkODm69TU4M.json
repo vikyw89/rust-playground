@@ -1,0 +1,9 @@
+{
+	"id": "EPncpkODm69TU4M",
+	"json": "{\"id\":\"EPncpkODm69TU4M\",\"url\":\"https://doc.rust-lang.org/1.80.0/src/std_detect/detect/arch/arm.rs.html#3-28\",\"uniqueKey\":\"https://doc.rust-lang.org/1.80.0/src/std_detect/detect/arch/arm.rs.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722144165970,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/1.80.0/src/std_detect/detect/arch/arm.rs.html",
+	"url": "https://doc.rust-lang.org/1.80.0/src/std_detect/detect/arch/arm.rs.html#3-28"
+}

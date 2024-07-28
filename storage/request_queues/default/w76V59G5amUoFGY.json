@@ -1,0 +1,9 @@
+{
+	"id": "w76V59G5amUoFGY",
+	"json": "{\"id\":\"w76V59G5amUoFGY\",\"url\":\"https://doc.rust-lang.org/stable/core/arch/x86_64/fn._mm_mask_max_ps.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/core/arch/x86_64/fn._mm_mask_max_ps.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722144170101,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/core/arch/x86_64/fn._mm_mask_max_ps.html",
+	"url": "https://doc.rust-lang.org/stable/core/arch/x86_64/fn._mm_mask_max_ps.html"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "560AiMX91S66H7o",
+	"json": "{\"id\":\"560AiMX91S66H7o\",\"url\":\"https://doc.rust-lang.org/nightly/edition-guide/print.html\",\"uniqueKey\":\"https://doc.rust-lang.org/nightly/edition-guide/print.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722144100788,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/nightly/edition-guide/print.html",
+	"url": "https://doc.rust-lang.org/nightly/edition-guide/print.html"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "4LWwhiPyc1JMqgv",
+	"json": "{\"id\":\"4LWwhiPyc1JMqgv\",\"url\":\"https://doc.rust-lang.org/book/ch19-04-advanced-types.html\",\"uniqueKey\":\"https://doc.rust-lang.org/book/ch19-04-advanced-types.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722143685976,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/book/ch19-04-advanced-types.html",
+	"url": "https://doc.rust-lang.org/book/ch19-04-advanced-types.html"
+}

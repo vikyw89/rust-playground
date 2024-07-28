@@ -1,0 +1,9 @@
+{
+	"id": "Q7jP2WHMuQKxJlY",
+	"json": "{\"id\":\"Q7jP2WHMuQKxJlY\",\"url\":\"https://doc.rust-lang.org/stable/core/arch/x86_64/fn._mm_bsrli_si128.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/core/arch/x86_64/fn._mm_bsrli_si128.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722144164362,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/core/arch/x86_64/fn._mm_bsrli_si128.html",
+	"url": "https://doc.rust-lang.org/stable/core/arch/x86_64/fn._mm_bsrli_si128.html"
+}

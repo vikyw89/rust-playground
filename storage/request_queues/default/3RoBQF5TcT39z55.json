@@ -1,0 +1,9 @@
+{
+	"id": "3RoBQF5TcT39z55",
+	"json": "{\"id\":\"3RoBQF5TcT39z55\",\"url\":\"https://doc.rust-lang.org/std/alloc/struct.System.html\",\"uniqueKey\":\"https://doc.rust-lang.org/std/alloc/struct.System.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722144044426,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/std/alloc/struct.System.html",
+	"url": "https://doc.rust-lang.org/std/alloc/struct.System.html"
+}

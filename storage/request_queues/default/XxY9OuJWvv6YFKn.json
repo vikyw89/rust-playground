@@ -1,0 +1,9 @@
+{
+	"id": "XxY9OuJWvv6YFKn",
+	"json": "{\"id\":\"XxY9OuJWvv6YFKn\",\"url\":\"https://doc.rust-lang.org/stable/core/arch/x86/fn._mm_mask_shrdi_epi32.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/core/arch/x86/fn._mm_mask_shrdi_epi32.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722144170157,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/core/arch/x86/fn._mm_mask_shrdi_epi32.html",
+	"url": "https://doc.rust-lang.org/stable/core/arch/x86/fn._mm_mask_shrdi_epi32.html"
+}

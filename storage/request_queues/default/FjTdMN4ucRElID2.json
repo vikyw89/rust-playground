@@ -1,0 +1,9 @@
+{
+	"id": "FjTdMN4ucRElID2",
+	"json": "{\"id\":\"FjTdMN4ucRElID2\",\"url\":\"https://doc.rust-lang.org/stable/cargo/reference/environment-variables.html#environment-variables-cargo-sets-for-build-scripts\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/cargo/reference/environment-variables.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722143615145,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/cargo/reference/environment-variables.html",
+	"url": "https://doc.rust-lang.org/stable/cargo/reference/environment-variables.html#environment-variables-cargo-sets-for-build-scripts"
+}

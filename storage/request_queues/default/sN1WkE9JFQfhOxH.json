@@ -1,0 +1,9 @@
+{
+	"id": "sN1WkE9JFQfhOxH",
+	"json": "{\"id\":\"sN1WkE9JFQfhOxH\",\"url\":\"https://doc.rust-lang.org/nightly/unstable-book/library-features/ptr-internals.html\",\"uniqueKey\":\"https://doc.rust-lang.org/nightly/unstable-book/library-features/ptr-internals.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722143686106,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/nightly/unstable-book/library-features/ptr-internals.html",
+	"url": "https://doc.rust-lang.org/nightly/unstable-book/library-features/ptr-internals.html"
+}

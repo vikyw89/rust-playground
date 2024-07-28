@@ -1,0 +1,9 @@
+{
+	"id": "NWG50Z9yqL56IAh",
+	"json": "{\"id\":\"NWG50Z9yqL56IAh\",\"url\":\"https://doc.rust-lang.org/stable/core/arch/x86_64/fn._mm256_cmpgt_epi16_mask.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/core/arch/x86_64/fn._mm256_cmpgt_epi16_mask.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722144164791,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/core/arch/x86_64/fn._mm256_cmpgt_epi16_mask.html",
+	"url": "https://doc.rust-lang.org/stable/core/arch/x86_64/fn._mm256_cmpgt_epi16_mask.html"
+}

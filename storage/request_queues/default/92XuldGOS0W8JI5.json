@@ -1,0 +1,9 @@
+{
+	"id": "92XuldGOS0W8JI5",
+	"json": "{\"id\":\"92XuldGOS0W8JI5\",\"url\":\"https://doc.rust-lang.org/stable/std/char/fn.from_u32_unchecked.html\",\"loadedUrl\":\"https://doc.rust-lang.org/stable/std/char/fn.from_u32_unchecked.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/std/char/fn.from_u32_unchecked.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:22:52.099Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/std/char/fn.from_u32_unchecked.html",
+	"url": "https://doc.rust-lang.org/stable/std/char/fn.from_u32_unchecked.html"
+}

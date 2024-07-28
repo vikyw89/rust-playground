@@ -1,0 +1,9 @@
+{
+	"id": "xio2Fcg6y6fRO3C",
+	"json": "{\"id\":\"xio2Fcg6y6fRO3C\",\"url\":\"https://doc.rust-lang.org/nightly/unstable-book/library-features/const-float-classify.html\",\"uniqueKey\":\"https://doc.rust-lang.org/nightly/unstable-book/library-features/const-float-classify.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722143686049,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/nightly/unstable-book/library-features/const-float-classify.html",
+	"url": "https://doc.rust-lang.org/nightly/unstable-book/library-features/const-float-classify.html"
+}

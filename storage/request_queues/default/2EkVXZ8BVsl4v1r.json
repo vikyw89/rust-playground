@@ -1,0 +1,9 @@
+{
+	"id": "2EkVXZ8BVsl4v1r",
+	"json": "{\"id\":\"2EkVXZ8BVsl4v1r\",\"url\":\"https://doc.rust-lang.org/test/enum.ColorConfig.html\",\"uniqueKey\":\"https://doc.rust-lang.org/test/enum.ColorConfig.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722144044454,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/test/enum.ColorConfig.html",
+	"url": "https://doc.rust-lang.org/test/enum.ColorConfig.html"
+}

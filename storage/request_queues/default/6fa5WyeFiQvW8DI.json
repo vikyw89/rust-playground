@@ -1,0 +1,9 @@
+{
+	"id": "6fa5WyeFiQvW8DI",
+	"json": "{\"id\":\"6fa5WyeFiQvW8DI\",\"url\":\"https://doc.rust-lang.org/stable/core/arch/wasm32/fn.i32x4_trunc_sat_f32x4.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/core/arch/wasm32/fn.i32x4_trunc_sat_f32x4.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722144166089,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/core/arch/wasm32/fn.i32x4_trunc_sat_f32x4.html",
+	"url": "https://doc.rust-lang.org/stable/core/arch/wasm32/fn.i32x4_trunc_sat_f32x4.html"
+}

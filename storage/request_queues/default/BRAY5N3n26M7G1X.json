@@ -1,0 +1,9 @@
+{
+	"id": "BRAY5N3n26M7G1X",
+	"json": "{\"id\":\"BRAY5N3n26M7G1X\",\"url\":\"https://doc.rust-lang.org/stable/error_codes/E0072.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/error_codes/E0072.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722143586718,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/error_codes/E0072.html",
+	"url": "https://doc.rust-lang.org/stable/error_codes/E0072.html"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "LhwxONwswxcbj57",
+	"json": "{\"id\":\"LhwxONwswxcbj57\",\"url\":\"https://doc.rust-lang.org/1.80.0/src/core/num/flt2dec/strategy/dragon.rs.html\",\"uniqueKey\":\"https://doc.rust-lang.org/1.80.0/src/core/num/flt2dec/strategy/dragon.rs.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722143511709,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/1.80.0/src/core/num/flt2dec/strategy/dragon.rs.html",
+	"url": "https://doc.rust-lang.org/1.80.0/src/core/num/flt2dec/strategy/dragon.rs.html"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "BmK4W5w7eMazHaf",
+	"json": "{\"id\":\"BmK4W5w7eMazHaf\",\"url\":\"https://doc.rust-lang.org/stable/core/arch/x86_64/fn._mm256_maskz_max_pd.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/core/arch/x86_64/fn._mm256_maskz_max_pd.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722144166391,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/core/arch/x86_64/fn._mm256_maskz_max_pd.html",
+	"url": "https://doc.rust-lang.org/stable/core/arch/x86_64/fn._mm256_maskz_max_pd.html"
+}

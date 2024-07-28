@@ -1,0 +1,9 @@
+{
+	"id": "njSCzb0Y8pYjpie",
+	"json": "{\"id\":\"njSCzb0Y8pYjpie\",\"url\":\"https://doc.rust-lang.org/1.80.0/src/std/sync/barrier.rs.html\",\"uniqueKey\":\"https://doc.rust-lang.org/1.80.0/src/std/sync/barrier.rs.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722143512339,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/1.80.0/src/std/sync/barrier.rs.html",
+	"url": "https://doc.rust-lang.org/1.80.0/src/std/sync/barrier.rs.html"
+}

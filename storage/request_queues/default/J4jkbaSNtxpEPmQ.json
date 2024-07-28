@@ -1,0 +1,9 @@
+{
+	"id": "J4jkbaSNtxpEPmQ",
+	"json": "{\"id\":\"J4jkbaSNtxpEPmQ\",\"url\":\"https://doc.rust-lang.org/nightly/nightly-rustc/rustdoc_json_types/struct.ExternalCrate.html\",\"uniqueKey\":\"https://doc.rust-lang.org/nightly/nightly-rustc/rustdoc_json_types/struct.ExternalCrate.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722144045673,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/nightly/nightly-rustc/rustdoc_json_types/struct.ExternalCrate.html",
+	"url": "https://doc.rust-lang.org/nightly/nightly-rustc/rustdoc_json_types/struct.ExternalCrate.html"
+}

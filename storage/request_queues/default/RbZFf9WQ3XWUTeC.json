@@ -1,0 +1,9 @@
+{
+	"id": "RbZFf9WQ3XWUTeC",
+	"json": "{\"id\":\"RbZFf9WQ3XWUTeC\",\"url\":\"https://doc.rust-lang.org/reference/types/function-item.html\",\"uniqueKey\":\"https://doc.rust-lang.org/reference/types/function-item.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722143556340,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/reference/types/function-item.html",
+	"url": "https://doc.rust-lang.org/reference/types/function-item.html"
+}

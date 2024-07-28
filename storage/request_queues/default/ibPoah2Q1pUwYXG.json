@@ -1,0 +1,9 @@
+{
+	"id": "ibPoah2Q1pUwYXG",
+	"json": "{\"id\":\"ibPoah2Q1pUwYXG\",\"url\":\"https://doc.rust-lang.org/stable/std/intrinsics/fn.prefetch_write_data.html\",\"loadedUrl\":\"https://doc.rust-lang.org/stable/std/intrinsics/fn.prefetch_write_data.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/std/intrinsics/fn.prefetch_write_data.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:23:42.181Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/std/intrinsics/fn.prefetch_write_data.html",
+	"url": "https://doc.rust-lang.org/stable/std/intrinsics/fn.prefetch_write_data.html"
+}

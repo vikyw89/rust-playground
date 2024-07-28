@@ -1,0 +1,9 @@
+{
+	"id": "l5gotOTxg6W0fBh",
+	"json": "{\"id\":\"l5gotOTxg6W0fBh\",\"url\":\"https://doc.rust-lang.org/stable/core/arch/x86_64/fn._mm_cvt_roundi64_sd.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/core/arch/x86_64/fn._mm_cvt_roundi64_sd.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722144169916,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/core/arch/x86_64/fn._mm_cvt_roundi64_sd.html",
+	"url": "https://doc.rust-lang.org/stable/core/arch/x86_64/fn._mm_cvt_roundi64_sd.html"
+}

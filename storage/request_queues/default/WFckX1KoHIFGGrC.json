@@ -1,0 +1,9 @@
+{
+	"id": "WFckX1KoHIFGGrC",
+	"json": "{\"id\":\"WFckX1KoHIFGGrC\",\"url\":\"https://doc.rust-lang.org/rust-by-example/flow_control/while_let.html\",\"uniqueKey\":\"https://doc.rust-lang.org/rust-by-example/flow_control/while_let.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722144351160,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/rust-by-example/flow_control/while_let.html",
+	"url": "https://doc.rust-lang.org/rust-by-example/flow_control/while_let.html"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "W7jXa9MH30p4bhn",
+	"json": "{\"id\":\"W7jXa9MH30p4bhn\",\"url\":\"https://doc.rust-lang.org/stable/std/ptr/fn.null_mut.html\",\"loadedUrl\":\"https://doc.rust-lang.org/stable/std/ptr/fn.null_mut.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/std/ptr/fn.null_mut.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:21:28.815Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/std/ptr/fn.null_mut.html",
+	"url": "https://doc.rust-lang.org/stable/std/ptr/fn.null_mut.html"
+}

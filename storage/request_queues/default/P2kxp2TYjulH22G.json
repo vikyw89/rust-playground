@@ -1,0 +1,9 @@
+{
+	"id": "P2kxp2TYjulH22G",
+	"json": "{\"id\":\"P2kxp2TYjulH22G\",\"url\":\"https://doc.rust-lang.org/nightly/unstable-book/language-features/async-fn-track-caller.html\",\"uniqueKey\":\"https://doc.rust-lang.org/nightly/unstable-book/language-features/async-fn-track-caller.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722143685970,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/nightly/unstable-book/language-features/async-fn-track-caller.html",
+	"url": "https://doc.rust-lang.org/nightly/unstable-book/language-features/async-fn-track-caller.html"
+}

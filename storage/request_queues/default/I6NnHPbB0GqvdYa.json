@@ -1,0 +1,9 @@
+{
+	"id": "I6NnHPbB0GqvdYa",
+	"json": "{\"id\":\"I6NnHPbB0GqvdYa\",\"url\":\"https://doc.rust-lang.org/cargo/reference/cargo-targets.html\",\"loadedUrl\":\"https://doc.rust-lang.org/cargo/reference/cargo-targets.html\",\"uniqueKey\":\"https://doc.rust-lang.org/cargo/reference/cargo-targets.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:09:21.657Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/cargo/reference/cargo-targets.html",
+	"url": "https://doc.rust-lang.org/cargo/reference/cargo-targets.html"
+}

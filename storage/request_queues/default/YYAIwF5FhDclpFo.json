@@ -1,0 +1,9 @@
+{
+	"id": "YYAIwF5FhDclpFo",
+	"json": "{\"id\":\"YYAIwF5FhDclpFo\",\"url\":\"https://doc.rust-lang.org/stable/core/arch/x86/fn._rdtsc.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/core/arch/x86/fn._rdtsc.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722144164725,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/core/arch/x86/fn._rdtsc.html",
+	"url": "https://doc.rust-lang.org/stable/core/arch/x86/fn._rdtsc.html"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "PKAn9D1O3yVg6ci",
+	"json": "{\"id\":\"PKAn9D1O3yVg6ci\",\"url\":\"https://doc.rust-lang.org/stable/unstable-book/language-features/sse4a-target-feature.html\",\"loadedUrl\":\"https://doc.rust-lang.org/stable/unstable-book/language-features/sse4a-target-feature.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/unstable-book/language-features/sse4a-target-feature.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:16:25.052Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/unstable-book/language-features/sse4a-target-feature.html",
+	"url": "https://doc.rust-lang.org/stable/unstable-book/language-features/sse4a-target-feature.html"
+}

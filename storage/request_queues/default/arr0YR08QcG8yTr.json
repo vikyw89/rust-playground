@@ -1,0 +1,9 @@
+{
+	"id": "arr0YR08QcG8yTr",
+	"json": "{\"id\":\"arr0YR08QcG8yTr\",\"url\":\"https://doc.rust-lang.org/stable/std/intrinsics/mir/fn.Static.html\",\"loadedUrl\":\"https://doc.rust-lang.org/stable/std/intrinsics/mir/fn.Static.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/std/intrinsics/mir/fn.Static.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:26:41.663Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/std/intrinsics/mir/fn.Static.html",
+	"url": "https://doc.rust-lang.org/stable/std/intrinsics/mir/fn.Static.html"
+}

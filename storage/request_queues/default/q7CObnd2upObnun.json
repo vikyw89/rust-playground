@@ -1,0 +1,9 @@
+{
+	"id": "q7CObnd2upObnun",
+	"json": "{\"id\":\"q7CObnd2upObnun\",\"url\":\"https://doc.rust-lang.org/stable/reference/types/trait-object.html\",\"loadedUrl\":\"https://doc.rust-lang.org/stable/reference/types/trait-object.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/reference/types/trait-object.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:13:26.199Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/reference/types/trait-object.html",
+	"url": "https://doc.rust-lang.org/stable/reference/types/trait-object.html"
+}

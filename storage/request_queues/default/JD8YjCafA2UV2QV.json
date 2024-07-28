@@ -1,0 +1,9 @@
+{
+	"id": "JD8YjCafA2UV2QV",
+	"json": "{\"id\":\"JD8YjCafA2UV2QV\",\"url\":\"https://doc.rust-lang.org/stable/rustc/platform-support/arm64ec-pc-windows-msvc.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/rustc/platform-support/arm64ec-pc-windows-msvc.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722143682310,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/rustc/platform-support/arm64ec-pc-windows-msvc.html",
+	"url": "https://doc.rust-lang.org/stable/rustc/platform-support/arm64ec-pc-windows-msvc.html"
+}

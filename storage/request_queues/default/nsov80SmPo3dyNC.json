@@ -1,0 +1,9 @@
+{
+	"id": "nsov80SmPo3dyNC",
+	"json": "{\"id\":\"nsov80SmPo3dyNC\",\"url\":\"https://doc.rust-lang.org/stable/core/arch/x86_64/fn._mm256_load_si256.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/core/arch/x86_64/fn._mm256_load_si256.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722144164257,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/core/arch/x86_64/fn._mm256_load_si256.html",
+	"url": "https://doc.rust-lang.org/stable/core/arch/x86_64/fn._mm256_load_si256.html"
+}

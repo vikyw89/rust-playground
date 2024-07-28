@@ -1,0 +1,9 @@
+{
+	"id": "61WcIm6xRRa3ISm",
+	"json": "{\"id\":\"61WcIm6xRRa3ISm\",\"url\":\"https://doc.rust-lang.org/stable/core/arch/x86/fn._mm256_set_epi64x.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/core/arch/x86/fn._mm256_set_epi64x.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722144164286,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/core/arch/x86/fn._mm256_set_epi64x.html",
+	"url": "https://doc.rust-lang.org/stable/core/arch/x86/fn._mm256_set_epi64x.html"
+}

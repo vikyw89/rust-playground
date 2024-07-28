@@ -1,0 +1,9 @@
+{
+	"id": "UkdL8imA6lDFuuD",
+	"json": "{\"id\":\"UkdL8imA6lDFuuD\",\"url\":\"https://doc.rust-lang.org/stable/std/collections/struct.HashMap.html\",\"loadedUrl\":\"https://doc.rust-lang.org/stable/std/collections/struct.HashMap.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/std/collections/struct.HashMap.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:13:59.420Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/std/collections/struct.HashMap.html",
+	"url": "https://doc.rust-lang.org/stable/std/collections/struct.HashMap.html"
+}

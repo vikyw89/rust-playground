@@ -1,0 +1,9 @@
+{
+	"id": "NK4Oya1s07u7wgA",
+	"json": "{\"id\":\"NK4Oya1s07u7wgA\",\"url\":\"https://doc.rust-lang.org/stable/core/arch/x86/fn._mm512_broadcastb_epi8.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/core/arch/x86/fn._mm512_broadcastb_epi8.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722144166538,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/core/arch/x86/fn._mm512_broadcastb_epi8.html",
+	"url": "https://doc.rust-lang.org/stable/core/arch/x86/fn._mm512_broadcastb_epi8.html"
+}

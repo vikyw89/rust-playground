@@ -1,0 +1,9 @@
+{
+	"id": "Vex0lgZA2h5B7AM",
+	"json": "{\"id\":\"Vex0lgZA2h5B7AM\",\"url\":\"https://doc.rust-lang.org/unstable-book/language-features/negative-impls.html\",\"uniqueKey\":\"https://doc.rust-lang.org/unstable-book/language-features/negative-impls.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722144037662,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/unstable-book/language-features/negative-impls.html",
+	"url": "https://doc.rust-lang.org/unstable-book/language-features/negative-impls.html"
+}

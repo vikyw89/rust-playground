@@ -1,0 +1,9 @@
+{
+	"id": "1Ay6m8RcqTIf1sv",
+	"json": "{\"id\":\"1Ay6m8RcqTIf1sv\",\"url\":\"https://doc.rust-lang.org/stable/std/os/unix/net/struct.UnixStream.html\",\"loadedUrl\":\"https://doc.rust-lang.org/stable/std/os/unix/net/struct.UnixStream.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/std/os/unix/net/struct.UnixStream.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:25:56.894Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/std/os/unix/net/struct.UnixStream.html",
+	"url": "https://doc.rust-lang.org/stable/std/os/unix/net/struct.UnixStream.html"
+}

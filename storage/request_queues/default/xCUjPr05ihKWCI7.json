@@ -1,0 +1,9 @@
+{
+	"id": "xCUjPr05ihKWCI7",
+	"json": "{\"id\":\"xCUjPr05ihKWCI7\",\"url\":\"https://doc.rust-lang.org/stable/std/sync/mpsc/fn.sync_channel.html\",\"loadedUrl\":\"https://doc.rust-lang.org/stable/std/sync/mpsc/fn.sync_channel.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/std/sync/mpsc/fn.sync_channel.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:26:51.880Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/std/sync/mpsc/fn.sync_channel.html",
+	"url": "https://doc.rust-lang.org/stable/std/sync/mpsc/fn.sync_channel.html"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "0MCZ8fbD5AEUewJ",
+	"json": "{\"id\":\"0MCZ8fbD5AEUewJ\",\"url\":\"https://doc.rust-lang.org/stable/unstable-book/library-features/float-gamma.html\",\"loadedUrl\":\"https://doc.rust-lang.org/stable/unstable-book/library-features/float-gamma.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/unstable-book/library-features/float-gamma.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:18:11.269Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/unstable-book/library-features/float-gamma.html",
+	"url": "https://doc.rust-lang.org/stable/unstable-book/library-features/float-gamma.html"
+}

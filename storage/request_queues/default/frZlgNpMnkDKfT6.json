@@ -1,0 +1,9 @@
+{
+	"id": "frZlgNpMnkDKfT6",
+	"json": "{\"id\":\"frZlgNpMnkDKfT6\",\"url\":\"https://doc.rust-lang.org/stable/unstable-book/library-features/pattern.html\",\"loadedUrl\":\"https://doc.rust-lang.org/stable/unstable-book/library-features/pattern.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/unstable-book/library-features/pattern.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:19:03.137Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/unstable-book/library-features/pattern.html",
+	"url": "https://doc.rust-lang.org/stable/unstable-book/library-features/pattern.html"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "Lh2mcE88PIEs0jA",
+	"json": "{\"id\":\"Lh2mcE88PIEs0jA\",\"url\":\"https://doc.rust-lang.org/stable/core/arch/x86_64/fn._mm512_castsi512_si256.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/core/arch/x86_64/fn._mm512_castsi512_si256.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722144166575,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/core/arch/x86_64/fn._mm512_castsi512_si256.html",
+	"url": "https://doc.rust-lang.org/stable/core/arch/x86_64/fn._mm512_castsi512_si256.html"
+}

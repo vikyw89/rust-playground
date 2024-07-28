@@ -1,0 +1,9 @@
+{
+	"id": "9WoD8zp9P6uZQMd",
+	"json": "{\"id\":\"9WoD8zp9P6uZQMd\",\"url\":\"https://doc.rust-lang.org/1.80.0/src/alloc/collections/btree/borrow.rs.html\",\"uniqueKey\":\"https://doc.rust-lang.org/1.80.0/src/alloc/collections/btree/borrow.rs.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722143511679,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/1.80.0/src/alloc/collections/btree/borrow.rs.html",
+	"url": "https://doc.rust-lang.org/1.80.0/src/alloc/collections/btree/borrow.rs.html"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "25PGVbKNyt37IBW",
+	"json": "{\"id\":\"25PGVbKNyt37IBW\",\"url\":\"https://doc.rust-lang.org/nightly/unstable-book/language-features/more-maybe-bounds.html\",\"uniqueKey\":\"https://doc.rust-lang.org/nightly/unstable-book/language-features/more-maybe-bounds.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722143686006,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/nightly/unstable-book/language-features/more-maybe-bounds.html",
+	"url": "https://doc.rust-lang.org/nightly/unstable-book/language-features/more-maybe-bounds.html"
+}

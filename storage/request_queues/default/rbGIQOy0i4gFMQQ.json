@@ -1,0 +1,9 @@
+{
+	"id": "rbGIQOy0i4gFMQQ",
+	"json": "{\"id\":\"rbGIQOy0i4gFMQQ\",\"url\":\"https://doc.rust-lang.org/unstable-book/library-features/duration-abs-diff.html\",\"uniqueKey\":\"https://doc.rust-lang.org/unstable-book/library-features/duration-abs-diff.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722144037746,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/unstable-book/library-features/duration-abs-diff.html",
+	"url": "https://doc.rust-lang.org/unstable-book/library-features/duration-abs-diff.html"
+}

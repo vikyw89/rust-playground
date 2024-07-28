@@ -1,0 +1,9 @@
+{
+	"id": "WgbkDkHX7in99zU",
+	"json": "{\"id\":\"WgbkDkHX7in99zU\",\"url\":\"https://doc.rust-lang.org/stable/unstable-book/language-features/const-refs-to-static.html\",\"loadedUrl\":\"https://doc.rust-lang.org/stable/unstable-book/language-features/const-refs-to-static.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/unstable-book/language-features/const-refs-to-static.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:15:31.315Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/unstable-book/language-features/const-refs-to-static.html",
+	"url": "https://doc.rust-lang.org/stable/unstable-book/language-features/const-refs-to-static.html"
+}

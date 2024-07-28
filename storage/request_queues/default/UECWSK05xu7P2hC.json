@@ -1,0 +1,9 @@
+{
+	"id": "UECWSK05xu7P2hC",
+	"json": "{\"id\":\"UECWSK05xu7P2hC\",\"url\":\"https://doc.rust-lang.org/stable/std/sync/struct.OnceLock.html\",\"loadedUrl\":\"https://doc.rust-lang.org/stable/std/sync/struct.OnceLock.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/std/sync/struct.OnceLock.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:13:21.015Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/std/sync/struct.OnceLock.html",
+	"url": "https://doc.rust-lang.org/stable/std/sync/struct.OnceLock.html"
+}

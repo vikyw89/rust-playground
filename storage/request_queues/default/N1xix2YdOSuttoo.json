@@ -1,0 +1,9 @@
+{
+	"id": "N1xix2YdOSuttoo",
+	"json": "{\"id\":\"N1xix2YdOSuttoo\",\"url\":\"https://doc.rust-lang.org/1.80.0/core/marker/trait.Unpin.html\",\"uniqueKey\":\"https://doc.rust-lang.org/1.80.0/core/marker/trait.Unpin.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722143501114,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/1.80.0/core/marker/trait.Unpin.html",
+	"url": "https://doc.rust-lang.org/1.80.0/core/marker/trait.Unpin.html"
+}

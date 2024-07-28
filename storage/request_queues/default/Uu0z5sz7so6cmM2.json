@@ -1,0 +1,9 @@
+{
+	"id": "Uu0z5sz7so6cmM2",
+	"json": "{\"id\":\"Uu0z5sz7so6cmM2\",\"url\":\"https://doc.rust-lang.org/stable/src/core/num/bignum.rs.html\",\"loadedUrl\":\"https://doc.rust-lang.org/stable/src/core/num/bignum.rs.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/src/core/num/bignum.rs.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:29:36.408Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/src/core/num/bignum.rs.html",
+	"url": "https://doc.rust-lang.org/stable/src/core/num/bignum.rs.html"
+}

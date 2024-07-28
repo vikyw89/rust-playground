@@ -1,0 +1,9 @@
+{
+	"id": "XQed9m7uM1hXzyy",
+	"json": "{\"id\":\"XQed9m7uM1hXzyy\",\"url\":\"https://doc.rust-lang.org/nightly/unstable-book/library-features/solid-ext.html\",\"uniqueKey\":\"https://doc.rust-lang.org/nightly/unstable-book/library-features/solid-ext.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722143686116,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/nightly/unstable-book/library-features/solid-ext.html",
+	"url": "https://doc.rust-lang.org/nightly/unstable-book/library-features/solid-ext.html"
+}

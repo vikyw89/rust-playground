@@ -1,0 +1,9 @@
+{
+	"id": "3Ijfh9Zvn9xYmge",
+	"json": "{\"id\":\"3Ijfh9Zvn9xYmge\",\"url\":\"https://doc.rust-lang.org/nomicon/arc-mutex/arc-and-mutex.html\",\"uniqueKey\":\"https://doc.rust-lang.org/nomicon/arc-mutex/arc-and-mutex.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722144041617,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/nomicon/arc-mutex/arc-and-mutex.html",
+	"url": "https://doc.rust-lang.org/nomicon/arc-mutex/arc-and-mutex.html"
+}

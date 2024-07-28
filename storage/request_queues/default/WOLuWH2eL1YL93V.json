@@ -1,0 +1,9 @@
+{
+	"id": "WOLuWH2eL1YL93V",
+	"json": "{\"id\":\"WOLuWH2eL1YL93V\",\"url\":\"https://doc.rust-lang.org/stable/reference/expressions/tuple-expr.html\",\"loadedUrl\":\"https://doc.rust-lang.org/stable/reference/expressions/tuple-expr.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/reference/expressions/tuple-expr.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:13:07.123Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/reference/expressions/tuple-expr.html",
+	"url": "https://doc.rust-lang.org/stable/reference/expressions/tuple-expr.html"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "geM5yb1rU2Ey5Oi",
+	"json": "{\"id\":\"geM5yb1rU2Ey5Oi\",\"url\":\"https://doc.rust-lang.org/stable/core/arch/x86_64/fn._mm512_scalef_round_pd.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/core/arch/x86_64/fn._mm512_scalef_round_pd.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722144168479,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/core/arch/x86_64/fn._mm512_scalef_round_pd.html",
+	"url": "https://doc.rust-lang.org/stable/core/arch/x86_64/fn._mm512_scalef_round_pd.html"
+}

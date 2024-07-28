@@ -1,0 +1,9 @@
+{
+	"id": "Scm2z9OFrpK6BdR",
+	"json": "{\"id\":\"Scm2z9OFrpK6BdR\",\"url\":\"https://doc.rust-lang.org/stable/unstable-book/library-features/sized-type-properties.html\",\"loadedUrl\":\"https://doc.rust-lang.org/stable/unstable-book/library-features/sized-type-properties.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/unstable-book/library-features/sized-type-properties.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:19:23.772Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/unstable-book/library-features/sized-type-properties.html",
+	"url": "https://doc.rust-lang.org/stable/unstable-book/library-features/sized-type-properties.html"
+}

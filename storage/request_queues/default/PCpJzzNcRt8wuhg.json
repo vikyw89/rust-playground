@@ -1,0 +1,9 @@
+{
+	"id": "PCpJzzNcRt8wuhg",
+	"json": "{\"id\":\"PCpJzzNcRt8wuhg\",\"url\":\"https://doc.rust-lang.org/1.80.0/core/core_arch/x86/struct.__m512i.html\",\"uniqueKey\":\"https://doc.rust-lang.org/1.80.0/core/core_arch/x86/struct.__m512i.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722143498231,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/1.80.0/core/core_arch/x86/struct.__m512i.html",
+	"url": "https://doc.rust-lang.org/1.80.0/core/core_arch/x86/struct.__m512i.html"
+}

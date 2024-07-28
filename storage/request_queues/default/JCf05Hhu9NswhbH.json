@@ -1,0 +1,9 @@
+{
+	"id": "JCf05Hhu9NswhbH",
+	"json": "{\"id\":\"JCf05Hhu9NswhbH\",\"url\":\"https://doc.rust-lang.org/stable/core/arch/powerpc64/struct.vector_unsigned_int.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/core/arch/powerpc64/struct.vector_unsigned_int.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722144165041,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/core/arch/powerpc64/struct.vector_unsigned_int.html",
+	"url": "https://doc.rust-lang.org/stable/core/arch/powerpc64/struct.vector_unsigned_int.html"
+}

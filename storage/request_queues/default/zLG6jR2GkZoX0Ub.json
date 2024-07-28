@@ -1,0 +1,9 @@
+{
+	"id": "zLG6jR2GkZoX0Ub",
+	"json": "{\"id\":\"zLG6jR2GkZoX0Ub\",\"url\":\"https://doc.rust-lang.org/cargo/guide/working-on-an-existing-project.html\",\"loadedUrl\":\"https://doc.rust-lang.org/cargo/guide/working-on-an-existing-project.html\",\"uniqueKey\":\"https://doc.rust-lang.org/cargo/guide/working-on-an-existing-project.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:09:19.565Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/cargo/guide/working-on-an-existing-project.html",
+	"url": "https://doc.rust-lang.org/cargo/guide/working-on-an-existing-project.html"
+}

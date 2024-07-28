@@ -1,0 +1,9 @@
+{
+	"id": "gu80KCOSmogcpvE",
+	"json": "{\"id\":\"gu80KCOSmogcpvE\",\"url\":\"https://doc.rust-lang.org/std/primitive.bool.html\",\"uniqueKey\":\"https://doc.rust-lang.org/std/primitive.bool.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722143685705,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/std/primitive.bool.html",
+	"url": "https://doc.rust-lang.org/std/primitive.bool.html"
+}

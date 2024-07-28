@@ -1,0 +1,9 @@
+{
+	"id": "LFxfDLIj4dIijkL",
+	"json": "{\"id\":\"LFxfDLIj4dIijkL\",\"url\":\"https://doc.rust-lang.org/stable/book/ch15-02-deref.html\",\"loadedUrl\":\"https://doc.rust-lang.org/stable/book/ch15-02-deref.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/book/ch15-02-deref.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:08:29.082Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/book/ch15-02-deref.html",
+	"url": "https://doc.rust-lang.org/stable/book/ch15-02-deref.html"
+}

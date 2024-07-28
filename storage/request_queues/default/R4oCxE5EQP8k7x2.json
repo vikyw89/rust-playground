@@ -1,0 +1,9 @@
+{
+	"id": "R4oCxE5EQP8k7x2",
+	"json": "{\"id\":\"R4oCxE5EQP8k7x2\",\"url\":\"https://doc.rust-lang.org/stable/core/arch/x86_64/fn._mm_cmpestro.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/core/arch/x86_64/fn._mm_cmpestro.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722144164376,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/core/arch/x86_64/fn._mm_cmpestro.html",
+	"url": "https://doc.rust-lang.org/stable/core/arch/x86_64/fn._mm_cmpestro.html"
+}

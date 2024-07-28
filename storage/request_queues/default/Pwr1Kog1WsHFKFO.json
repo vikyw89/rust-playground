@@ -1,0 +1,9 @@
+{
+	"id": "Pwr1Kog1WsHFKFO",
+	"json": "{\"id\":\"Pwr1Kog1WsHFKFO\",\"url\":\"https://doc.rust-lang.org/1.80.0/src/std/io/buffered/linewriter.rs.html\",\"uniqueKey\":\"https://doc.rust-lang.org/1.80.0/src/std/io/buffered/linewriter.rs.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722143512314,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/1.80.0/src/std/io/buffered/linewriter.rs.html",
+	"url": "https://doc.rust-lang.org/1.80.0/src/std/io/buffered/linewriter.rs.html"
+}

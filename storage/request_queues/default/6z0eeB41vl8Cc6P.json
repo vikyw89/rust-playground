@@ -1,0 +1,9 @@
+{
+	"id": "6z0eeB41vl8Cc6P",
+	"json": "{\"id\":\"6z0eeB41vl8Cc6P\",\"url\":\"https://doc.rust-lang.org/nightly/rust-by-example/fn/hof.html\",\"uniqueKey\":\"https://doc.rust-lang.org/nightly/rust-by-example/fn/hof.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722144357803,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/nightly/rust-by-example/fn/hof.html",
+	"url": "https://doc.rust-lang.org/nightly/rust-by-example/fn/hof.html"
+}

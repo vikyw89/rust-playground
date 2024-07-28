@@ -1,0 +1,9 @@
+{
+	"id": "YpN8Ij4kVV3WaBU",
+	"json": "{\"id\":\"YpN8Ij4kVV3WaBU\",\"url\":\"https://doc.rust-lang.org/stable/core/arch/x86/fn._mm512_mask_min_epi64.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/core/arch/x86/fn._mm512_mask_min_epi64.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722144167913,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/core/arch/x86/fn._mm512_mask_min_epi64.html",
+	"url": "https://doc.rust-lang.org/stable/core/arch/x86/fn._mm512_mask_min_epi64.html"
+}

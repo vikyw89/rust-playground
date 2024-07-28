@@ -1,0 +1,9 @@
+{
+	"id": "fYEuwr0WBCYfxRF",
+	"json": "{\"id\":\"fYEuwr0WBCYfxRF\",\"url\":\"https://doc.rust-lang.org/stable/std/iter/trait.IntoIterator.html\",\"loadedUrl\":\"https://doc.rust-lang.org/stable/std/iter/trait.IntoIterator.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/std/iter/trait.IntoIterator.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:11:56.657Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/std/iter/trait.IntoIterator.html",
+	"url": "https://doc.rust-lang.org/stable/std/iter/trait.IntoIterator.html"
+}

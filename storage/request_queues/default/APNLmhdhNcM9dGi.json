@@ -1,0 +1,9 @@
+{
+	"id": "APNLmhdhNcM9dGi",
+	"json": "{\"id\":\"APNLmhdhNcM9dGi\",\"url\":\"https://doc.rust-lang.org/stable/core/arch/x86_64/constant._MM_EXCEPT_INVALID.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/core/arch/x86_64/constant._MM_EXCEPT_INVALID.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722144163986,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/core/arch/x86_64/constant._MM_EXCEPT_INVALID.html",
+	"url": "https://doc.rust-lang.org/stable/core/arch/x86_64/constant._MM_EXCEPT_INVALID.html"
+}

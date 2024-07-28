@@ -1,0 +1,9 @@
+{
+	"id": "LZhirvA2U7q0Qj4",
+	"json": "{\"id\":\"LZhirvA2U7q0Qj4\",\"url\":\"https://doc.rust-lang.org/rustc/platform-support/wasm32-wasip1-threads.html\",\"uniqueKey\":\"https://doc.rust-lang.org/rustc/platform-support/wasm32-wasip1-threads.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722143682264,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/rustc/platform-support/wasm32-wasip1-threads.html",
+	"url": "https://doc.rust-lang.org/rustc/platform-support/wasm32-wasip1-threads.html"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "qnrckLmT6IJmgKe",
+	"json": "{\"id\":\"qnrckLmT6IJmgKe\",\"url\":\"https://doc.rust-lang.org/stable/core/arch/x86_64/fn._mm512_castps512_ps256.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/core/arch/x86_64/fn._mm512_castps512_ps256.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722144166572,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/core/arch/x86_64/fn._mm512_castps512_ps256.html",
+	"url": "https://doc.rust-lang.org/stable/core/arch/x86_64/fn._mm512_castps512_ps256.html"
+}

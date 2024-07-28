@@ -1,0 +1,9 @@
+{
+	"id": "1w861TD6s1h9Jf9",
+	"json": "{\"id\":\"1w861TD6s1h9Jf9\",\"url\":\"https://doc.rust-lang.org/stable/core/arch/x86/fn._mm_min_epi16.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/core/arch/x86/fn._mm_min_epi16.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722144164611,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/core/arch/x86/fn._mm_min_epi16.html",
+	"url": "https://doc.rust-lang.org/stable/core/arch/x86/fn._mm_min_epi16.html"
+}

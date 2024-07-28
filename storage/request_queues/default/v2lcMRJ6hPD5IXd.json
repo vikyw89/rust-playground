@@ -1,0 +1,9 @@
+{
+	"id": "v2lcMRJ6hPD5IXd",
+	"json": "{\"id\":\"v2lcMRJ6hPD5IXd\",\"url\":\"https://doc.rust-lang.org/1.80.0/std/index.html?search=iterator%3CT%3E%2C%20fnmut%20-%3E%20T&filter-crate=std\",\"uniqueKey\":\"https://doc.rust-lang.org/1.80.0/std/index.html?filter-crate=std&search=iterator%3CT%3E%2C+fnmut+-%3E+T\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722144390067,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/1.80.0/std/index.html?filter-crate=std&search=iterator%3CT%3E%2C+fnmut+-%3E+T",
+	"url": "https://doc.rust-lang.org/1.80.0/std/index.html?search=iterator%3CT%3E%2C%20fnmut%20-%3E%20T&filter-crate=std"
+}

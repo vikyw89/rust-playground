@@ -1,0 +1,9 @@
+{
+	"id": "2tfBMCxOhnVskdM",
+	"json": "{\"id\":\"2tfBMCxOhnVskdM\",\"url\":\"https://doc.rust-lang.org/stable/std/os/unix/net/struct.UnixDatagram.html\",\"loadedUrl\":\"https://doc.rust-lang.org/stable/std/os/unix/net/struct.UnixDatagram.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/std/os/unix/net/struct.UnixDatagram.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:26:20.455Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/std/os/unix/net/struct.UnixDatagram.html",
+	"url": "https://doc.rust-lang.org/stable/std/os/unix/net/struct.UnixDatagram.html"
+}

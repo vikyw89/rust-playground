@@ -1,0 +1,9 @@
+{
+	"id": "WG8iq2mhgWtKX2p",
+	"json": "{\"id\":\"WG8iq2mhgWtKX2p\",\"url\":\"https://doc.rust-lang.org/stable/core/arch/x86_64/constant._MM_CMPINT_TRUE.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/core/arch/x86_64/constant._MM_CMPINT_TRUE.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722144164033,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/core/arch/x86_64/constant._MM_CMPINT_TRUE.html",
+	"url": "https://doc.rust-lang.org/stable/core/arch/x86_64/constant._MM_CMPINT_TRUE.html"
+}

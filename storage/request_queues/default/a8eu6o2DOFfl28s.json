@@ -1,0 +1,9 @@
+{
+	"id": "a8eu6o2DOFfl28s",
+	"json": "{\"id\":\"a8eu6o2DOFfl28s\",\"url\":\"https://doc.rust-lang.org/stable/src/std/os/net/mod.rs.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/src/std/os/net/mod.rs.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722143496899,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/src/std/os/net/mod.rs.html",
+	"url": "https://doc.rust-lang.org/stable/src/std/os/net/mod.rs.html"
+}

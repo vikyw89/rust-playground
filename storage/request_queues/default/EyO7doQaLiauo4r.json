@@ -1,0 +1,9 @@
+{
+	"id": "EyO7doQaLiauo4r",
+	"json": "{\"id\":\"EyO7doQaLiauo4r\",\"url\":\"https://doc.rust-lang.org/stable/std/mem/fn.forget_unsized.html\",\"loadedUrl\":\"https://doc.rust-lang.org/stable/std/mem/fn.forget_unsized.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/std/mem/fn.forget_unsized.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:23:57.318Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/std/mem/fn.forget_unsized.html",
+	"url": "https://doc.rust-lang.org/stable/std/mem/fn.forget_unsized.html"
+}

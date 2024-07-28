@@ -1,0 +1,9 @@
+{
+	"id": "YFJ0VtEbf4sofxU",
+	"json": "{\"id\":\"YFJ0VtEbf4sofxU\",\"url\":\"https://doc.rust-lang.org/stable/unstable-book/language-features/abi-unadjusted.html\",\"loadedUrl\":\"https://doc.rust-lang.org/stable/unstable-book/language-features/abi-unadjusted.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/unstable-book/language-features/abi-unadjusted.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:15:08.976Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/unstable-book/language-features/abi-unadjusted.html",
+	"url": "https://doc.rust-lang.org/stable/unstable-book/language-features/abi-unadjusted.html"
+}

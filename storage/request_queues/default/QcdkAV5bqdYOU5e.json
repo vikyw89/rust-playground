@@ -1,0 +1,9 @@
+{
+	"id": "QcdkAV5bqdYOU5e",
+	"json": "{\"id\":\"QcdkAV5bqdYOU5e\",\"url\":\"https://doc.rust-lang.org/stable/unstable-book/language-features/extern-types.html\",\"loadedUrl\":\"https://doc.rust-lang.org/stable/unstable-book/language-features/extern-types.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/unstable-book/language-features/extern-types.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:15:46.051Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/unstable-book/language-features/extern-types.html",
+	"url": "https://doc.rust-lang.org/stable/unstable-book/language-features/extern-types.html"
+}

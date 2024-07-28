@@ -1,0 +1,9 @@
+{
+	"id": "H6HC4ZKsZmebklk",
+	"json": "{\"id\":\"H6HC4ZKsZmebklk\",\"url\":\"https://doc.rust-lang.org/stable/book/ch14-03-cargo-workspaces.html\",\"loadedUrl\":\"https://doc.rust-lang.org/stable/book/ch14-03-cargo-workspaces.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/book/ch14-03-cargo-workspaces.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:08:28.058Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/book/ch14-03-cargo-workspaces.html",
+	"url": "https://doc.rust-lang.org/stable/book/ch14-03-cargo-workspaces.html"
+}

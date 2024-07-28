@@ -1,0 +1,9 @@
+{
+	"id": "NZvHfsyjh6aWx4I",
+	"json": "{\"id\":\"NZvHfsyjh6aWx4I\",\"url\":\"https://doc.rust-lang.org/stable/core/arch/x86/fn._mm512_kortestc.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/core/arch/x86/fn._mm512_kortestc.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722144166656,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/core/arch/x86/fn._mm512_kortestc.html",
+	"url": "https://doc.rust-lang.org/stable/core/arch/x86/fn._mm512_kortestc.html"
+}

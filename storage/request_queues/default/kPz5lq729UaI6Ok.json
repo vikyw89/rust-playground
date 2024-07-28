@@ -1,0 +1,9 @@
+{
+	"id": "kPz5lq729UaI6Ok",
+	"json": "{\"id\":\"kPz5lq729UaI6Ok\",\"url\":\"https://doc.rust-lang.org/unstable-book/library-features/tuple-trait.html\",\"uniqueKey\":\"https://doc.rust-lang.org/unstable-book/library-features/tuple-trait.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722144038046,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/unstable-book/library-features/tuple-trait.html",
+	"url": "https://doc.rust-lang.org/unstable-book/library-features/tuple-trait.html"
+}

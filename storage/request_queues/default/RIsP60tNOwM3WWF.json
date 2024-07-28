@@ -1,0 +1,9 @@
+{
+	"id": "RIsP60tNOwM3WWF",
+	"json": "{\"id\":\"RIsP60tNOwM3WWF\",\"url\":\"https://doc.rust-lang.org/stable/src/std/env.rs.html#1-1063\",\"loadedUrl\":\"https://doc.rust-lang.org/stable/src/std/env.rs.html#1-1063\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/src/std/env.rs.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:22:55.128Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/src/std/env.rs.html",
+	"url": "https://doc.rust-lang.org/stable/src/std/env.rs.html#1-1063"
+}

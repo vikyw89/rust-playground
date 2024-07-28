@@ -1,0 +1,9 @@
+{
+	"id": "4ghSnG6ccOp17vk",
+	"json": "{\"id\":\"4ghSnG6ccOp17vk\",\"url\":\"https://doc.rust-lang.org/stable/core/arch/x86_64/fn._mm_mask_sra_epi64.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/core/arch/x86_64/fn._mm_mask_sra_epi64.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722144170292,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/core/arch/x86_64/fn._mm_mask_sra_epi64.html",
+	"url": "https://doc.rust-lang.org/stable/core/arch/x86_64/fn._mm_mask_sra_epi64.html"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "LsZnYqi6Xj0BD0p",
+	"json": "{\"id\":\"LsZnYqi6Xj0BD0p\",\"url\":\"https://doc.rust-lang.org/stable/rustc/check-cfg/cargo-specifics.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/rustc/check-cfg/cargo-specifics.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722143682368,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/rustc/check-cfg/cargo-specifics.html",
+	"url": "https://doc.rust-lang.org/stable/rustc/check-cfg/cargo-specifics.html"
+}

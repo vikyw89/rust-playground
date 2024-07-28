@@ -1,0 +1,9 @@
+{
+	"id": "Ui4uBTewVWmlGDa",
+	"json": "{\"id\":\"Ui4uBTewVWmlGDa\",\"url\":\"https://doc.rust-lang.org/stable/std/os/unix/net/index.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/std/os/unix/net/index.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722144228142,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/std/os/unix/net/index.html",
+	"url": "https://doc.rust-lang.org/stable/std/os/unix/net/index.html"
+}

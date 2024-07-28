@@ -1,0 +1,9 @@
+{
+	"id": "AWGbaEVoEE3nQLT",
+	"json": "{\"id\":\"AWGbaEVoEE3nQLT\",\"url\":\"https://doc.rust-lang.org/stable/core/arch/x86/fn._mm_setr_epi8.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/core/arch/x86/fn._mm_setr_epi8.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722144164655,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/core/arch/x86/fn._mm_setr_epi8.html",
+	"url": "https://doc.rust-lang.org/stable/core/arch/x86/fn._mm_setr_epi8.html"
+}

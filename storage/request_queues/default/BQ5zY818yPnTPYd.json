@@ -1,0 +1,9 @@
+{
+	"id": "BQ5zY818yPnTPYd",
+	"json": "{\"id\":\"BQ5zY818yPnTPYd\",\"url\":\"https://doc.rust-lang.org/stable/unstable-book/library-features/const-cstr-from-ptr.html\",\"loadedUrl\":\"https://doc.rust-lang.org/stable/unstable-book/library-features/const-cstr-from-ptr.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/unstable-book/library-features/const-cstr-from-ptr.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:17:14.915Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/unstable-book/library-features/const-cstr-from-ptr.html",
+	"url": "https://doc.rust-lang.org/stable/unstable-book/library-features/const-cstr-from-ptr.html"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "CoVibbAWFIQ5wZ6",
+	"json": "{\"id\":\"CoVibbAWFIQ5wZ6\",\"url\":\"https://doc.rust-lang.org/nightly/edition-guide/rust-2021/c-string-literals.html\",\"uniqueKey\":\"https://doc.rust-lang.org/nightly/edition-guide/rust-2021/c-string-literals.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722144100774,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/nightly/edition-guide/rust-2021/c-string-literals.html",
+	"url": "https://doc.rust-lang.org/nightly/edition-guide/rust-2021/c-string-literals.html"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "P8InVeWgQTVRioB",
+	"json": "{\"id\":\"P8InVeWgQTVRioB\",\"url\":\"https://doc.rust-lang.org/unstable-book/language-features/lang-items.html\",\"uniqueKey\":\"https://doc.rust-lang.org/unstable-book/language-features/lang-items.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722144037654,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/unstable-book/language-features/lang-items.html",
+	"url": "https://doc.rust-lang.org/unstable-book/language-features/lang-items.html"
+}

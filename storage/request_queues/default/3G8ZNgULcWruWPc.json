@@ -1,0 +1,9 @@
+{
+	"id": "3G8ZNgULcWruWPc",
+	"json": "{\"id\":\"3G8ZNgULcWruWPc\",\"url\":\"https://doc.rust-lang.org/1.80.0/src/std/sys/pal/unix/stdio.rs.html\",\"uniqueKey\":\"https://doc.rust-lang.org/1.80.0/src/std/sys/pal/unix/stdio.rs.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722143512347,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/1.80.0/src/std/sys/pal/unix/stdio.rs.html",
+	"url": "https://doc.rust-lang.org/1.80.0/src/std/sys/pal/unix/stdio.rs.html"
+}

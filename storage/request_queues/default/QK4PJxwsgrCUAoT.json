@@ -1,0 +1,9 @@
+{
+	"id": "QK4PJxwsgrCUAoT",
+	"json": "{\"id\":\"QK4PJxwsgrCUAoT\",\"url\":\"https://doc.rust-lang.org/1.80.0/core/ptr/fn.slice_from_raw_parts.html\",\"uniqueKey\":\"https://doc.rust-lang.org/1.80.0/core/ptr/fn.slice_from_raw_parts.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722144095979,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/1.80.0/core/ptr/fn.slice_from_raw_parts.html",
+	"url": "https://doc.rust-lang.org/1.80.0/core/ptr/fn.slice_from_raw_parts.html"
+}

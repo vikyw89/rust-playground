@@ -1,0 +1,9 @@
+{
+	"id": "j9IW6DtmRc73LYs",
+	"json": "{\"id\":\"j9IW6DtmRc73LYs\",\"url\":\"https://doc.rust-lang.org/unstable-book/language-features/trivial-bounds.html\",\"uniqueKey\":\"https://doc.rust-lang.org/unstable-book/language-features/trivial-bounds.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722144037679,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/unstable-book/language-features/trivial-bounds.html",
+	"url": "https://doc.rust-lang.org/unstable-book/language-features/trivial-bounds.html"
+}

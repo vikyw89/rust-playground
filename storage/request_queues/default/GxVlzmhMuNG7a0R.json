@@ -1,0 +1,9 @@
+{
+	"id": "GxVlzmhMuNG7a0R",
+	"json": "{\"id\":\"GxVlzmhMuNG7a0R\",\"url\":\"https://doc.rust-lang.org/std/slice/struct.SplitMut.html\",\"uniqueKey\":\"https://doc.rust-lang.org/std/slice/struct.SplitMut.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722144392768,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/std/slice/struct.SplitMut.html",
+	"url": "https://doc.rust-lang.org/std/slice/struct.SplitMut.html"
+}

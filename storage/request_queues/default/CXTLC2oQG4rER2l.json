@@ -1,0 +1,9 @@
+{
+	"id": "CXTLC2oQG4rER2l",
+	"json": "{\"id\":\"CXTLC2oQG4rER2l\",\"url\":\"https://doc.rust-lang.org/nightly/unstable-book/language-features/thread-local.html\",\"uniqueKey\":\"https://doc.rust-lang.org/nightly/unstable-book/language-features/thread-local.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722143686021,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/nightly/unstable-book/language-features/thread-local.html",
+	"url": "https://doc.rust-lang.org/nightly/unstable-book/language-features/thread-local.html"
+}

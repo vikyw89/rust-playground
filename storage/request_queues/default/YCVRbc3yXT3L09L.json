@@ -1,0 +1,9 @@
+{
+	"id": "YCVRbc3yXT3L09L",
+	"json": "{\"id\":\"YCVRbc3yXT3L09L\",\"url\":\"https://doc.rust-lang.org/stable/std/char/struct.CharTryFromError.html\",\"loadedUrl\":\"https://doc.rust-lang.org/stable/std/char/struct.CharTryFromError.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/std/char/struct.CharTryFromError.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:21:04.618Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/std/char/struct.CharTryFromError.html",
+	"url": "https://doc.rust-lang.org/stable/std/char/struct.CharTryFromError.html"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "T0Y2QhzQ11nU66g",
+	"json": "{\"id\":\"T0Y2QhzQ11nU66g\",\"url\":\"https://doc.rust-lang.org/rustc/platform-support/i686-apple-darwin.html\",\"uniqueKey\":\"https://doc.rust-lang.org/rustc/platform-support/i686-apple-darwin.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722143681551,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/rustc/platform-support/i686-apple-darwin.html",
+	"url": "https://doc.rust-lang.org/rustc/platform-support/i686-apple-darwin.html"
+}

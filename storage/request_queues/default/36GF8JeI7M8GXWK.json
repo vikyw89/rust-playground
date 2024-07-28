@@ -1,0 +1,9 @@
+{
+	"id": "36GF8JeI7M8GXWK",
+	"json": "{\"id\":\"36GF8JeI7M8GXWK\",\"url\":\"https://doc.rust-lang.org/stable/core/arch/riscv32/fn.unzip.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/core/arch/riscv32/fn.unzip.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722144163966,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/core/arch/riscv32/fn.unzip.html",
+	"url": "https://doc.rust-lang.org/stable/core/arch/riscv32/fn.unzip.html"
+}

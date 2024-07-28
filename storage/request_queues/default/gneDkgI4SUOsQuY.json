@@ -1,0 +1,9 @@
+{
+	"id": "gneDkgI4SUOsQuY",
+	"json": "{\"id\":\"gneDkgI4SUOsQuY\",\"url\":\"https://doc.rust-lang.org/unstable-book/library-features/windows-process-extensions-raw-attribute.html\",\"uniqueKey\":\"https://doc.rust-lang.org/unstable-book/library-features/windows-process-extensions-raw-attribute.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722144038063,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/unstable-book/library-features/windows-process-extensions-raw-attribute.html",
+	"url": "https://doc.rust-lang.org/unstable-book/library-features/windows-process-extensions-raw-attribute.html"
+}

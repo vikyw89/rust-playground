@@ -1,0 +1,9 @@
+{
+	"id": "XroKEgBM651rmFq",
+	"json": "{\"id\":\"XroKEgBM651rmFq\",\"url\":\"https://doc.rust-lang.org/stable/core/arch/x86_64/fn._mm256_cmpneq_epi32_mask.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/core/arch/x86_64/fn._mm256_cmpneq_epi32_mask.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722144164803,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/core/arch/x86_64/fn._mm256_cmpneq_epi32_mask.html",
+	"url": "https://doc.rust-lang.org/stable/core/arch/x86_64/fn._mm256_cmpneq_epi32_mask.html"
+}

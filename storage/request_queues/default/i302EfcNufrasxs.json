@@ -1,0 +1,9 @@
+{
+	"id": "i302EfcNufrasxs",
+	"json": "{\"id\":\"i302EfcNufrasxs\",\"url\":\"https://doc.rust-lang.org/stable/unstable-book/language-features/large-assignments.html\",\"loadedUrl\":\"https://doc.rust-lang.org/stable/unstable-book/language-features/large-assignments.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/unstable-book/language-features/large-assignments.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:16:00.164Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/unstable-book/language-features/large-assignments.html",
+	"url": "https://doc.rust-lang.org/stable/unstable-book/language-features/large-assignments.html"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "d968IWxr0ZvfY43",
+	"json": "{\"id\":\"d968IWxr0ZvfY43\",\"url\":\"https://doc.rust-lang.org/stable/reference/dynamically-sized-types.html\",\"loadedUrl\":\"https://doc.rust-lang.org/stable/reference/dynamically-sized-types.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/reference/dynamically-sized-types.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:13:28.263Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/reference/dynamically-sized-types.html",
+	"url": "https://doc.rust-lang.org/stable/reference/dynamically-sized-types.html"
+}

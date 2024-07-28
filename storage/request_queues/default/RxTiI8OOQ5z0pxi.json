@@ -1,0 +1,9 @@
+{
+	"id": "RxTiI8OOQ5z0pxi",
+	"json": "{\"id\":\"RxTiI8OOQ5z0pxi\",\"url\":\"https://doc.rust-lang.org/stable/core/arch/x86/fn._mm_mask_roundscale_round_ss.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/core/arch/x86/fn._mm_mask_roundscale_round_ss.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722144170101,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/core/arch/x86/fn._mm_mask_roundscale_round_ss.html",
+	"url": "https://doc.rust-lang.org/stable/core/arch/x86/fn._mm_mask_roundscale_round_ss.html"
+}

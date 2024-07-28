@@ -1,0 +1,9 @@
+{
+	"id": "Vpp8rmlUktHquFU",
+	"json": "{\"id\":\"Vpp8rmlUktHquFU\",\"url\":\"https://doc.rust-lang.org/nightly/unstable-book/library-features/slice-partition-dedup.html\",\"uniqueKey\":\"https://doc.rust-lang.org/nightly/unstable-book/library-features/slice-partition-dedup.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722143686114,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/nightly/unstable-book/library-features/slice-partition-dedup.html",
+	"url": "https://doc.rust-lang.org/nightly/unstable-book/library-features/slice-partition-dedup.html"
+}

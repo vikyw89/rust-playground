@@ -1,0 +1,9 @@
+{
+	"id": "1PUU02U717IYGel",
+	"json": "{\"id\":\"1PUU02U717IYGel\",\"url\":\"https://doc.rust-lang.org/std/marker/trait.Sync.html\",\"uniqueKey\":\"https://doc.rust-lang.org/std/marker/trait.Sync.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722144031807,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/std/marker/trait.Sync.html",
+	"url": "https://doc.rust-lang.org/std/marker/trait.Sync.html"
+}

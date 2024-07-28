@@ -1,0 +1,9 @@
+{
+	"id": "AqURpqvfFL9LToc",
+	"json": "{\"id\":\"AqURpqvfFL9LToc\",\"url\":\"https://doc.rust-lang.org/stable/core/arch/x86_64/fn._mm512_cmpge_epi16_mask.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/core/arch/x86_64/fn._mm512_cmpge_epi16_mask.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722144166586,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/core/arch/x86_64/fn._mm512_cmpge_epi16_mask.html",
+	"url": "https://doc.rust-lang.org/stable/core/arch/x86_64/fn._mm512_cmpge_epi16_mask.html"
+}

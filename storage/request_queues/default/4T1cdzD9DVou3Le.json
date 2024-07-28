@@ -1,0 +1,9 @@
+{
+	"id": "4T1cdzD9DVou3Le",
+	"json": "{\"id\":\"4T1cdzD9DVou3Le\",\"url\":\"https://doc.rust-lang.org/stable/std/ptr/fn.dangling.html\",\"loadedUrl\":\"https://doc.rust-lang.org/stable/std/ptr/fn.dangling.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/std/ptr/fn.dangling.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:24:14.061Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/std/ptr/fn.dangling.html",
+	"url": "https://doc.rust-lang.org/stable/std/ptr/fn.dangling.html"
+}

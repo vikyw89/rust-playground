@@ -1,0 +1,9 @@
+{
+	"id": "KDI3APIRYDCyjRt",
+	"json": "{\"id\":\"KDI3APIRYDCyjRt\",\"url\":\"https://doc.rust-lang.org/1.80.0/core/error/struct.Source.html\",\"uniqueKey\":\"https://doc.rust-lang.org/1.80.0/core/error/struct.Source.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722143502745,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/1.80.0/core/error/struct.Source.html",
+	"url": "https://doc.rust-lang.org/1.80.0/core/error/struct.Source.html"
+}

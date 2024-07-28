@@ -1,0 +1,9 @@
+{
+	"id": "EO2RwPuf21ZB9aB",
+	"json": "{\"id\":\"EO2RwPuf21ZB9aB\",\"url\":\"https://doc.rust-lang.org/stable/rustdoc/the-doc-attribute.html\",\"loadedUrl\":\"https://doc.rust-lang.org/stable/rustdoc/the-doc-attribute.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/rustdoc/the-doc-attribute.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":3,\"errorMessages\":[\"page.title: Execution context was destroyed, most likely because of a navigation\\n    at PlaywrightCrawler.requestHandler (/home/vikyw/.nvm/versions/node/v20.15.0/lib/node_modules/@philschmid/clipper/dist/crawler.js:24:38)\",\"page.title: Execution context was destroyed, most likely because of a navigation\\n    at PlaywrightCrawler.requestHandler (/home/vikyw/.nvm/versions/node/v20.15.0/lib/node_modules/@philschmid/clipper/dist/crawler.js:24:38)\",\"page.title: Execution context was destroyed, most likely because of a navigation\\n    at PlaywrightCrawler.requestHandler (/home/vikyw/.nvm/versions/node/v20.15.0/lib/node_modules/@philschmid/clipper/dist/crawler.js:24:38)\",\"page.title: Execution context was destroyed, most likely because of a navigation\\n    at PlaywrightCrawler.requestHandler (/home/vikyw/.nvm/versions/node/v20.15.0/lib/node_modules/@philschmid/clipper/dist/crawler.js:24:38)\"],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":5}},\"handledAt\":\"2024-07-28T05:14:08.066Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 3,
+	"uniqueKey": "https://doc.rust-lang.org/stable/rustdoc/the-doc-attribute.html",
+	"url": "https://doc.rust-lang.org/stable/rustdoc/the-doc-attribute.html"
+}

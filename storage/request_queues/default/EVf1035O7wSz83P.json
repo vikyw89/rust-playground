@@ -1,0 +1,9 @@
+{
+	"id": "EVf1035O7wSz83P",
+	"json": "{\"id\":\"EVf1035O7wSz83P\",\"url\":\"https://doc.rust-lang.org/unstable-book/library-features/btreemap-alloc.html\",\"uniqueKey\":\"https://doc.rust-lang.org/unstable-book/library-features/btreemap-alloc.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722144037693,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/unstable-book/library-features/btreemap-alloc.html",
+	"url": "https://doc.rust-lang.org/unstable-book/library-features/btreemap-alloc.html"
+}

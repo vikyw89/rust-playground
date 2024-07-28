@@ -1,0 +1,9 @@
+{
+	"id": "ioikJQhSW5vfcAk",
+	"json": "{\"id\":\"ioikJQhSW5vfcAk\",\"url\":\"https://doc.rust-lang.org/std/slice/struct.SplitN.html\",\"uniqueKey\":\"https://doc.rust-lang.org/std/slice/struct.SplitN.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722144392773,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/std/slice/struct.SplitN.html",
+	"url": "https://doc.rust-lang.org/std/slice/struct.SplitN.html"
+}

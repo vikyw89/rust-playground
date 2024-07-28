@@ -1,0 +1,9 @@
+{
+	"id": "huc9HiiEYG5N3PP",
+	"json": "{\"id\":\"huc9HiiEYG5N3PP\",\"url\":\"https://doc.rust-lang.org/stable/core/arch/x86/constant._MM_MASK_INVALID.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/core/arch/x86/constant._MM_MASK_INVALID.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722144164005,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/core/arch/x86/constant._MM_MASK_INVALID.html",
+	"url": "https://doc.rust-lang.org/stable/core/arch/x86/constant._MM_MASK_INVALID.html"
+}

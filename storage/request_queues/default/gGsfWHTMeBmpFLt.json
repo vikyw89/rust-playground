@@ -1,0 +1,9 @@
+{
+	"id": "gGsfWHTMeBmpFLt",
+	"json": "{\"id\":\"gGsfWHTMeBmpFLt\",\"url\":\"https://doc.rust-lang.org/stable/reference/index.html\",\"loadedUrl\":\"https://doc.rust-lang.org/stable/reference/index.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/reference/index.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:09:16.332Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/reference/index.html",
+	"url": "https://doc.rust-lang.org/stable/reference/index.html"
+}

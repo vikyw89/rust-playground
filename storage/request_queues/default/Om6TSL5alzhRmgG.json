@@ -1,0 +1,9 @@
+{
+	"id": "Om6TSL5alzhRmgG",
+	"json": "{\"id\":\"Om6TSL5alzhRmgG\",\"url\":\"https://doc.rust-lang.org/stable/std/fs/fn.canonicalize.html\",\"loadedUrl\":\"https://doc.rust-lang.org/stable/std/fs/fn.canonicalize.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/std/fs/fn.canonicalize.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:23:13.099Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/std/fs/fn.canonicalize.html",
+	"url": "https://doc.rust-lang.org/stable/std/fs/fn.canonicalize.html"
+}

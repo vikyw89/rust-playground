@@ -1,0 +1,9 @@
+{
+	"id": "LxDMc3GVtGpN31r",
+	"json": "{\"id\":\"LxDMc3GVtGpN31r\",\"url\":\"https://doc.rust-lang.org/stable/unstable-book/language-features/min-specialization.html\",\"loadedUrl\":\"https://doc.rust-lang.org/stable/unstable-book/language-features/min-specialization.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/unstable-book/language-features/min-specialization.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:16:04.610Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/unstable-book/language-features/min-specialization.html",
+	"url": "https://doc.rust-lang.org/stable/unstable-book/language-features/min-specialization.html"
+}

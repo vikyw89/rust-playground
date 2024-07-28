@@ -1,0 +1,9 @@
+{
+	"id": "N4ueNh6AdAaumdJ",
+	"json": "{\"id\":\"N4ueNh6AdAaumdJ\",\"url\":\"https://doc.rust-lang.org/stable/core/arch/x86_64/fn._mm256_rcp14_pd.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/core/arch/x86_64/fn._mm256_rcp14_pd.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722144166520,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/core/arch/x86_64/fn._mm256_rcp14_pd.html",
+	"url": "https://doc.rust-lang.org/stable/core/arch/x86_64/fn._mm256_rcp14_pd.html"
+}

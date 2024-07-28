@@ -1,0 +1,9 @@
+{
+	"id": "yjrSqI4lf4t6935",
+	"json": "{\"id\":\"yjrSqI4lf4t6935\",\"url\":\"https://doc.rust-lang.org/stable/error_codes/E0532.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/error_codes/E0532.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722143587041,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/error_codes/E0532.html",
+	"url": "https://doc.rust-lang.org/stable/error_codes/E0532.html"
+}

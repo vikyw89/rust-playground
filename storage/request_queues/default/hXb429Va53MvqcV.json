@@ -1,0 +1,9 @@
+{
+	"id": "hXb429Va53MvqcV",
+	"json": "{\"id\":\"hXb429Va53MvqcV\",\"url\":\"https://doc.rust-lang.org/stable/unstable-book/language-features/coroutine-clone.html\",\"loadedUrl\":\"https://doc.rust-lang.org/stable/unstable-book/language-features/coroutine-clone.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/unstable-book/language-features/coroutine-clone.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:15:32.842Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/unstable-book/language-features/coroutine-clone.html",
+	"url": "https://doc.rust-lang.org/stable/unstable-book/language-features/coroutine-clone.html"
+}

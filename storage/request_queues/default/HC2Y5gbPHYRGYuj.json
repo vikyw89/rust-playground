@@ -1,0 +1,9 @@
+{
+	"id": "HC2Y5gbPHYRGYuj",
+	"json": "{\"id\":\"HC2Y5gbPHYRGYuj\",\"url\":\"https://doc.rust-lang.org/stable/core/primitive.u16.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/core/primitive.u16.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722144016206,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/core/primitive.u16.html",
+	"url": "https://doc.rust-lang.org/stable/core/primitive.u16.html"
+}

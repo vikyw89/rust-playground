@@ -1,0 +1,9 @@
+{
+	"id": "vBxcNxA4WkP2kKt",
+	"json": "{\"id\":\"vBxcNxA4WkP2kKt\",\"url\":\"https://doc.rust-lang.org/1.80.0/src/core/future/async_drop.rs.html#100\",\"uniqueKey\":\"https://doc.rust-lang.org/1.80.0/src/core/future/async_drop.rs.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722143503796,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/1.80.0/src/core/future/async_drop.rs.html",
+	"url": "https://doc.rust-lang.org/1.80.0/src/core/future/async_drop.rs.html#100"
+}

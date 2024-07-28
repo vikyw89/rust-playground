@@ -1,0 +1,9 @@
+{
+	"id": "6BfP6lgACNNJuXk",
+	"json": "{\"id\":\"6BfP6lgACNNJuXk\",\"url\":\"https://doc.rust-lang.org/stable/book/ch19-06-macros.html\",\"loadedUrl\":\"https://doc.rust-lang.org/stable/book/ch19-06-macros.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/book/ch19-06-macros.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:08:33.821Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/book/ch19-06-macros.html",
+	"url": "https://doc.rust-lang.org/stable/book/ch19-06-macros.html"
+}

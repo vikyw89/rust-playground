@@ -1,0 +1,9 @@
+{
+	"id": "kG8FKilJfQ1APM6",
+	"json": "{\"id\":\"kG8FKilJfQ1APM6\",\"url\":\"https://doc.rust-lang.org/stable/core/arch/aarch64/fn.vabd_u16.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/core/arch/aarch64/fn.vabd_u16.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722144164051,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/core/arch/aarch64/fn.vabd_u16.html",
+	"url": "https://doc.rust-lang.org/stable/core/arch/aarch64/fn.vabd_u16.html"
+}

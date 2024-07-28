@@ -1,0 +1,9 @@
+{
+	"id": "mp1AmW2N6E2Ru6r",
+	"json": "{\"id\":\"mp1AmW2N6E2Ru6r\",\"url\":\"https://doc.rust-lang.org/book/ch20-01-single-threaded.html\",\"uniqueKey\":\"https://doc.rust-lang.org/book/ch20-01-single-threaded.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722143685977,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/book/ch20-01-single-threaded.html",
+	"url": "https://doc.rust-lang.org/book/ch20-01-single-threaded.html"
+}

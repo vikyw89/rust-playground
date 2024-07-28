@@ -1,0 +1,9 @@
+{
+	"id": "xwR0wB9a8RNtVFH",
+	"json": "{\"id\":\"xwR0wB9a8RNtVFH\",\"url\":\"https://doc.rust-lang.org/stable/error_codes/E0583.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/error_codes/E0583.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722143587107,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/error_codes/E0583.html",
+	"url": "https://doc.rust-lang.org/stable/error_codes/E0583.html"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "Loptx5vMAV8s8so",
+	"json": "{\"id\":\"Loptx5vMAV8s8so\",\"url\":\"https://doc.rust-lang.org/unstable-book/language-features/generic-const-items.html\",\"uniqueKey\":\"https://doc.rust-lang.org/unstable-book/language-features/generic-const-items.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722144037651,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/unstable-book/language-features/generic-const-items.html",
+	"url": "https://doc.rust-lang.org/unstable-book/language-features/generic-const-items.html"
+}

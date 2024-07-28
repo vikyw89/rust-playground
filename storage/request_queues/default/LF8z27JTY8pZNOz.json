@@ -1,0 +1,9 @@
+{
+	"id": "LF8z27JTY8pZNOz",
+	"json": "{\"id\":\"LF8z27JTY8pZNOz\",\"url\":\"https://doc.rust-lang.org/stable/rustc/platform-support/openbsd.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/rustc/platform-support/openbsd.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722143682351,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/rustc/platform-support/openbsd.html",
+	"url": "https://doc.rust-lang.org/stable/rustc/platform-support/openbsd.html"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "FymrwvBibS0Wl9O",
+	"json": "{\"id\":\"FymrwvBibS0Wl9O\",\"url\":\"https://doc.rust-lang.org/1.80.0/src/core/future/join.rs.html\",\"uniqueKey\":\"https://doc.rust-lang.org/1.80.0/src/core/future/join.rs.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722143511703,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/1.80.0/src/core/future/join.rs.html",
+	"url": "https://doc.rust-lang.org/1.80.0/src/core/future/join.rs.html"
+}

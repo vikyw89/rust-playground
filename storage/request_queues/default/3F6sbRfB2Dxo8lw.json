@@ -1,0 +1,9 @@
+{
+	"id": "3F6sbRfB2Dxo8lw",
+	"json": "{\"id\":\"3F6sbRfB2Dxo8lw\",\"url\":\"https://doc.rust-lang.org/stable/core/arch/wasm32/fn.u16x8_shr.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/core/arch/wasm32/fn.u16x8_shr.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722144166131,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/core/arch/wasm32/fn.u16x8_shr.html",
+	"url": "https://doc.rust-lang.org/stable/core/arch/wasm32/fn.u16x8_shr.html"
+}

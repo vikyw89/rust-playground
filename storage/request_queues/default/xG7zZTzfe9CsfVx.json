@@ -1,0 +1,9 @@
+{
+	"id": "xG7zZTzfe9CsfVx",
+	"json": "{\"id\":\"xG7zZTzfe9CsfVx\",\"url\":\"https://doc.rust-lang.org/stable/core/arch/powerpc/fn.vec_cmpb.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/core/arch/powerpc/fn.vec_cmpb.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722144163987,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/core/arch/powerpc/fn.vec_cmpb.html",
+	"url": "https://doc.rust-lang.org/stable/core/arch/powerpc/fn.vec_cmpb.html"
+}

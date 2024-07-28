@@ -1,0 +1,9 @@
+{
+	"id": "v9KjG0evYCCp8DH",
+	"json": "{\"id\":\"v9KjG0evYCCp8DH\",\"url\":\"https://doc.rust-lang.org/stable/core/arch/x86/fn._mm256_mul_epu32.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/core/arch/x86/fn._mm256_mul_epu32.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722144164267,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/core/arch/x86/fn._mm256_mul_epu32.html",
+	"url": "https://doc.rust-lang.org/stable/core/arch/x86/fn._mm256_mul_epu32.html"
+}

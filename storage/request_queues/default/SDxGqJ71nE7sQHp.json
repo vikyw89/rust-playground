@@ -1,0 +1,9 @@
+{
+	"id": "SDxGqJ71nE7sQHp",
+	"json": "{\"id\":\"SDxGqJ71nE7sQHp\",\"url\":\"https://doc.rust-lang.org/1.80.0/src/alloc/collections/vec_deque/iter.rs.html#25\",\"uniqueKey\":\"https://doc.rust-lang.org/1.80.0/src/alloc/collections/vec_deque/iter.rs.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722143503779,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/1.80.0/src/alloc/collections/vec_deque/iter.rs.html",
+	"url": "https://doc.rust-lang.org/1.80.0/src/alloc/collections/vec_deque/iter.rs.html#25"
+}

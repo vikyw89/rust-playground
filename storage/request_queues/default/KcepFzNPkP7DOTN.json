@@ -1,0 +1,9 @@
+{
+	"id": "KcepFzNPkP7DOTN",
+	"json": "{\"id\":\"KcepFzNPkP7DOTN\",\"url\":\"https://doc.rust-lang.org/std/cell/struct.OnceCell.html\",\"uniqueKey\":\"https://doc.rust-lang.org/std/cell/struct.OnceCell.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722144042292,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/std/cell/struct.OnceCell.html",
+	"url": "https://doc.rust-lang.org/std/cell/struct.OnceCell.html"
+}

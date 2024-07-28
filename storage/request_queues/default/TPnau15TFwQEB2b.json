@@ -1,0 +1,9 @@
+{
+	"id": "TPnau15TFwQEB2b",
+	"json": "{\"id\":\"TPnau15TFwQEB2b\",\"url\":\"https://doc.rust-lang.org/1.80.0/src/std/sys/pal/unix/net.rs.html\",\"uniqueKey\":\"https://doc.rust-lang.org/1.80.0/src/std/sys/pal/unix/net.rs.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722143512346,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/1.80.0/src/std/sys/pal/unix/net.rs.html",
+	"url": "https://doc.rust-lang.org/1.80.0/src/std/sys/pal/unix/net.rs.html"
+}

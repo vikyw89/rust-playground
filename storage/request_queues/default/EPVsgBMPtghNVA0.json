@@ -1,0 +1,9 @@
+{
+	"id": "EPVsgBMPtghNVA0",
+	"json": "{\"id\":\"EPVsgBMPtghNVA0\",\"url\":\"https://doc.rust-lang.org/stable/book/ch04-02-references-and-borrowing.html\",\"loadedUrl\":\"https://doc.rust-lang.org/stable/book/ch04-02-references-and-borrowing.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/book/ch04-02-references-and-borrowing.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:08:15.203Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/book/ch04-02-references-and-borrowing.html",
+	"url": "https://doc.rust-lang.org/stable/book/ch04-02-references-and-borrowing.html"
+}

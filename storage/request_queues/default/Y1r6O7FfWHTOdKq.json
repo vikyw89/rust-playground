@@ -1,0 +1,9 @@
+{
+	"id": "Y1r6O7FfWHTOdKq",
+	"json": "{\"id\":\"Y1r6O7FfWHTOdKq\",\"url\":\"https://doc.rust-lang.org/stable/unstable-book/library-features/yeet-desugar-details.html\",\"loadedUrl\":\"https://doc.rust-lang.org/stable/unstable-book/library-features/yeet-desugar-details.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/unstable-book/library-features/yeet-desugar-details.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:20:16.702Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/unstable-book/library-features/yeet-desugar-details.html",
+	"url": "https://doc.rust-lang.org/stable/unstable-book/library-features/yeet-desugar-details.html"
+}

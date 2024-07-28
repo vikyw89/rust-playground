@@ -1,0 +1,9 @@
+{
+	"id": "BntUYNC9l8dv8rW",
+	"json": "{\"id\":\"BntUYNC9l8dv8rW\",\"url\":\"https://doc.rust-lang.org/1.80.0/core/num/type.NonZeroU64.html\",\"uniqueKey\":\"https://doc.rust-lang.org/1.80.0/core/num/type.NonZeroU64.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722144246764,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/1.80.0/core/num/type.NonZeroU64.html",
+	"url": "https://doc.rust-lang.org/1.80.0/core/num/type.NonZeroU64.html"
+}

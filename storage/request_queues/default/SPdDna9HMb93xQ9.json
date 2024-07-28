@@ -1,0 +1,9 @@
+{
+	"id": "SPdDna9HMb93xQ9",
+	"json": "{\"id\":\"SPdDna9HMb93xQ9\",\"url\":\"https://doc.rust-lang.org/book/appendix-03-derivable-traits.html\",\"uniqueKey\":\"https://doc.rust-lang.org/book/appendix-03-derivable-traits.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722143685979,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/book/appendix-03-derivable-traits.html",
+	"url": "https://doc.rust-lang.org/book/appendix-03-derivable-traits.html"
+}

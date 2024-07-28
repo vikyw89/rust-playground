@@ -1,0 +1,9 @@
+{
+	"id": "FXxEO5yDx32yj0g",
+	"json": "{\"id\":\"FXxEO5yDx32yj0g\",\"url\":\"https://doc.rust-lang.org/stable/core/macro.log_syntax.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/core/macro.log_syntax.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722144016234,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/core/macro.log_syntax.html",
+	"url": "https://doc.rust-lang.org/stable/core/macro.log_syntax.html"
+}

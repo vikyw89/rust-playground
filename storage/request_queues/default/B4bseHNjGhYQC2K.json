@@ -1,0 +1,9 @@
+{
+	"id": "B4bseHNjGhYQC2K",
+	"json": "{\"id\":\"B4bseHNjGhYQC2K\",\"url\":\"https://doc.rust-lang.org/unstable-book/library-features/dispatch-from-dyn.html\",\"uniqueKey\":\"https://doc.rust-lang.org/unstable-book/library-features/dispatch-from-dyn.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722144037745,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/unstable-book/library-features/dispatch-from-dyn.html",
+	"url": "https://doc.rust-lang.org/unstable-book/library-features/dispatch-from-dyn.html"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "jiizOSMhGxsONOn",
+	"json": "{\"id\":\"jiizOSMhGxsONOn\",\"url\":\"https://doc.rust-lang.org/stable/core/arch/aarch64/fn.vld1_f32_x2.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/core/arch/aarch64/fn.vld1_f32_x2.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722144164628,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/core/arch/aarch64/fn.vld1_f32_x2.html",
+	"url": "https://doc.rust-lang.org/stable/core/arch/aarch64/fn.vld1_f32_x2.html"
+}

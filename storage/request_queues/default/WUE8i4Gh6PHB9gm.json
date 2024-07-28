@@ -1,0 +1,9 @@
+{
+	"id": "WUE8i4Gh6PHB9gm",
+	"json": "{\"id\":\"WUE8i4Gh6PHB9gm\",\"url\":\"https://doc.rust-lang.org/stable/test/enum.TestType.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/test/enum.TestType.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722144024145,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/test/enum.TestType.html",
+	"url": "https://doc.rust-lang.org/stable/test/enum.TestType.html"
+}

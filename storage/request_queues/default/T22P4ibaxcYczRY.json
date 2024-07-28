@@ -1,0 +1,9 @@
+{
+	"id": "T22P4ibaxcYczRY",
+	"json": "{\"id\":\"T22P4ibaxcYczRY\",\"url\":\"https://doc.rust-lang.org/nomicon/beneath-std.html\",\"uniqueKey\":\"https://doc.rust-lang.org/nomicon/beneath-std.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722144041619,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/nomicon/beneath-std.html",
+	"url": "https://doc.rust-lang.org/nomicon/beneath-std.html"
+}

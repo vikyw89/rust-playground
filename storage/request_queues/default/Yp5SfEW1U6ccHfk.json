@@ -1,0 +1,9 @@
+{
+	"id": "Yp5SfEW1U6ccHfk",
+	"json": "{\"id\":\"Yp5SfEW1U6ccHfk\",\"url\":\"https://doc.rust-lang.org/stable/core/arch/x86/fn._mm256_add_ps.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/core/arch/x86/fn._mm256_add_ps.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722144164178,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/core/arch/x86/fn._mm256_add_ps.html",
+	"url": "https://doc.rust-lang.org/stable/core/arch/x86/fn._mm256_add_ps.html"
+}

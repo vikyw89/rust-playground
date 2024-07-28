@@ -1,0 +1,9 @@
+{
+	"id": "Et0FvduEp3mngKq",
+	"json": "{\"id\":\"Et0FvduEp3mngKq\",\"url\":\"https://doc.rust-lang.org/stable/unstable-book/library-features/ptr-as-ref-unchecked.html\",\"loadedUrl\":\"https://doc.rust-lang.org/stable/unstable-book/library-features/ptr-as-ref-unchecked.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/unstable-book/library-features/ptr-as-ref-unchecked.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:19:11.973Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/unstable-book/library-features/ptr-as-ref-unchecked.html",
+	"url": "https://doc.rust-lang.org/stable/unstable-book/library-features/ptr-as-ref-unchecked.html"
+}

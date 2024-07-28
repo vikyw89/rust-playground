@@ -1,0 +1,9 @@
+{
+	"id": "NHe3ji31UnBYG91",
+	"json": "{\"id\":\"NHe3ji31UnBYG91\",\"url\":\"https://doc.rust-lang.org/reference/types/slice.html\",\"uniqueKey\":\"https://doc.rust-lang.org/reference/types/slice.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722143556338,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/reference/types/slice.html",
+	"url": "https://doc.rust-lang.org/reference/types/slice.html"
+}

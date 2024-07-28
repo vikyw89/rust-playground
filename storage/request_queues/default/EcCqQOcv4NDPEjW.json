@@ -1,0 +1,9 @@
+{
+	"id": "EcCqQOcv4NDPEjW",
+	"json": "{\"id\":\"EcCqQOcv4NDPEjW\",\"url\":\"https://doc.rust-lang.org/rust-by-example/trait/supertraits.html\",\"uniqueKey\":\"https://doc.rust-lang.org/rust-by-example/trait/supertraits.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722144351197,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/rust-by-example/trait/supertraits.html",
+	"url": "https://doc.rust-lang.org/rust-by-example/trait/supertraits.html"
+}

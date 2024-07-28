@@ -1,0 +1,9 @@
+{
+	"id": "jshz8uliElt40PN",
+	"json": "{\"id\":\"jshz8uliElt40PN\",\"url\":\"https://doc.rust-lang.org/std/mem/fn.needs_drop.html\",\"uniqueKey\":\"https://doc.rust-lang.org/std/mem/fn.needs_drop.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722144042636,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/std/mem/fn.needs_drop.html",
+	"url": "https://doc.rust-lang.org/std/mem/fn.needs_drop.html"
+}

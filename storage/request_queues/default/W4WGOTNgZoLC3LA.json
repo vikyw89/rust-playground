@@ -1,0 +1,9 @@
+{
+	"id": "W4WGOTNgZoLC3LA",
+	"json": "{\"id\":\"W4WGOTNgZoLC3LA\",\"url\":\"https://doc.rust-lang.org/stable/core/arch/x86/fn._mm512_kxnor.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/core/arch/x86/fn._mm512_kxnor.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722144166657,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/core/arch/x86/fn._mm512_kxnor.html",
+	"url": "https://doc.rust-lang.org/stable/core/arch/x86/fn._mm512_kxnor.html"
+}

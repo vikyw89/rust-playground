@@ -1,0 +1,9 @@
+{
+	"id": "SljBfHKDoU6422V",
+	"json": "{\"id\":\"SljBfHKDoU6422V\",\"url\":\"https://doc.rust-lang.org/stable/std/macro.thread_local.html\",\"loadedUrl\":\"https://doc.rust-lang.org/stable/std/macro.thread_local.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/std/macro.thread_local.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:11:17.278Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/std/macro.thread_local.html",
+	"url": "https://doc.rust-lang.org/stable/std/macro.thread_local.html"
+}

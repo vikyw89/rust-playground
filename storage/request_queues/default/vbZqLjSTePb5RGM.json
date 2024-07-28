@@ -1,0 +1,9 @@
+{
+	"id": "vbZqLjSTePb5RGM",
+	"json": "{\"id\":\"vbZqLjSTePb5RGM\",\"url\":\"https://doc.rust-lang.org/unstable-book/language-features/doc-notable-trait.html\",\"uniqueKey\":\"https://doc.rust-lang.org/unstable-book/language-features/doc-notable-trait.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722144037644,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/unstable-book/language-features/doc-notable-trait.html",
+	"url": "https://doc.rust-lang.org/unstable-book/language-features/doc-notable-trait.html"
+}

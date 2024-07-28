@@ -1,0 +1,9 @@
+{
+	"id": "RYnfY427RP8beaU",
+	"json": "{\"id\":\"RYnfY427RP8beaU\",\"url\":\"https://doc.rust-lang.org/stable/unstable-book/language-features/const-refs-to-cell.html\",\"loadedUrl\":\"https://doc.rust-lang.org/stable/unstable-book/language-features/const-refs-to-cell.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/unstable-book/language-features/const-refs-to-cell.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:15:28.691Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/unstable-book/language-features/const-refs-to-cell.html",
+	"url": "https://doc.rust-lang.org/stable/unstable-book/language-features/const-refs-to-cell.html"
+}

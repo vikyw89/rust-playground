@@ -1,0 +1,9 @@
+{
+	"id": "BKYdasRIDReNujl",
+	"json": "{\"id\":\"BKYdasRIDReNujl\",\"url\":\"https://doc.rust-lang.org/nightly/unstable-book/library-features/ascii-char-variants.html\",\"uniqueKey\":\"https://doc.rust-lang.org/nightly/unstable-book/library-features/ascii-char-variants.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722143686034,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/nightly/unstable-book/library-features/ascii-char-variants.html",
+	"url": "https://doc.rust-lang.org/nightly/unstable-book/library-features/ascii-char-variants.html"
+}

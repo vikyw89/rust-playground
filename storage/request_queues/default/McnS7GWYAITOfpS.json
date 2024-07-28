@@ -1,0 +1,9 @@
+{
+	"id": "McnS7GWYAITOfpS",
+	"json": "{\"id\":\"McnS7GWYAITOfpS\",\"url\":\"https://doc.rust-lang.org/stable/std/time/struct.Duration.html\",\"loadedUrl\":\"https://doc.rust-lang.org/stable/std/time/struct.Duration.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/std/time/struct.Duration.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:21:55.450Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/std/time/struct.Duration.html",
+	"url": "https://doc.rust-lang.org/stable/std/time/struct.Duration.html"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "iR17SHvznyIgImE",
+	"json": "{\"id\":\"iR17SHvznyIgImE\",\"url\":\"https://doc.rust-lang.org/stable/core/macro.include_str.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/core/macro.include_str.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722144016229,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/core/macro.include_str.html",
+	"url": "https://doc.rust-lang.org/stable/core/macro.include_str.html"
+}

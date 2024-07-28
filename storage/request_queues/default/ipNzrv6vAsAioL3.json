@@ -1,0 +1,9 @@
+{
+	"id": "ipNzrv6vAsAioL3",
+	"json": "{\"id\":\"ipNzrv6vAsAioL3\",\"url\":\"https://doc.rust-lang.org/stable/core/arch/x86_64/fn._mm256_max_epu16.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/core/arch/x86_64/fn._mm256_max_epu16.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722144164273,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/core/arch/x86_64/fn._mm256_max_epu16.html",
+	"url": "https://doc.rust-lang.org/stable/core/arch/x86_64/fn._mm256_max_epu16.html"
+}

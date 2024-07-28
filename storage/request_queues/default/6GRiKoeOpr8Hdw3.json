@@ -1,0 +1,9 @@
+{
+	"id": "6GRiKoeOpr8Hdw3",
+	"json": "{\"id\":\"6GRiKoeOpr8Hdw3\",\"url\":\"https://doc.rust-lang.org/book/ch19-01-unsafe-rust.html\",\"uniqueKey\":\"https://doc.rust-lang.org/book/ch19-01-unsafe-rust.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722143685975,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/book/ch19-01-unsafe-rust.html",
+	"url": "https://doc.rust-lang.org/book/ch19-01-unsafe-rust.html"
+}

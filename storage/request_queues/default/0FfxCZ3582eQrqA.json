@@ -1,0 +1,9 @@
+{
+	"id": "0FfxCZ3582eQrqA",
+	"json": "{\"id\":\"0FfxCZ3582eQrqA\",\"url\":\"https://doc.rust-lang.org/stable/book/ch14-02-publishing-to-crates-io.html\",\"loadedUrl\":\"https://doc.rust-lang.org/stable/book/ch14-02-publishing-to-crates-io.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/book/ch14-02-publishing-to-crates-io.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:08:27.650Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/book/ch14-02-publishing-to-crates-io.html",
+	"url": "https://doc.rust-lang.org/stable/book/ch14-02-publishing-to-crates-io.html"
+}

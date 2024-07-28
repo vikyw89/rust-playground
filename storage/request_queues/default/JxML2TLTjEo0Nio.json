@@ -1,0 +1,9 @@
+{
+	"id": "JxML2TLTjEo0Nio",
+	"json": "{\"id\":\"JxML2TLTjEo0Nio\",\"url\":\"https://doc.rust-lang.org/unstable-book/library-features/coerce-unsized.html\",\"uniqueKey\":\"https://doc.rust-lang.org/unstable-book/library-features/coerce-unsized.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722144037699,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/unstable-book/library-features/coerce-unsized.html",
+	"url": "https://doc.rust-lang.org/unstable-book/library-features/coerce-unsized.html"
+}

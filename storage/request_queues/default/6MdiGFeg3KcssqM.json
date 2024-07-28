@@ -1,0 +1,9 @@
+{
+	"id": "6MdiGFeg3KcssqM",
+	"json": "{\"id\":\"6MdiGFeg3KcssqM\",\"url\":\"https://doc.rust-lang.org/stable/std/simd/type.i16x64.html\",\"loadedUrl\":\"https://doc.rust-lang.org/stable/std/simd/type.i16x64.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/std/simd/type.i16x64.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:24:47.372Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/std/simd/type.i16x64.html",
+	"url": "https://doc.rust-lang.org/stable/std/simd/type.i16x64.html"
+}

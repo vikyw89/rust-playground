@@ -1,0 +1,9 @@
+{
+	"id": "zuBKHQQRK3LTcap",
+	"json": "{\"id\":\"zuBKHQQRK3LTcap\",\"url\":\"https://doc.rust-lang.org/nightly/unstable-book/language-features/anonymous-lifetime-in-impl-trait.html\",\"uniqueKey\":\"https://doc.rust-lang.org/nightly/unstable-book/language-features/anonymous-lifetime-in-impl-trait.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722143685967,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/nightly/unstable-book/language-features/anonymous-lifetime-in-impl-trait.html",
+	"url": "https://doc.rust-lang.org/nightly/unstable-book/language-features/anonymous-lifetime-in-impl-trait.html"
+}

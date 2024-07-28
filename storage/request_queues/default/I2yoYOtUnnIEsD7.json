@@ -1,0 +1,9 @@
+{
+	"id": "I2yoYOtUnnIEsD7",
+	"json": "{\"id\":\"I2yoYOtUnnIEsD7\",\"url\":\"https://doc.rust-lang.org/stable/core/arch/x86/fn._mm_prefetch.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/core/arch/x86/fn._mm_prefetch.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722144163999,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/core/arch/x86/fn._mm_prefetch.html",
+	"url": "https://doc.rust-lang.org/stable/core/arch/x86/fn._mm_prefetch.html"
+}

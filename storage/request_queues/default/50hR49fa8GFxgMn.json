@@ -1,0 +1,9 @@
+{
+	"id": "50hR49fa8GFxgMn",
+	"json": "{\"id\":\"50hR49fa8GFxgMn\",\"url\":\"https://doc.rust-lang.org/stable/unstable-book/library-features/core-io-borrowed-buf.html\",\"loadedUrl\":\"https://doc.rust-lang.org/stable/unstable-book/library-features/core-io-borrowed-buf.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/unstable-book/library-features/core-io-borrowed-buf.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:17:48.071Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/unstable-book/library-features/core-io-borrowed-buf.html",
+	"url": "https://doc.rust-lang.org/stable/unstable-book/library-features/core-io-borrowed-buf.html"
+}

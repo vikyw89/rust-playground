@@ -1,0 +1,9 @@
+{
+	"id": "GIBvqIxFQb1jKde",
+	"json": "{\"id\":\"GIBvqIxFQb1jKde\",\"url\":\"https://doc.rust-lang.org/1.80.0/core/core_arch/x86/struct.__m128.html\",\"uniqueKey\":\"https://doc.rust-lang.org/1.80.0/core/core_arch/x86/struct.__m128.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722143498228,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/1.80.0/core/core_arch/x86/struct.__m128.html",
+	"url": "https://doc.rust-lang.org/1.80.0/core/core_arch/x86/struct.__m128.html"
+}

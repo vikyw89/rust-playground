@@ -1,0 +1,9 @@
+{
+	"id": "JTWNY9s5wo4RmpG",
+	"json": "{\"id\":\"JTWNY9s5wo4RmpG\",\"url\":\"https://doc.rust-lang.org/stable/reference/patterns.html?highlight=range#range-patterns\",\"loadedUrl\":\"https://doc.rust-lang.org/stable/reference/patterns.html?highlight=range#range-patterns\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/reference/patterns.html?highlight=range\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:25:54.078Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/reference/patterns.html?highlight=range",
+	"url": "https://doc.rust-lang.org/stable/reference/patterns.html?highlight=range#range-patterns"
+}

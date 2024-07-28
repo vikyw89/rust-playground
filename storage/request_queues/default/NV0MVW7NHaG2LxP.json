@@ -1,0 +1,9 @@
+{
+	"id": "NV0MVW7NHaG2LxP",
+	"json": "{\"id\":\"NV0MVW7NHaG2LxP\",\"url\":\"https://doc.rust-lang.org/book/ch04-03-slices.html\",\"uniqueKey\":\"https://doc.rust-lang.org/book/ch04-03-slices.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722143685941,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/book/ch04-03-slices.html",
+	"url": "https://doc.rust-lang.org/book/ch04-03-slices.html"
+}

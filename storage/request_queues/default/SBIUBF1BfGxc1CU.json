@@ -1,0 +1,9 @@
+{
+	"id": "SBIUBF1BfGxc1CU",
+	"json": "{\"id\":\"SBIUBF1BfGxc1CU\",\"url\":\"https://doc.rust-lang.org/nightly/unstable-book/library-features/core-private-diy-float.html\",\"uniqueKey\":\"https://doc.rust-lang.org/nightly/unstable-book/library-features/core-private-diy-float.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722143686065,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/nightly/unstable-book/library-features/core-private-diy-float.html",
+	"url": "https://doc.rust-lang.org/nightly/unstable-book/library-features/core-private-diy-float.html"
+}

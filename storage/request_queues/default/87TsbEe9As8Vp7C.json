@@ -1,0 +1,9 @@
+{
+	"id": "87TsbEe9As8Vp7C",
+	"json": "{\"id\":\"87TsbEe9As8Vp7C\",\"url\":\"https://doc.rust-lang.org/stable/core/arch/x86_64/constant._CMP_NGT_UQ.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/core/arch/x86_64/constant._CMP_NGT_UQ.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722144163964,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/core/arch/x86_64/constant._CMP_NGT_UQ.html",
+	"url": "https://doc.rust-lang.org/stable/core/arch/x86_64/constant._CMP_NGT_UQ.html"
+}

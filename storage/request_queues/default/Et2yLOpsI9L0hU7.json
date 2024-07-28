@@ -1,0 +1,9 @@
+{
+	"id": "Et2yLOpsI9L0hU7",
+	"json": "{\"id\":\"Et2yLOpsI9L0hU7\",\"url\":\"https://doc.rust-lang.org/1.80.0/src/core/stdarch/crates/core_arch/src/x86/gfni.rs.html\",\"uniqueKey\":\"https://doc.rust-lang.org/1.80.0/src/core/stdarch/crates/core_arch/src/x86/gfni.rs.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722143511970,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/1.80.0/src/core/stdarch/crates/core_arch/src/x86/gfni.rs.html",
+	"url": "https://doc.rust-lang.org/1.80.0/src/core/stdarch/crates/core_arch/src/x86/gfni.rs.html"
+}

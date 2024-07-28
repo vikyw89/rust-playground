@@ -1,0 +1,9 @@
+{
+	"id": "Ld2HiY3FMROTESW",
+	"json": "{\"id\":\"Ld2HiY3FMROTESW\",\"url\":\"https://doc.rust-lang.org/stable/std/fs/struct.ReadDir.html\",\"loadedUrl\":\"https://doc.rust-lang.org/stable/std/fs/struct.ReadDir.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/std/fs/struct.ReadDir.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:23:12.374Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/std/fs/struct.ReadDir.html",
+	"url": "https://doc.rust-lang.org/stable/std/fs/struct.ReadDir.html"
+}

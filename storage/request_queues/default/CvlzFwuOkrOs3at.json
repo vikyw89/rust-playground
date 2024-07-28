@@ -1,0 +1,9 @@
+{
+	"id": "CvlzFwuOkrOs3at",
+	"json": "{\"id\":\"CvlzFwuOkrOs3at\",\"url\":\"https://doc.rust-lang.org/nightly/edition-guide/rust-2018/tyvar-behind-raw-pointer.html\",\"uniqueKey\":\"https://doc.rust-lang.org/nightly/edition-guide/rust-2018/tyvar-behind-raw-pointer.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722144100763,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/nightly/edition-guide/rust-2018/tyvar-behind-raw-pointer.html",
+	"url": "https://doc.rust-lang.org/nightly/edition-guide/rust-2018/tyvar-behind-raw-pointer.html"
+}

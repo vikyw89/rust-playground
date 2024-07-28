@@ -1,0 +1,9 @@
+{
+	"id": "hsSoa1d39w3oDOV",
+	"json": "{\"id\":\"hsSoa1d39w3oDOV\",\"url\":\"https://doc.rust-lang.org/stable/std/iter/fn.repeat_with.html\",\"loadedUrl\":\"https://doc.rust-lang.org/stable/std/iter/fn.repeat_with.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/std/iter/fn.repeat_with.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:23:54.298Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/std/iter/fn.repeat_with.html",
+	"url": "https://doc.rust-lang.org/stable/std/iter/fn.repeat_with.html"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "DQLoE0QsFnm6gmQ",
+	"json": "{\"id\":\"DQLoE0QsFnm6gmQ\",\"url\":\"https://doc.rust-lang.org/stable/std/fmt/struct.DebugList.html\",\"loadedUrl\":\"https://doc.rust-lang.org/stable/std/fmt/struct.DebugList.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/std/fmt/struct.DebugList.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:23:09.488Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/std/fmt/struct.DebugList.html",
+	"url": "https://doc.rust-lang.org/stable/std/fmt/struct.DebugList.html"
+}

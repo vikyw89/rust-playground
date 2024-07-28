@@ -1,0 +1,9 @@
+{
+	"id": "K9NRvoOTvHbaL8l",
+	"json": "{\"id\":\"K9NRvoOTvHbaL8l\",\"url\":\"https://doc.rust-lang.org/book/ch11-03-test-organization.html\",\"uniqueKey\":\"https://doc.rust-lang.org/book/ch11-03-test-organization.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722143685962,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/book/ch11-03-test-organization.html",
+	"url": "https://doc.rust-lang.org/book/ch11-03-test-organization.html"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "yXbB9EpWp4mIZG5",
+	"json": "{\"id\":\"yXbB9EpWp4mIZG5\",\"url\":\"https://doc.rust-lang.org/stable/std/mem/union.MaybeUninit.html\",\"loadedUrl\":\"https://doc.rust-lang.org/stable/std/mem/union.MaybeUninit.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/std/mem/union.MaybeUninit.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:14:13.649Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/std/mem/union.MaybeUninit.html",
+	"url": "https://doc.rust-lang.org/stable/std/mem/union.MaybeUninit.html"
+}

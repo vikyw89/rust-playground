@@ -1,0 +1,9 @@
+{
+	"id": "3l8aq60mpQUxi9m",
+	"json": "{\"id\":\"3l8aq60mpQUxi9m\",\"url\":\"https://doc.rust-lang.org/stable/unstable-book/library-features/pointer-like-trait.html\",\"loadedUrl\":\"https://doc.rust-lang.org/stable/unstable-book/library-features/pointer-like-trait.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/unstable-book/library-features/pointer-like-trait.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:19:03.775Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/unstable-book/library-features/pointer-like-trait.html",
+	"url": "https://doc.rust-lang.org/stable/unstable-book/library-features/pointer-like-trait.html"
+}

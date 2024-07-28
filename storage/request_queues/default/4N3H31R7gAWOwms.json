@@ -1,0 +1,9 @@
+{
+	"id": "4N3H31R7gAWOwms",
+	"json": "{\"id\":\"4N3H31R7gAWOwms\",\"url\":\"https://doc.rust-lang.org/stable/core/arch/x86/fn._mm_maskz_compress_pd.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/core/arch/x86/fn._mm_maskz_compress_pd.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722144170299,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/core/arch/x86/fn._mm_maskz_compress_pd.html",
+	"url": "https://doc.rust-lang.org/stable/core/arch/x86/fn._mm_maskz_compress_pd.html"
+}

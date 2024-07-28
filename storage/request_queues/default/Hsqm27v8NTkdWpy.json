@@ -1,0 +1,9 @@
+{
+	"id": "Hsqm27v8NTkdWpy",
+	"json": "{\"id\":\"Hsqm27v8NTkdWpy\",\"url\":\"https://doc.rust-lang.org/edition-guide/editions/index.html\",\"uniqueKey\":\"https://doc.rust-lang.org/edition-guide/editions/index.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722144035495,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/edition-guide/editions/index.html",
+	"url": "https://doc.rust-lang.org/edition-guide/editions/index.html"
+}

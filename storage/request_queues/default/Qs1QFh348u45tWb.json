@@ -1,0 +1,9 @@
+{
+	"id": "Qs1QFh348u45tWb",
+	"json": "{\"id\":\"Qs1QFh348u45tWb\",\"url\":\"https://doc.rust-lang.org/std/mem/struct.ManuallyDrop.html\",\"uniqueKey\":\"https://doc.rust-lang.org/std/mem/struct.ManuallyDrop.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722143584693,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/std/mem/struct.ManuallyDrop.html",
+	"url": "https://doc.rust-lang.org/std/mem/struct.ManuallyDrop.html"
+}

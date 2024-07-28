@@ -1,0 +1,9 @@
+{
+	"id": "kfvXfyoc7HV8gU4",
+	"json": "{\"id\":\"kfvXfyoc7HV8gU4\",\"url\":\"https://doc.rust-lang.org/stable/std/keyword.enum.html\",\"loadedUrl\":\"https://doc.rust-lang.org/stable/std/keyword.enum.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/std/keyword.enum.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:11:22.723Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/std/keyword.enum.html",
+	"url": "https://doc.rust-lang.org/stable/std/keyword.enum.html"
+}

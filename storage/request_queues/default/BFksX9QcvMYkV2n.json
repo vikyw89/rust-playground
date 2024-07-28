@@ -1,0 +1,9 @@
+{
+	"id": "BFksX9QcvMYkV2n",
+	"json": "{\"id\":\"BFksX9QcvMYkV2n\",\"url\":\"https://doc.rust-lang.org/stable/reference/lexical-structure.html\",\"loadedUrl\":\"https://doc.rust-lang.org/stable/reference/lexical-structure.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/reference/lexical-structure.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:12:41.351Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/reference/lexical-structure.html",
+	"url": "https://doc.rust-lang.org/stable/reference/lexical-structure.html"
+}

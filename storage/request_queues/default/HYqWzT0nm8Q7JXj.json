@@ -1,0 +1,9 @@
+{
+	"id": "HYqWzT0nm8Q7JXj",
+	"json": "{\"id\":\"HYqWzT0nm8Q7JXj\",\"url\":\"https://doc.rust-lang.org/stable/core/arch/x86/fn._mm256_permutevar_pd.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/core/arch/x86/fn._mm256_permutevar_pd.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722144164280,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/core/arch/x86/fn._mm256_permutevar_pd.html",
+	"url": "https://doc.rust-lang.org/stable/core/arch/x86/fn._mm256_permutevar_pd.html"
+}

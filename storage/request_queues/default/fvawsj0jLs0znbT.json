@@ -1,0 +1,9 @@
+{
+	"id": "fvawsj0jLs0znbT",
+	"json": "{\"id\":\"fvawsj0jLs0znbT\",\"url\":\"https://doc.rust-lang.org/1.49.0/reference/behavior-considered-undefined.html\",\"uniqueKey\":\"https://doc.rust-lang.org/1.49.0/reference/behavior-considered-undefined.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722143682350,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/1.49.0/reference/behavior-considered-undefined.html",
+	"url": "https://doc.rust-lang.org/1.49.0/reference/behavior-considered-undefined.html"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "nUcNR3v3vNodv7q",
+	"json": "{\"id\":\"nUcNR3v3vNodv7q\",\"url\":\"https://doc.rust-lang.org/stable/test/test/struct.TestExecTime.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/test/test/struct.TestExecTime.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722143499053,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/test/test/struct.TestExecTime.html",
+	"url": "https://doc.rust-lang.org/stable/test/test/struct.TestExecTime.html"
+}

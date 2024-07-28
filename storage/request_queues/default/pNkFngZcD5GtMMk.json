@@ -1,0 +1,9 @@
+{
+	"id": "pNkFngZcD5GtMMk",
+	"json": "{\"id\":\"pNkFngZcD5GtMMk\",\"url\":\"https://doc.rust-lang.org/std/ffi/struct.OsStr.html\",\"uniqueKey\":\"https://doc.rust-lang.org/std/ffi/struct.OsStr.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722144044426,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/std/ffi/struct.OsStr.html",
+	"url": "https://doc.rust-lang.org/std/ffi/struct.OsStr.html"
+}

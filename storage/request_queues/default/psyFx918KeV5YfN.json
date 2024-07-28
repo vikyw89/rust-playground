@@ -1,0 +1,9 @@
+{
+	"id": "psyFx918KeV5YfN",
+	"json": "{\"id\":\"psyFx918KeV5YfN\",\"url\":\"https://doc.rust-lang.org/stable/std/future/trait.IntoFuture.html\",\"loadedUrl\":\"https://doc.rust-lang.org/stable/std/future/trait.IntoFuture.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/std/future/trait.IntoFuture.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:23:16.287Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/std/future/trait.IntoFuture.html",
+	"url": "https://doc.rust-lang.org/stable/std/future/trait.IntoFuture.html"
+}

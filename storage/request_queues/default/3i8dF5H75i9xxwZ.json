@@ -1,0 +1,9 @@
+{
+	"id": "3i8dF5H75i9xxwZ",
+	"json": "{\"id\":\"3i8dF5H75i9xxwZ\",\"url\":\"https://doc.rust-lang.org/stable/std/cmp/fn.minmax_by.html\",\"loadedUrl\":\"https://doc.rust-lang.org/stable/std/cmp/fn.minmax_by.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/std/cmp/fn.minmax_by.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:22:52.807Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/std/cmp/fn.minmax_by.html",
+	"url": "https://doc.rust-lang.org/stable/std/cmp/fn.minmax_by.html"
+}

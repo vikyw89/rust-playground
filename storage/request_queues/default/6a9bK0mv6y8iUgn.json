@@ -1,0 +1,9 @@
+{
+	"id": "6a9bK0mv6y8iUgn",
+	"json": "{\"id\":\"6a9bK0mv6y8iUgn\",\"url\":\"https://doc.rust-lang.org/stable/unstable-book/language-features/link-llvm-intrinsics.html\",\"loadedUrl\":\"https://doc.rust-lang.org/stable/unstable-book/language-features/link-llvm-intrinsics.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/unstable-book/language-features/link-llvm-intrinsics.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:16:00.386Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/unstable-book/language-features/link-llvm-intrinsics.html",
+	"url": "https://doc.rust-lang.org/stable/unstable-book/language-features/link-llvm-intrinsics.html"
+}

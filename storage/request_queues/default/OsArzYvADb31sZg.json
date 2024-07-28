@@ -1,0 +1,9 @@
+{
+	"id": "OsArzYvADb31sZg",
+	"json": "{\"id\":\"OsArzYvADb31sZg\",\"url\":\"https://doc.rust-lang.org/stable/unstable-book/language-features/macro-metavar-expr.html\",\"loadedUrl\":\"https://doc.rust-lang.org/stable/unstable-book/language-features/macro-metavar-expr.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/unstable-book/language-features/macro-metavar-expr.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:16:01.164Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/unstable-book/language-features/macro-metavar-expr.html",
+	"url": "https://doc.rust-lang.org/stable/unstable-book/language-features/macro-metavar-expr.html"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "FgA2maAwBjmOqdg",
+	"json": "{\"id\":\"FgA2maAwBjmOqdg\",\"url\":\"https://doc.rust-lang.org/unstable-book/library-features/float-minimum-maximum.html\",\"uniqueKey\":\"https://doc.rust-lang.org/unstable-book/library-features/float-minimum-maximum.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722144037753,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/unstable-book/library-features/float-minimum-maximum.html",
+	"url": "https://doc.rust-lang.org/unstable-book/library-features/float-minimum-maximum.html"
+}

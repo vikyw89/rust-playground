@@ -1,0 +1,9 @@
+{
+	"id": "rXb7ScxH9l5SYvM",
+	"json": "{\"id\":\"rXb7ScxH9l5SYvM\",\"url\":\"https://doc.rust-lang.org/stable/reference/unsafe-blocks.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/reference/unsafe-blocks.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722143585899,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/reference/unsafe-blocks.html",
+	"url": "https://doc.rust-lang.org/stable/reference/unsafe-blocks.html"
+}

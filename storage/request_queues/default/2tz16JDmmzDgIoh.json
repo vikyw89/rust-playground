@@ -1,0 +1,9 @@
+{
+	"id": "2tz16JDmmzDgIoh",
+	"json": "{\"id\":\"2tz16JDmmzDgIoh\",\"url\":\"https://doc.rust-lang.org/1.80.0/src/proc_macro/bridge/closure.rs.html\",\"uniqueKey\":\"https://doc.rust-lang.org/1.80.0/src/proc_macro/bridge/closure.rs.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722143512258,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/1.80.0/src/proc_macro/bridge/closure.rs.html",
+	"url": "https://doc.rust-lang.org/1.80.0/src/proc_macro/bridge/closure.rs.html"
+}

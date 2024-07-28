@@ -1,0 +1,9 @@
+{
+	"id": "f1t3sbVPrOIEbzA",
+	"json": "{\"id\":\"f1t3sbVPrOIEbzA\",\"url\":\"https://doc.rust-lang.org/stable/src/core/unicode/printable.rs.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/src/core/unicode/printable.rs.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722143496878,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/src/core/unicode/printable.rs.html",
+	"url": "https://doc.rust-lang.org/stable/src/core/unicode/printable.rs.html"
+}

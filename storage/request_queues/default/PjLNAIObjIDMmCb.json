@@ -1,0 +1,9 @@
+{
+	"id": "PjLNAIObjIDMmCb",
+	"json": "{\"id\":\"PjLNAIObjIDMmCb\",\"url\":\"https://doc.rust-lang.org/nomicon/vec/vec-raw.html\",\"uniqueKey\":\"https://doc.rust-lang.org/nomicon/vec/vec-raw.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722144041616,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/nomicon/vec/vec-raw.html",
+	"url": "https://doc.rust-lang.org/nomicon/vec/vec-raw.html"
+}

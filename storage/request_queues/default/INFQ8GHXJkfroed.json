@@ -1,0 +1,9 @@
+{
+	"id": "INFQ8GHXJkfroed",
+	"json": "{\"id\":\"INFQ8GHXJkfroed\",\"url\":\"https://doc.rust-lang.org/stable/std/ops/trait.Shr.html\",\"loadedUrl\":\"https://doc.rust-lang.org/stable/std/ops/trait.Shr.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/std/ops/trait.Shr.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:13:00.648Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/std/ops/trait.Shr.html",
+	"url": "https://doc.rust-lang.org/stable/std/ops/trait.Shr.html"
+}

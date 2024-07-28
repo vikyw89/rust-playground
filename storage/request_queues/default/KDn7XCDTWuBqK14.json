@@ -1,0 +1,9 @@
+{
+	"id": "KDn7XCDTWuBqK14",
+	"json": "{\"id\":\"KDn7XCDTWuBqK14\",\"url\":\"https://doc.rust-lang.org/stable/std/env/fn.vars_os.html\",\"loadedUrl\":\"https://doc.rust-lang.org/stable/std/env/fn.vars_os.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/std/env/fn.vars_os.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:22:58.276Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/std/env/fn.vars_os.html",
+	"url": "https://doc.rust-lang.org/stable/std/env/fn.vars_os.html"
+}

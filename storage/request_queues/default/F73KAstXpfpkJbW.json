@@ -1,0 +1,9 @@
+{
+	"id": "F73KAstXpfpkJbW",
+	"json": "{\"id\":\"F73KAstXpfpkJbW\",\"url\":\"https://doc.rust-lang.org/stable/cargo/getting-started/installation.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/cargo/getting-started/installation.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722143682262,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/cargo/getting-started/installation.html",
+	"url": "https://doc.rust-lang.org/stable/cargo/getting-started/installation.html"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "nauy8A9yxdgSOVF",
+	"json": "{\"id\":\"nauy8A9yxdgSOVF\",\"url\":\"https://doc.rust-lang.org/1.80.0/src/core/iter/traits/accum.rs.html#184-186\",\"loadedUrl\":\"https://doc.rust-lang.org/1.80.0/src/core/iter/traits/accum.rs.html#184-186\",\"uniqueKey\":\"https://doc.rust-lang.org/1.80.0/src/core/iter/traits/accum.rs.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:12:37.796Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/1.80.0/src/core/iter/traits/accum.rs.html",
+	"url": "https://doc.rust-lang.org/1.80.0/src/core/iter/traits/accum.rs.html#184-186"
+}

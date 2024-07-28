@@ -1,0 +1,9 @@
+{
+	"id": "kBK7xybsGuhgeBt",
+	"json": "{\"id\":\"kBK7xybsGuhgeBt\",\"url\":\"https://doc.rust-lang.org/stable/core/arch/x86/fn._mm512_i32scatter_pd.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/core/arch/x86/fn._mm512_i32scatter_pd.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722144166647,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/core/arch/x86/fn._mm512_i32scatter_pd.html",
+	"url": "https://doc.rust-lang.org/stable/core/arch/x86/fn._mm512_i32scatter_pd.html"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "VfhMPPke70UZyn4",
+	"json": "{\"id\":\"VfhMPPke70UZyn4\",\"url\":\"https://doc.rust-lang.org/stable/std/fs/struct.File.html\",\"loadedUrl\":\"https://doc.rust-lang.org/stable/std/fs/struct.File.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/std/fs/struct.File.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:20:24.831Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/std/fs/struct.File.html",
+	"url": "https://doc.rust-lang.org/stable/std/fs/struct.File.html"
+}

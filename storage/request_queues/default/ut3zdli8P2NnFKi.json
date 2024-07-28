@@ -1,0 +1,9 @@
+{
+	"id": "ut3zdli8P2NnFKi",
+	"json": "{\"id\":\"ut3zdli8P2NnFKi\",\"url\":\"https://doc.rust-lang.org/1.80.0/src/std/collections/hash/map.rs.html\",\"uniqueKey\":\"https://doc.rust-lang.org/1.80.0/src/std/collections/hash/map.rs.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722143512311,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/1.80.0/src/std/collections/hash/map.rs.html",
+	"url": "https://doc.rust-lang.org/1.80.0/src/std/collections/hash/map.rs.html"
+}

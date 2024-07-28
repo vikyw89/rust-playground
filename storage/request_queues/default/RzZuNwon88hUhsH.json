@@ -1,0 +1,9 @@
+{
+	"id": "RzZuNwon88hUhsH",
+	"json": "{\"id\":\"RzZuNwon88hUhsH\",\"url\":\"https://doc.rust-lang.org/reference/trait-bounds.html\",\"uniqueKey\":\"https://doc.rust-lang.org/reference/trait-bounds.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722143556343,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/reference/trait-bounds.html",
+	"url": "https://doc.rust-lang.org/reference/trait-bounds.html"
+}

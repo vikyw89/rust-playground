@@ -1,0 +1,9 @@
+{
+	"id": "7FWXFFfOBLy3vd8",
+	"json": "{\"id\":\"7FWXFFfOBLy3vd8\",\"url\":\"https://doc.rust-lang.org/edition-guide/rust-2018/trait-system/no-anon-params.html\",\"uniqueKey\":\"https://doc.rust-lang.org/edition-guide/rust-2018/trait-system/no-anon-params.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722144045579,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/edition-guide/rust-2018/trait-system/no-anon-params.html",
+	"url": "https://doc.rust-lang.org/edition-guide/rust-2018/trait-system/no-anon-params.html"
+}

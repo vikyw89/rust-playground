@@ -1,0 +1,9 @@
+{
+	"id": "gfwl0kB9QxAeKkX",
+	"json": "{\"id\":\"gfwl0kB9QxAeKkX\",\"url\":\"https://doc.rust-lang.org/reference/attributes/diagnostics.html#the-deprecated-attribute\",\"loadedUrl\":\"https://doc.rust-lang.org/reference/attributes/diagnostics.html#the-deprecated-attribute\",\"uniqueKey\":\"https://doc.rust-lang.org/reference/attributes/diagnostics.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:20:42.500Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/reference/attributes/diagnostics.html",
+	"url": "https://doc.rust-lang.org/reference/attributes/diagnostics.html#the-deprecated-attribute"
+}

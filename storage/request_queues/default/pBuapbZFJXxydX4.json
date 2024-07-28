@@ -1,0 +1,9 @@
+{
+	"id": "pBuapbZFJXxydX4",
+	"json": "{\"id\":\"pBuapbZFJXxydX4\",\"url\":\"https://doc.rust-lang.org/stable/core/arch/powerpc64/struct.vector_bool_long.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/core/arch/powerpc64/struct.vector_bool_long.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722144165031,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/core/arch/powerpc64/struct.vector_bool_long.html",
+	"url": "https://doc.rust-lang.org/stable/core/arch/powerpc64/struct.vector_bool_long.html"
+}

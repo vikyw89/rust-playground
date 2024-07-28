@@ -1,0 +1,9 @@
+{
+	"id": "ZgQD4ga4Q4bb3jy",
+	"json": "{\"id\":\"ZgQD4ga4Q4bb3jy\",\"url\":\"https://doc.rust-lang.org/std/char/struct.ToUppercase.html\",\"uniqueKey\":\"https://doc.rust-lang.org/std/char/struct.ToUppercase.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722144035511,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/std/char/struct.ToUppercase.html",
+	"url": "https://doc.rust-lang.org/std/char/struct.ToUppercase.html"
+}

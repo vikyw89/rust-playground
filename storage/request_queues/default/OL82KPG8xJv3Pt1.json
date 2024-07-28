@@ -1,0 +1,9 @@
+{
+	"id": "OL82KPG8xJv3Pt1",
+	"json": "{\"id\":\"OL82KPG8xJv3Pt1\",\"url\":\"https://doc.rust-lang.org/stable/src/core/ops/bit.rs.html\",\"loadedUrl\":\"https://doc.rust-lang.org/stable/src/core/ops/bit.rs.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/src/core/ops/bit.rs.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:29:49.932Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/src/core/ops/bit.rs.html",
+	"url": "https://doc.rust-lang.org/stable/src/core/ops/bit.rs.html"
+}

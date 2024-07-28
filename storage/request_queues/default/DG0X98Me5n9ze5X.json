@@ -1,0 +1,9 @@
+{
+	"id": "DG0X98Me5n9ze5X",
+	"json": "{\"id\":\"DG0X98Me5n9ze5X\",\"url\":\"https://doc.rust-lang.org/stable/std/io/struct.Chain.html\",\"loadedUrl\":\"https://doc.rust-lang.org/stable/std/io/struct.Chain.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/std/io/struct.Chain.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:11:21.395Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/std/io/struct.Chain.html",
+	"url": "https://doc.rust-lang.org/stable/std/io/struct.Chain.html"
+}

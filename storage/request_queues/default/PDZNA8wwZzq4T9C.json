@@ -1,0 +1,9 @@
+{
+	"id": "PDZNA8wwZzq4T9C",
+	"json": "{\"id\":\"PDZNA8wwZzq4T9C\",\"url\":\"https://doc.rust-lang.org/stable/edition-guide/rust-2024/static-mut-reference.html\",\"loadedUrl\":\"https://doc.rust-lang.org/stable/edition-guide/rust-2024/static-mut-reference.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/edition-guide/rust-2024/static-mut-reference.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:20:32.857Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/edition-guide/rust-2024/static-mut-reference.html",
+	"url": "https://doc.rust-lang.org/stable/edition-guide/rust-2024/static-mut-reference.html"
+}

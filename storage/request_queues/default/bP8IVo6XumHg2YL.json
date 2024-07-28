@@ -1,0 +1,9 @@
+{
+	"id": "bP8IVo6XumHg2YL",
+	"json": "{\"id\":\"bP8IVo6XumHg2YL\",\"url\":\"https://doc.rust-lang.org/stable/core/arch/powerpc/struct.vector_signed_char.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/core/arch/powerpc/struct.vector_signed_char.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722144163944,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/core/arch/powerpc/struct.vector_signed_char.html",
+	"url": "https://doc.rust-lang.org/stable/core/arch/powerpc/struct.vector_signed_char.html"
+}

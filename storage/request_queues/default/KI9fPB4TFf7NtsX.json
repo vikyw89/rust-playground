@@ -1,0 +1,9 @@
+{
+	"id": "KI9fPB4TFf7NtsX",
+	"json": "{\"id\":\"KI9fPB4TFf7NtsX\",\"url\":\"https://doc.rust-lang.org/stable/std/collections/hash_map/struct.RawEntryBuilder.html\",\"loadedUrl\":\"https://doc.rust-lang.org/stable/std/collections/hash_map/struct.RawEntryBuilder.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/std/collections/hash_map/struct.RawEntryBuilder.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:26:08.555Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/std/collections/hash_map/struct.RawEntryBuilder.html",
+	"url": "https://doc.rust-lang.org/stable/std/collections/hash_map/struct.RawEntryBuilder.html"
+}

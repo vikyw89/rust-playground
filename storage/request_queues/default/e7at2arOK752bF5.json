@@ -1,0 +1,9 @@
+{
+	"id": "e7at2arOK752bF5",
+	"json": "{\"id\":\"e7at2arOK752bF5\",\"url\":\"https://doc.rust-lang.org/stable/reference/visibility-and-privacy.html?highlight=pub#visibility-and-privacy\",\"loadedUrl\":\"https://doc.rust-lang.org/stable/reference/visibility-and-privacy.html?highlight=pub#visibility-and-privacy\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/reference/visibility-and-privacy.html?highlight=pub\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:25:54.616Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/reference/visibility-and-privacy.html?highlight=pub",
+	"url": "https://doc.rust-lang.org/stable/reference/visibility-and-privacy.html?highlight=pub#visibility-and-privacy"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "dHVW1XSFo0WBvoy",
+	"json": "{\"id\":\"dHVW1XSFo0WBvoy\",\"url\":\"https://doc.rust-lang.org/rust-by-example/flow_control/if_let.html\",\"uniqueKey\":\"https://doc.rust-lang.org/rust-by-example/flow_control/if_let.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722144351160,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/rust-by-example/flow_control/if_let.html",
+	"url": "https://doc.rust-lang.org/rust-by-example/flow_control/if_let.html"
+}

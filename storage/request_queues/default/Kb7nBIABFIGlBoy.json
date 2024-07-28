@@ -1,0 +1,9 @@
+{
+	"id": "Kb7nBIABFIGlBoy",
+	"json": "{\"id\":\"Kb7nBIABFIGlBoy\",\"url\":\"https://doc.rust-lang.org/stable/unstable-book/language-features/rustc-private.html\",\"loadedUrl\":\"https://doc.rust-lang.org/stable/unstable-book/language-features/rustc-private.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/unstable-book/language-features/rustc-private.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:16:18.655Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/unstable-book/language-features/rustc-private.html",
+	"url": "https://doc.rust-lang.org/stable/unstable-book/language-features/rustc-private.html"
+}

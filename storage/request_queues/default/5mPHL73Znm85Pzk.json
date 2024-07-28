@@ -1,0 +1,9 @@
+{
+	"id": "5mPHL73Znm85Pzk",
+	"json": "{\"id\":\"5mPHL73Znm85Pzk\",\"url\":\"https://doc.rust-lang.org/stable/std/result/struct.Iter.html\",\"loadedUrl\":\"https://doc.rust-lang.org/stable/std/result/struct.Iter.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/std/result/struct.Iter.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:12:36.335Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/std/result/struct.Iter.html",
+	"url": "https://doc.rust-lang.org/stable/std/result/struct.Iter.html"
+}

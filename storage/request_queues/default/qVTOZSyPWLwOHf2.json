@@ -1,0 +1,9 @@
+{
+	"id": "qVTOZSyPWLwOHf2",
+	"json": "{\"id\":\"qVTOZSyPWLwOHf2\",\"url\":\"https://doc.rust-lang.org/stable/unstable-book/library-features/iterator-try-reduce.html\",\"loadedUrl\":\"https://doc.rust-lang.org/stable/unstable-book/library-features/iterator-try-reduce.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/unstable-book/library-features/iterator-try-reduce.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:18:36.430Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/unstable-book/library-features/iterator-try-reduce.html",
+	"url": "https://doc.rust-lang.org/stable/unstable-book/library-features/iterator-try-reduce.html"
+}

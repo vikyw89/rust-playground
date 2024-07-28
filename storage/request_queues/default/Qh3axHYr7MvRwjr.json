@@ -1,0 +1,9 @@
+{
+	"id": "Qh3axHYr7MvRwjr",
+	"json": "{\"id\":\"Qh3axHYr7MvRwjr\",\"url\":\"https://doc.rust-lang.org/stable/std/mem/struct.ManuallyDrop.html\",\"loadedUrl\":\"https://doc.rust-lang.org/stable/std/mem/struct.ManuallyDrop.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/std/mem/struct.ManuallyDrop.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:13:04.970Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/std/mem/struct.ManuallyDrop.html",
+	"url": "https://doc.rust-lang.org/stable/std/mem/struct.ManuallyDrop.html"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "mPzLN8za1tXGtcg",
+	"json": "{\"id\":\"mPzLN8za1tXGtcg\",\"url\":\"https://doc.rust-lang.org/nightly/unstable-book/language-features/with-negative-coherence.html\",\"uniqueKey\":\"https://doc.rust-lang.org/nightly/unstable-book/language-features/with-negative-coherence.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722143686026,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/nightly/unstable-book/language-features/with-negative-coherence.html",
+	"url": "https://doc.rust-lang.org/nightly/unstable-book/language-features/with-negative-coherence.html"
+}

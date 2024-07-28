@@ -1,0 +1,9 @@
+{
+	"id": "NtvM72yGdibMina",
+	"json": "{\"id\":\"NtvM72yGdibMina\",\"url\":\"https://doc.rust-lang.org/stable/error_codes/E0262.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/error_codes/E0262.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722143586813,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/error_codes/E0262.html",
+	"url": "https://doc.rust-lang.org/stable/error_codes/E0262.html"
+}

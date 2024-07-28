@@ -1,0 +1,9 @@
+{
+	"id": "jIGdT61u1Df3TcL",
+	"json": "{\"id\":\"jIGdT61u1Df3TcL\",\"url\":\"https://doc.rust-lang.org/1.80.0/src/core/ptr/unique.rs.html\",\"uniqueKey\":\"https://doc.rust-lang.org/1.80.0/src/core/ptr/unique.rs.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722143511725,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/1.80.0/src/core/ptr/unique.rs.html",
+	"url": "https://doc.rust-lang.org/1.80.0/src/core/ptr/unique.rs.html"
+}

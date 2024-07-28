@@ -1,0 +1,9 @@
+{
+	"id": "aWQwmnt4l7sjY2s",
+	"json": "{\"id\":\"aWQwmnt4l7sjY2s\",\"url\":\"https://doc.rust-lang.org/stable/core/arch/x86_64/fn._mm512_mask_fixupimm_round_ps.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/core/arch/x86_64/fn._mm512_mask_fixupimm_round_ps.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722144167900,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/core/arch/x86_64/fn._mm512_mask_fixupimm_round_ps.html",
+	"url": "https://doc.rust-lang.org/stable/core/arch/x86_64/fn._mm512_mask_fixupimm_round_ps.html"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "9ZZLIfQNUcmrGbU",
+	"json": "{\"id\":\"9ZZLIfQNUcmrGbU\",\"url\":\"https://doc.rust-lang.org/reference/patterns.html#wildcard-pattern\",\"loadedUrl\":\"https://doc.rust-lang.org/reference/patterns.html#wildcard-pattern\",\"uniqueKey\":\"https://doc.rust-lang.org/reference/patterns.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:20:43.499Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/reference/patterns.html",
+	"url": "https://doc.rust-lang.org/reference/patterns.html#wildcard-pattern"
+}

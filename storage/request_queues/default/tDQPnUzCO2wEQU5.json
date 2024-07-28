@@ -1,0 +1,9 @@
+{
+	"id": "tDQPnUzCO2wEQU5",
+	"json": "{\"id\":\"tDQPnUzCO2wEQU5\",\"url\":\"https://doc.rust-lang.org/edition-guide/rust-2021/disjoint-capture-in-closures.html\",\"loadedUrl\":\"https://doc.rust-lang.org/edition-guide/rust-2021/disjoint-capture-in-closures.html\",\"uniqueKey\":\"https://doc.rust-lang.org/edition-guide/rust-2021/disjoint-capture-in-closures.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:20:42.614Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/edition-guide/rust-2021/disjoint-capture-in-closures.html",
+	"url": "https://doc.rust-lang.org/edition-guide/rust-2021/disjoint-capture-in-closures.html"
+}

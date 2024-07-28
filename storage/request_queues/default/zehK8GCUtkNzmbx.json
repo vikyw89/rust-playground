@@ -1,0 +1,9 @@
+{
+	"id": "zehK8GCUtkNzmbx",
+	"json": "{\"id\":\"zehK8GCUtkNzmbx\",\"url\":\"https://doc.rust-lang.org/stable/std/simd/prelude/trait.SimdInt.html\",\"loadedUrl\":\"https://doc.rust-lang.org/stable/std/simd/prelude/trait.SimdInt.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/std/simd/prelude/trait.SimdInt.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:26:36.193Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/std/simd/prelude/trait.SimdInt.html",
+	"url": "https://doc.rust-lang.org/stable/std/simd/prelude/trait.SimdInt.html"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "Exbul60I2LicaLG",
+	"json": "{\"id\":\"Exbul60I2LicaLG\",\"url\":\"https://doc.rust-lang.org/book/ch20-02-multithreaded.html\",\"uniqueKey\":\"https://doc.rust-lang.org/book/ch20-02-multithreaded.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722143685977,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/book/ch20-02-multithreaded.html",
+	"url": "https://doc.rust-lang.org/book/ch20-02-multithreaded.html"
+}

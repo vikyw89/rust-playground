@@ -1,0 +1,9 @@
+{
+	"id": "rQjCz0bl8JMDLRc",
+	"json": "{\"id\":\"rQjCz0bl8JMDLRc\",\"url\":\"https://doc.rust-lang.org/stable/core/pin/index.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/core/pin/index.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722144016217,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/core/pin/index.html",
+	"url": "https://doc.rust-lang.org/stable/core/pin/index.html"
+}

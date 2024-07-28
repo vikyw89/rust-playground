@@ -1,0 +1,9 @@
+{
+	"id": "qmPKv6AAhe5GfJz",
+	"json": "{\"id\":\"qmPKv6AAhe5GfJz\",\"url\":\"https://doc.rust-lang.org/stable/std/str/struct.EscapeUnicode.html\",\"loadedUrl\":\"https://doc.rust-lang.org/stable/std/str/struct.EscapeUnicode.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/std/str/struct.EscapeUnicode.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:12:12.931Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/std/str/struct.EscapeUnicode.html",
+	"url": "https://doc.rust-lang.org/stable/std/str/struct.EscapeUnicode.html"
+}

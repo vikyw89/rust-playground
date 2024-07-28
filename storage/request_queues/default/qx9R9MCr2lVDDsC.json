@@ -1,0 +1,9 @@
+{
+	"id": "qx9R9MCr2lVDDsC",
+	"json": "{\"id\":\"qx9R9MCr2lVDDsC\",\"url\":\"https://doc.rust-lang.org/stable/core/arch/x86_64/fn._mm256_fixupimm_ps.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/core/arch/x86_64/fn._mm256_fixupimm_ps.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722144164987,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/core/arch/x86_64/fn._mm256_fixupimm_ps.html",
+	"url": "https://doc.rust-lang.org/stable/core/arch/x86_64/fn._mm256_fixupimm_ps.html"
+}

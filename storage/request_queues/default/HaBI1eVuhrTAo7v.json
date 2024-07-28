@@ -1,0 +1,9 @@
+{
+	"id": "HaBI1eVuhrTAo7v",
+	"json": "{\"id\":\"HaBI1eVuhrTAo7v\",\"url\":\"https://doc.rust-lang.org/stable/core/arch/x86/fn._mm_max_ps.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/core/arch/x86/fn._mm_max_ps.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722144164608,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/core/arch/x86/fn._mm_max_ps.html",
+	"url": "https://doc.rust-lang.org/stable/core/arch/x86/fn._mm_max_ps.html"
+}

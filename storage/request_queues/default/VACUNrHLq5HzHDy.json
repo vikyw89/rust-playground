@@ -1,0 +1,9 @@
+{
+	"id": "VACUNrHLq5HzHDy",
+	"json": "{\"id\":\"VACUNrHLq5HzHDy\",\"url\":\"https://doc.rust-lang.org/stable/unstable-book/library-features/option-get-or-insert-default.html\",\"loadedUrl\":\"https://doc.rust-lang.org/stable/unstable-book/library-features/option-get-or-insert-default.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/unstable-book/library-features/option-get-or-insert-default.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:18:56.037Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/unstable-book/library-features/option-get-or-insert-default.html",
+	"url": "https://doc.rust-lang.org/stable/unstable-book/library-features/option-get-or-insert-default.html"
+}

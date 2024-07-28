@@ -1,0 +1,9 @@
+{
+	"id": "cdptlxvG1qR2iQv",
+	"json": "{\"id\":\"cdptlxvG1qR2iQv\",\"url\":\"https://doc.rust-lang.org/stable/core/arch/x86/fn._mm256_shuffle_f32x4.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/core/arch/x86/fn._mm256_shuffle_f32x4.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722144166507,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/core/arch/x86/fn._mm256_shuffle_f32x4.html",
+	"url": "https://doc.rust-lang.org/stable/core/arch/x86/fn._mm256_shuffle_f32x4.html"
+}

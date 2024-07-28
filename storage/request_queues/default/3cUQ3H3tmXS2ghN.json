@@ -1,0 +1,9 @@
+{
+	"id": "3cUQ3H3tmXS2ghN",
+	"json": "{\"id\":\"3cUQ3H3tmXS2ghN\",\"url\":\"https://doc.rust-lang.org/stable/nomicon/lifetime-mismatch.html\",\"loadedUrl\":\"https://doc.rust-lang.org/stable/nomicon/lifetime-mismatch.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/nomicon/lifetime-mismatch.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:14:06.082Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/nomicon/lifetime-mismatch.html",
+	"url": "https://doc.rust-lang.org/stable/nomicon/lifetime-mismatch.html"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "fgqLQIuErgN5jEy",
+	"json": "{\"id\":\"fgqLQIuErgN5jEy\",\"url\":\"https://doc.rust-lang.org/nightly/unstable-book/library-features/async-gen-internals.html\",\"uniqueKey\":\"https://doc.rust-lang.org/nightly/unstable-book/library-features/async-gen-internals.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722143686035,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/nightly/unstable-book/library-features/async-gen-internals.html",
+	"url": "https://doc.rust-lang.org/nightly/unstable-book/library-features/async-gen-internals.html"
+}

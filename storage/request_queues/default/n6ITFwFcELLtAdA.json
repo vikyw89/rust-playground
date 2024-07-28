@@ -1,0 +1,9 @@
+{
+	"id": "n6ITFwFcELLtAdA",
+	"json": "{\"id\":\"n6ITFwFcELLtAdA\",\"url\":\"https://doc.rust-lang.org/stable/core/arch/x86/constant._MM_PERM_CBAB.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/core/arch/x86/constant._MM_PERM_CBAB.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722144164105,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/core/arch/x86/constant._MM_PERM_CBAB.html",
+	"url": "https://doc.rust-lang.org/stable/core/arch/x86/constant._MM_PERM_CBAB.html"
+}

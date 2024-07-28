@@ -1,0 +1,9 @@
+{
+	"id": "SfoB6yD8pS5ftS2",
+	"json": "{\"id\":\"SfoB6yD8pS5ftS2\",\"url\":\"https://doc.rust-lang.org/stable/unstable-book/library-features/process-exitcode-internals.html\",\"loadedUrl\":\"https://doc.rust-lang.org/stable/unstable-book/library-features/process-exitcode-internals.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/unstable-book/library-features/process-exitcode-internals.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:19:09.456Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/unstable-book/library-features/process-exitcode-internals.html",
+	"url": "https://doc.rust-lang.org/stable/unstable-book/library-features/process-exitcode-internals.html"
+}

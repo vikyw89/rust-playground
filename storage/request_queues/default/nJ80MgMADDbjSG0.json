@@ -1,0 +1,9 @@
+{
+	"id": "nJ80MgMADDbjSG0",
+	"json": "{\"id\":\"nJ80MgMADDbjSG0\",\"url\":\"https://doc.rust-lang.org/std/marker/trait.DiscriminantKind.html\",\"uniqueKey\":\"https://doc.rust-lang.org/std/marker/trait.DiscriminantKind.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722144038478,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/std/marker/trait.DiscriminantKind.html",
+	"url": "https://doc.rust-lang.org/std/marker/trait.DiscriminantKind.html"
+}

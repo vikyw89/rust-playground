@@ -1,0 +1,9 @@
+{
+	"id": "RHqkuvahOrcA07l",
+	"json": "{\"id\":\"RHqkuvahOrcA07l\",\"url\":\"https://doc.rust-lang.org/stable/core/arch/x86/fn._pext_u32.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/core/arch/x86/fn._pext_u32.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722144164723,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/core/arch/x86/fn._pext_u32.html",
+	"url": "https://doc.rust-lang.org/stable/core/arch/x86/fn._pext_u32.html"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "qhmJzC8a4gbGA6y",
+	"json": "{\"id\":\"qhmJzC8a4gbGA6y\",\"url\":\"https://doc.rust-lang.org/std/macro.column.html\",\"uniqueKey\":\"https://doc.rust-lang.org/std/macro.column.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722143685976,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/std/macro.column.html",
+	"url": "https://doc.rust-lang.org/std/macro.column.html"
+}

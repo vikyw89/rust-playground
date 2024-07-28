@@ -1,0 +1,9 @@
+{
+	"id": "cX98X8vBW7ivdx9",
+	"json": "{\"id\":\"cX98X8vBW7ivdx9\",\"url\":\"https://doc.rust-lang.org/1.80.0/std/vec/struct.Vec.html?search=std::vec&filter-crate=std\",\"uniqueKey\":\"https://doc.rust-lang.org/1.80.0/std/vec/struct.Vec.html?filter-crate=std&search=std%3A%3Avec\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722144390055,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/1.80.0/std/vec/struct.Vec.html?filter-crate=std&search=std%3A%3Avec",
+	"url": "https://doc.rust-lang.org/1.80.0/std/vec/struct.Vec.html?search=std::vec&filter-crate=std"
+}

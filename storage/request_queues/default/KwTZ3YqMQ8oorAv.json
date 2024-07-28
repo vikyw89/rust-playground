@@ -1,0 +1,9 @@
+{
+	"id": "KwTZ3YqMQ8oorAv",
+	"json": "{\"id\":\"KwTZ3YqMQ8oorAv\",\"url\":\"https://doc.rust-lang.org/stable/reference/memory-allocation-and-lifetime.html\",\"loadedUrl\":\"https://doc.rust-lang.org/stable/reference/memory-allocation-and-lifetime.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/reference/memory-allocation-and-lifetime.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:13:33.813Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/reference/memory-allocation-and-lifetime.html",
+	"url": "https://doc.rust-lang.org/stable/reference/memory-allocation-and-lifetime.html"
+}

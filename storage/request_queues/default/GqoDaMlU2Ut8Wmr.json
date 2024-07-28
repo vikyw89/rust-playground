@@ -1,0 +1,9 @@
+{
+	"id": "GqoDaMlU2Ut8Wmr",
+	"json": "{\"id\":\"GqoDaMlU2Ut8Wmr\",\"url\":\"https://doc.rust-lang.org/stable/core/arch/riscv32/fn.sll16.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/core/arch/riscv32/fn.sll16.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722144145360,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/core/arch/riscv32/fn.sll16.html",
+	"url": "https://doc.rust-lang.org/stable/core/arch/riscv32/fn.sll16.html"
+}

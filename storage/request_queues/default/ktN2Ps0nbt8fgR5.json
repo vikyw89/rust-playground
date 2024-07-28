@@ -1,0 +1,9 @@
+{
+	"id": "ktN2Ps0nbt8fgR5",
+	"json": "{\"id\":\"ktN2Ps0nbt8fgR5\",\"url\":\"https://doc.rust-lang.org/rustc/platform-support/apple-tvos.html\",\"uniqueKey\":\"https://doc.rust-lang.org/rustc/platform-support/apple-tvos.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722143681557,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/rustc/platform-support/apple-tvos.html",
+	"url": "https://doc.rust-lang.org/rustc/platform-support/apple-tvos.html"
+}

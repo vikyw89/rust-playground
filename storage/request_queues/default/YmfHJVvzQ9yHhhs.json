@@ -1,0 +1,9 @@
+{
+	"id": "YmfHJVvzQ9yHhhs",
+	"json": "{\"id\":\"YmfHJVvzQ9yHhhs\",\"url\":\"https://doc.rust-lang.org/unstable-book/library-features/pin-deref-mut.html\",\"uniqueKey\":\"https://doc.rust-lang.org/unstable-book/library-features/pin-deref-mut.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722144037786,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/unstable-book/library-features/pin-deref-mut.html",
+	"url": "https://doc.rust-lang.org/unstable-book/library-features/pin-deref-mut.html"
+}

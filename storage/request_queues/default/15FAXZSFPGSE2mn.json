@@ -1,0 +1,9 @@
+{
+	"id": "15FAXZSFPGSE2mn",
+	"json": "{\"id\":\"15FAXZSFPGSE2mn\",\"url\":\"https://doc.rust-lang.org/reference/items/enumerations.html\",\"uniqueKey\":\"https://doc.rust-lang.org/reference/items/enumerations.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722143555805,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/reference/items/enumerations.html",
+	"url": "https://doc.rust-lang.org/reference/items/enumerations.html"
+}

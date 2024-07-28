@@ -1,0 +1,9 @@
+{
+	"id": "tOuKXE4Ny38sO6X",
+	"json": "{\"id\":\"tOuKXE4Ny38sO6X\",\"url\":\"https://doc.rust-lang.org/stable/reference/items/generics.html\",\"loadedUrl\":\"https://doc.rust-lang.org/stable/reference/items/generics.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/reference/items/generics.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:12:55.897Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/reference/items/generics.html",
+	"url": "https://doc.rust-lang.org/stable/reference/items/generics.html"
+}

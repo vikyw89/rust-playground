@@ -1,0 +1,9 @@
+{
+	"id": "7g7t2ww9GHfBO5v",
+	"json": "{\"id\":\"7g7t2ww9GHfBO5v\",\"url\":\"https://doc.rust-lang.org/1.80.0/src/alloc/collections/vec_deque/drain.rs.html#94\",\"loadedUrl\":\"https://doc.rust-lang.org/1.80.0/src/alloc/collections/vec_deque/drain.rs.html#94\",\"uniqueKey\":\"https://doc.rust-lang.org/1.80.0/src/alloc/collections/vec_deque/drain.rs.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:13:26.430Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/1.80.0/src/alloc/collections/vec_deque/drain.rs.html",
+	"url": "https://doc.rust-lang.org/1.80.0/src/alloc/collections/vec_deque/drain.rs.html#94"
+}

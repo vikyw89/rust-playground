@@ -1,0 +1,9 @@
+{
+	"id": "jCYVKlymFIppk3T",
+	"json": "{\"id\":\"jCYVKlymFIppk3T\",\"url\":\"https://doc.rust-lang.org/1.80.0/src/core/num/dec2flt/fpu.rs.html\",\"uniqueKey\":\"https://doc.rust-lang.org/1.80.0/src/core/num/dec2flt/fpu.rs.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722143511708,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/1.80.0/src/core/num/dec2flt/fpu.rs.html",
+	"url": "https://doc.rust-lang.org/1.80.0/src/core/num/dec2flt/fpu.rs.html"
+}

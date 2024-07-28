@@ -1,0 +1,9 @@
+{
+	"id": "XrXTrm6Djn6DRej",
+	"json": "{\"id\":\"XrXTrm6Djn6DRej\",\"url\":\"https://doc.rust-lang.org/stable/unstable-book/library-features/const-type-id.html\",\"loadedUrl\":\"https://doc.rust-lang.org/stable/unstable-book/library-features/const-type-id.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/unstable-book/library-features/const-type-id.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:17:42.517Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/unstable-book/library-features/const-type-id.html",
+	"url": "https://doc.rust-lang.org/stable/unstable-book/library-features/const-type-id.html"
+}

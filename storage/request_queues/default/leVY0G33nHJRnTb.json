@@ -1,0 +1,9 @@
+{
+	"id": "leVY0G33nHJRnTb",
+	"json": "{\"id\":\"leVY0G33nHJRnTb\",\"url\":\"https://doc.rust-lang.org/stable/std/iter/struct.SkipWhile.html\",\"loadedUrl\":\"https://doc.rust-lang.org/stable/std/iter/struct.SkipWhile.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/std/iter/struct.SkipWhile.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:21:50.734Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/std/iter/struct.SkipWhile.html",
+	"url": "https://doc.rust-lang.org/stable/std/iter/struct.SkipWhile.html"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "eGQV9CuzSuw5kzd",
+	"json": "{\"id\":\"eGQV9CuzSuw5kzd\",\"url\":\"https://doc.rust-lang.org/stable/rust-by-example/primitives/tuples.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/rust-by-example/primitives/tuples.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722144356719,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/rust-by-example/primitives/tuples.html",
+	"url": "https://doc.rust-lang.org/stable/rust-by-example/primitives/tuples.html"
+}

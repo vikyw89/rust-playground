@@ -1,0 +1,9 @@
+{
+	"id": "PSHCyHr45UPJho5",
+	"json": "{\"id\":\"PSHCyHr45UPJho5\",\"url\":\"https://doc.rust-lang.org/stable/unstable-book/library-features/char-min.html\",\"loadedUrl\":\"https://doc.rust-lang.org/stable/unstable-book/library-features/char-min.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/unstable-book/library-features/char-min.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:17:01.538Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/unstable-book/library-features/char-min.html",
+	"url": "https://doc.rust-lang.org/stable/unstable-book/library-features/char-min.html"
+}

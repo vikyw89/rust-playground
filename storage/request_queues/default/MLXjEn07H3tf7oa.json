@@ -1,0 +1,9 @@
+{
+	"id": "MLXjEn07H3tf7oa",
+	"json": "{\"id\":\"MLXjEn07H3tf7oa\",\"url\":\"https://doc.rust-lang.org/stable/unstable-book/language-features/doc-auto-cfg.html\",\"loadedUrl\":\"https://doc.rust-lang.org/stable/unstable-book/language-features/doc-auto-cfg.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/unstable-book/language-features/doc-auto-cfg.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:15:38.969Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/unstable-book/language-features/doc-auto-cfg.html",
+	"url": "https://doc.rust-lang.org/stable/unstable-book/language-features/doc-auto-cfg.html"
+}

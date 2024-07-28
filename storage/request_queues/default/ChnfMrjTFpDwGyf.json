@@ -1,0 +1,9 @@
+{
+	"id": "ChnfMrjTFpDwGyf",
+	"json": "{\"id\":\"ChnfMrjTFpDwGyf\",\"url\":\"https://doc.rust-lang.org/stable/core/arch/x86_64/struct.__m128.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/core/arch/x86_64/struct.__m128.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722144163940,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/core/arch/x86_64/struct.__m128.html",
+	"url": "https://doc.rust-lang.org/stable/core/arch/x86_64/struct.__m128.html"
+}

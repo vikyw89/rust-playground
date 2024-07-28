@@ -1,0 +1,9 @@
+{
+	"id": "FBNGfycvud14Uay",
+	"json": "{\"id\":\"FBNGfycvud14Uay\",\"url\":\"https://doc.rust-lang.org/1.80.0/src/core/macros/mod.rs.html#1578\",\"loadedUrl\":\"https://doc.rust-lang.org/1.80.0/src/core/macros/mod.rs.html#1578\",\"uniqueKey\":\"https://doc.rust-lang.org/1.80.0/src/core/macros/mod.rs.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:25:50.854Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/1.80.0/src/core/macros/mod.rs.html",
+	"url": "https://doc.rust-lang.org/1.80.0/src/core/macros/mod.rs.html#1578"
+}

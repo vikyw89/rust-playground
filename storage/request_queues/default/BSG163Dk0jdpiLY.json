@@ -1,0 +1,9 @@
+{
+	"id": "BSG163Dk0jdpiLY",
+	"json": "{\"id\":\"BSG163Dk0jdpiLY\",\"url\":\"https://doc.rust-lang.org/book/ch13-00-functional-features.html\",\"uniqueKey\":\"https://doc.rust-lang.org/book/ch13-00-functional-features.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722143685965,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/book/ch13-00-functional-features.html",
+	"url": "https://doc.rust-lang.org/book/ch13-00-functional-features.html"
+}

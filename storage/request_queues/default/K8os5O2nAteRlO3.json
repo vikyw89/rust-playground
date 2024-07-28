@@ -1,0 +1,9 @@
+{
+	"id": "K8os5O2nAteRlO3",
+	"json": "{\"id\":\"K8os5O2nAteRlO3\",\"url\":\"https://doc.rust-lang.org/stable/nomicon/meet-safe-and-unsafe.html\",\"loadedUrl\":\"https://doc.rust-lang.org/stable/nomicon/meet-safe-and-unsafe.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/nomicon/meet-safe-and-unsafe.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:14:04.666Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/nomicon/meet-safe-and-unsafe.html",
+	"url": "https://doc.rust-lang.org/stable/nomicon/meet-safe-and-unsafe.html"
+}

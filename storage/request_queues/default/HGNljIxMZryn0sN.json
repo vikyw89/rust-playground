@@ -1,0 +1,9 @@
+{
+	"id": "HGNljIxMZryn0sN",
+	"json": "{\"id\":\"HGNljIxMZryn0sN\",\"url\":\"https://doc.rust-lang.org/1.49.0/reference/patterns.html\",\"uniqueKey\":\"https://doc.rust-lang.org/1.49.0/reference/patterns.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722143682321,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/1.49.0/reference/patterns.html",
+	"url": "https://doc.rust-lang.org/1.49.0/reference/patterns.html"
+}

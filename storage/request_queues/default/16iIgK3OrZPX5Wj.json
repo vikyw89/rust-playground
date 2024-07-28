@@ -1,0 +1,9 @@
+{
+	"id": "16iIgK3OrZPX5Wj",
+	"json": "{\"id\":\"16iIgK3OrZPX5Wj\",\"url\":\"https://doc.rust-lang.org/nomicon/ffi.html\",\"loadedUrl\":\"https://doc.rust-lang.org/nomicon/ffi.html\",\"uniqueKey\":\"https://doc.rust-lang.org/nomicon/ffi.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:20:41.620Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/nomicon/ffi.html",
+	"url": "https://doc.rust-lang.org/nomicon/ffi.html"
+}

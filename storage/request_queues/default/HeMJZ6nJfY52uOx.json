@@ -1,0 +1,9 @@
+{
+	"id": "HeMJZ6nJfY52uOx",
+	"json": "{\"id\":\"HeMJZ6nJfY52uOx\",\"url\":\"https://doc.rust-lang.org/stable/src/std/ascii.rs.html#207-211\",\"loadedUrl\":\"https://doc.rust-lang.org/stable/src/std/ascii.rs.html#207-211\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/src/std/ascii.rs.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:12:40.122Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/src/std/ascii.rs.html",
+	"url": "https://doc.rust-lang.org/stable/src/std/ascii.rs.html#207-211"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "N1kmFGRID4U3S7a",
+	"json": "{\"id\":\"N1kmFGRID4U3S7a\",\"url\":\"https://doc.rust-lang.org/book/ch16-00-concurrency.html\",\"uniqueKey\":\"https://doc.rust-lang.org/book/ch16-00-concurrency.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722143685971,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/book/ch16-00-concurrency.html",
+	"url": "https://doc.rust-lang.org/book/ch16-00-concurrency.html"
+}

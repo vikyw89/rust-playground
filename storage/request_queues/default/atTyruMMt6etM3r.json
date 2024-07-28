@@ -1,0 +1,9 @@
+{
+	"id": "atTyruMMt6etM3r",
+	"json": "{\"id\":\"atTyruMMt6etM3r\",\"url\":\"https://doc.rust-lang.org/stable/std/io/struct.IoSliceMut.html\",\"loadedUrl\":\"https://doc.rust-lang.org/stable/std/io/struct.IoSliceMut.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/std/io/struct.IoSliceMut.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:11:25.496Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/std/io/struct.IoSliceMut.html",
+	"url": "https://doc.rust-lang.org/stable/std/io/struct.IoSliceMut.html"
+}

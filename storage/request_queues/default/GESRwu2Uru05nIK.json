@@ -1,0 +1,9 @@
+{
+	"id": "GESRwu2Uru05nIK",
+	"json": "{\"id\":\"GESRwu2Uru05nIK\",\"url\":\"https://doc.rust-lang.org/std/iter/struct.Rev.html\",\"uniqueKey\":\"https://doc.rust-lang.org/std/iter/struct.Rev.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722144044437,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/std/iter/struct.Rev.html",
+	"url": "https://doc.rust-lang.org/std/iter/struct.Rev.html"
+}

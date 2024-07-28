@@ -1,0 +1,9 @@
+{
+	"id": "6VPDEwQXpKrEGNj",
+	"json": "{\"id\":\"6VPDEwQXpKrEGNj\",\"url\":\"https://doc.rust-lang.org/stable/core/arch/riscv32/fn.smaqa.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/core/arch/riscv32/fn.smaqa.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722144163662,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/core/arch/riscv32/fn.smaqa.html",
+	"url": "https://doc.rust-lang.org/stable/core/arch/riscv32/fn.smaqa.html"
+}

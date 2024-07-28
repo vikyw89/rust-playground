@@ -1,0 +1,9 @@
+{
+	"id": "aY8Aao977fsnsL0",
+	"json": "{\"id\":\"aY8Aao977fsnsL0\",\"url\":\"https://doc.rust-lang.org/unstable-book/language-features/generic-arg-infer.html\",\"uniqueKey\":\"https://doc.rust-lang.org/unstable-book/language-features/generic-arg-infer.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722144037650,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/unstable-book/language-features/generic-arg-infer.html",
+	"url": "https://doc.rust-lang.org/unstable-book/language-features/generic-arg-infer.html"
+}

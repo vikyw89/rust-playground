@@ -1,0 +1,9 @@
+{
+	"id": "B4OL59xcj9wsw4t",
+	"json": "{\"id\":\"B4OL59xcj9wsw4t\",\"url\":\"https://doc.rust-lang.org/stable/std/ffi/c_str/struct.IntoStringError.html\",\"loadedUrl\":\"https://doc.rust-lang.org/stable/std/ffi/c_str/struct.IntoStringError.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/std/ffi/c_str/struct.IntoStringError.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:23:06.067Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/std/ffi/c_str/struct.IntoStringError.html",
+	"url": "https://doc.rust-lang.org/stable/std/ffi/c_str/struct.IntoStringError.html"
+}

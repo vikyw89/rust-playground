@@ -1,0 +1,9 @@
+{
+	"id": "ILwdfc4zhmM3mt7",
+	"json": "{\"id\":\"ILwdfc4zhmM3mt7\",\"url\":\"https://doc.rust-lang.org/stable/core/arch/nvptx/fn._block_dim_z.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/core/arch/nvptx/fn._block_dim_z.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722144165017,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/core/arch/nvptx/fn._block_dim_z.html",
+	"url": "https://doc.rust-lang.org/stable/core/arch/nvptx/fn._block_dim_z.html"
+}

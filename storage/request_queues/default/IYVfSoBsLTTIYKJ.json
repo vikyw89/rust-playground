@@ -1,0 +1,9 @@
+{
+	"id": "IYVfSoBsLTTIYKJ",
+	"json": "{\"id\":\"IYVfSoBsLTTIYKJ\",\"url\":\"https://doc.rust-lang.org/stable/reference/crates-and-source-files.html\",\"loadedUrl\":\"https://doc.rust-lang.org/stable/reference/crates-and-source-files.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/reference/crates-and-source-files.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:12:48.669Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/reference/crates-and-source-files.html",
+	"url": "https://doc.rust-lang.org/stable/reference/crates-and-source-files.html"
+}

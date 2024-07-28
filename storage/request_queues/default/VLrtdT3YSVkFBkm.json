@@ -1,0 +1,9 @@
+{
+	"id": "VLrtdT3YSVkFBkm",
+	"json": "{\"id\":\"VLrtdT3YSVkFBkm\",\"url\":\"https://doc.rust-lang.org/1.80.0/src/core/iter/adapters/take.rs.html#16\",\"uniqueKey\":\"https://doc.rust-lang.org/1.80.0/src/core/iter/adapters/take.rs.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722143502771,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/1.80.0/src/core/iter/adapters/take.rs.html",
+	"url": "https://doc.rust-lang.org/1.80.0/src/core/iter/adapters/take.rs.html#16"
+}

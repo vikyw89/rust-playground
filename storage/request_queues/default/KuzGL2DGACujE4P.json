@@ -1,0 +1,9 @@
+{
+	"id": "KuzGL2DGACujE4P",
+	"json": "{\"id\":\"KuzGL2DGACujE4P\",\"url\":\"https://doc.rust-lang.org/stable/src/std/io/buffered/bufwriter.rs.html#671-678\",\"loadedUrl\":\"https://doc.rust-lang.org/stable/src/std/io/buffered/bufwriter.rs.html#671-678\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/src/std/io/buffered/bufwriter.rs.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:13:37.011Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/src/std/io/buffered/bufwriter.rs.html",
+	"url": "https://doc.rust-lang.org/stable/src/std/io/buffered/bufwriter.rs.html#671-678"
+}

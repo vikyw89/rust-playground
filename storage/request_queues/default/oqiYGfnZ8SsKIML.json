@@ -1,0 +1,9 @@
+{
+	"id": "oqiYGfnZ8SsKIML",
+	"json": "{\"id\":\"oqiYGfnZ8SsKIML\",\"url\":\"https://doc.rust-lang.org/stable/alloc/alloc/fn.dealloc.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/alloc/alloc/fn.dealloc.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722143650219,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/alloc/alloc/fn.dealloc.html",
+	"url": "https://doc.rust-lang.org/stable/alloc/alloc/fn.dealloc.html"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "ZS4Zly9bX4GsGlr",
+	"json": "{\"id\":\"ZS4Zly9bX4GsGlr\",\"url\":\"https://doc.rust-lang.org/stable/std/iter/struct.FlatMap.html\",\"loadedUrl\":\"https://doc.rust-lang.org/stable/std/iter/struct.FlatMap.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/std/iter/struct.FlatMap.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:21:52.052Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/std/iter/struct.FlatMap.html",
+	"url": "https://doc.rust-lang.org/stable/std/iter/struct.FlatMap.html"
+}

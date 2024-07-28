@@ -1,0 +1,9 @@
+{
+	"id": "jf3gGj7E58lS1aU",
+	"json": "{\"id\":\"jf3gGj7E58lS1aU\",\"url\":\"https://doc.rust-lang.org/stable/core/arch/arm/struct.uint32x2_t.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/core/arch/arm/struct.uint32x2_t.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722144164004,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/core/arch/arm/struct.uint32x2_t.html",
+	"url": "https://doc.rust-lang.org/stable/core/arch/arm/struct.uint32x2_t.html"
+}

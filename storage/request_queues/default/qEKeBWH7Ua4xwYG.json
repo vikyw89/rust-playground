@@ -1,0 +1,9 @@
+{
+	"id": "qEKeBWH7Ua4xwYG",
+	"json": "{\"id\":\"qEKeBWH7Ua4xwYG\",\"url\":\"https://doc.rust-lang.org/1.49.0/reference/items/traits.html\",\"uniqueKey\":\"https://doc.rust-lang.org/1.49.0/reference/items/traits.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722143681603,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/1.49.0/reference/items/traits.html",
+	"url": "https://doc.rust-lang.org/1.49.0/reference/items/traits.html"
+}

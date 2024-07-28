@@ -1,0 +1,9 @@
+{
+	"id": "UaVQzFRw7v2vx0y",
+	"json": "{\"id\":\"UaVQzFRw7v2vx0y\",\"url\":\"https://doc.rust-lang.org/reference/expressions/await-expr.html\",\"uniqueKey\":\"https://doc.rust-lang.org/reference/expressions/await-expr.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722143556215,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/reference/expressions/await-expr.html",
+	"url": "https://doc.rust-lang.org/reference/expressions/await-expr.html"
+}

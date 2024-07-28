@@ -1,0 +1,9 @@
+{
+	"id": "5ulMNSzoNxyXEI6",
+	"json": "{\"id\":\"5ulMNSzoNxyXEI6\",\"url\":\"https://doc.rust-lang.org/stable/core/arch/arm/fn.vuzp_s8.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/core/arch/arm/fn.vuzp_s8.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722144166555,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/core/arch/arm/fn.vuzp_s8.html",
+	"url": "https://doc.rust-lang.org/stable/core/arch/arm/fn.vuzp_s8.html"
+}

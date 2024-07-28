@@ -1,0 +1,9 @@
+{
+	"id": "soGuz1axP36xvPQ",
+	"json": "{\"id\":\"soGuz1axP36xvPQ\",\"url\":\"https://doc.rust-lang.org/std/io/trait.Write.html\",\"uniqueKey\":\"https://doc.rust-lang.org/std/io/trait.Write.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722144397341,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/std/io/trait.Write.html",
+	"url": "https://doc.rust-lang.org/std/io/trait.Write.html"
+}

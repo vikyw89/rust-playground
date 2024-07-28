@@ -1,0 +1,9 @@
+{
+	"id": "8fqYwRzZqCbpDus",
+	"json": "{\"id\":\"8fqYwRzZqCbpDus\",\"url\":\"https://doc.rust-lang.org/stable/core/arch/wasm32/fn.memory_size.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/core/arch/wasm32/fn.memory_size.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722144166112,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/core/arch/wasm32/fn.memory_size.html",
+	"url": "https://doc.rust-lang.org/stable/core/arch/wasm32/fn.memory_size.html"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "CKApp7B3f7LqekO",
+	"json": "{\"id\":\"CKApp7B3f7LqekO\",\"url\":\"https://doc.rust-lang.org/std/iter/struct.Zip.html\",\"uniqueKey\":\"https://doc.rust-lang.org/std/iter/struct.Zip.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722144393782,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/std/iter/struct.Zip.html",
+	"url": "https://doc.rust-lang.org/std/iter/struct.Zip.html"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "lL2nju41R8ckSj4",
+	"json": "{\"id\":\"lL2nju41R8ckSj4\",\"url\":\"https://doc.rust-lang.org/book/ch09-02-recoverable-errors-with-result.html#a-shortcut-for-propagating-errors-the--operator\",\"loadedUrl\":\"https://doc.rust-lang.org/book/ch09-02-recoverable-errors-with-result.html#a-shortcut-for-propagating-errors-the--operator\",\"uniqueKey\":\"https://doc.rust-lang.org/book/ch09-02-recoverable-errors-with-result.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:25:53.107Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/book/ch09-02-recoverable-errors-with-result.html",
+	"url": "https://doc.rust-lang.org/book/ch09-02-recoverable-errors-with-result.html#a-shortcut-for-propagating-errors-the--operator"
+}

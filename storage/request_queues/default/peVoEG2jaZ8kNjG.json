@@ -1,0 +1,9 @@
+{
+	"id": "peVoEG2jaZ8kNjG",
+	"json": "{\"id\":\"peVoEG2jaZ8kNjG\",\"url\":\"https://doc.rust-lang.org/1.80.0/core/macro.file.html\",\"uniqueKey\":\"https://doc.rust-lang.org/1.80.0/core/macro.file.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722143587489,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/1.80.0/core/macro.file.html",
+	"url": "https://doc.rust-lang.org/1.80.0/core/macro.file.html"
+}

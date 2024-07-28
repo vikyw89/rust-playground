@@ -1,0 +1,9 @@
+{
+	"id": "rDbIjZlUN0deUan",
+	"json": "{\"id\":\"rDbIjZlUN0deUan\",\"url\":\"https://doc.rust-lang.org/stable/core/arch/arm/fn.vld1q_dup_u16.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/core/arch/arm/fn.vld1q_dup_u16.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722144164290,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/core/arch/arm/fn.vld1q_dup_u16.html",
+	"url": "https://doc.rust-lang.org/stable/core/arch/arm/fn.vld1q_dup_u16.html"
+}

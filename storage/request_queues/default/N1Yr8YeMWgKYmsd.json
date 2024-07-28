@@ -1,0 +1,9 @@
+{
+	"id": "N1Yr8YeMWgKYmsd",
+	"json": "{\"id\":\"N1Yr8YeMWgKYmsd\",\"url\":\"https://doc.rust-lang.org/nightly/nightly-rustc/tidy/index.html\",\"uniqueKey\":\"https://doc.rust-lang.org/nightly/nightly-rustc/tidy/index.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722144045666,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/nightly/nightly-rustc/tidy/index.html",
+	"url": "https://doc.rust-lang.org/nightly/nightly-rustc/tidy/index.html"
+}

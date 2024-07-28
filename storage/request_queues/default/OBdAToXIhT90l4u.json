@@ -1,0 +1,9 @@
+{
+	"id": "OBdAToXIhT90l4u",
+	"json": "{\"id\":\"OBdAToXIhT90l4u\",\"url\":\"https://doc.rust-lang.org/stable/unstable-book/library-features/const-pointer-is-aligned.html\",\"loadedUrl\":\"https://doc.rust-lang.org/stable/unstable-book/library-features/const-pointer-is-aligned.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/unstable-book/library-features/const-pointer-is-aligned.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:17:30.755Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/unstable-book/library-features/const-pointer-is-aligned.html",
+	"url": "https://doc.rust-lang.org/stable/unstable-book/library-features/const-pointer-is-aligned.html"
+}

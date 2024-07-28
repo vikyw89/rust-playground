@@ -1,0 +1,9 @@
+{
+	"id": "ywSDVQtOt60kTr7",
+	"json": "{\"id\":\"ywSDVQtOt60kTr7\",\"url\":\"https://doc.rust-lang.org/stable/std/task/struct.Waker.html\",\"loadedUrl\":\"https://doc.rust-lang.org/stable/std/task/struct.Waker.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/std/task/struct.Waker.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:13:11.416Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/std/task/struct.Waker.html",
+	"url": "https://doc.rust-lang.org/stable/std/task/struct.Waker.html"
+}

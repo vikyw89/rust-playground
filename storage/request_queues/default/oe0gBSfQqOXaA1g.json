@@ -1,0 +1,9 @@
+{
+	"id": "oe0gBSfQqOXaA1g",
+	"json": "{\"id\":\"oe0gBSfQqOXaA1g\",\"url\":\"https://doc.rust-lang.org/unstable-book/library-features/slice-ptr-get.html\",\"uniqueKey\":\"https://doc.rust-lang.org/unstable-book/library-features/slice-ptr-get.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722144037937,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/unstable-book/library-features/slice-ptr-get.html",
+	"url": "https://doc.rust-lang.org/unstable-book/library-features/slice-ptr-get.html"
+}

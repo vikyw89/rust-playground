@@ -1,0 +1,9 @@
+{
+	"id": "7dC90O4NfrkchHe",
+	"json": "{\"id\":\"7dC90O4NfrkchHe\",\"url\":\"https://doc.rust-lang.org/stable/proc_macro/struct.Group.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/proc_macro/struct.Group.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722143498003,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/proc_macro/struct.Group.html",
+	"url": "https://doc.rust-lang.org/stable/proc_macro/struct.Group.html"
+}

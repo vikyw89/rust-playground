@@ -1,0 +1,9 @@
+{
+	"id": "WUr4dAm4Ewa1u7Q",
+	"json": "{\"id\":\"WUr4dAm4Ewa1u7Q\",\"url\":\"https://doc.rust-lang.org/stable/std/env/consts/constant.OS.html\",\"loadedUrl\":\"https://doc.rust-lang.org/stable/std/env/consts/constant.OS.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/std/env/consts/constant.OS.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:28:14.320Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/std/env/consts/constant.OS.html",
+	"url": "https://doc.rust-lang.org/stable/std/env/consts/constant.OS.html"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "fidHF7Y1nlx7XNm",
+	"json": "{\"id\":\"fidHF7Y1nlx7XNm\",\"url\":\"https://doc.rust-lang.org/std/keyword.match.html\",\"uniqueKey\":\"https://doc.rust-lang.org/std/keyword.match.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722143685996,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/std/keyword.match.html",
+	"url": "https://doc.rust-lang.org/std/keyword.match.html"
+}

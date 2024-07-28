@@ -1,0 +1,9 @@
+{
+	"id": "2ka3qkxhy4PTrxT",
+	"json": "{\"id\":\"2ka3qkxhy4PTrxT\",\"url\":\"https://doc.rust-lang.org/stable/unstable-book/library-features/async-drop.html\",\"loadedUrl\":\"https://doc.rust-lang.org/stable/unstable-book/library-features/async-drop.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/unstable-book/library-features/async-drop.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:16:46.260Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/unstable-book/library-features/async-drop.html",
+	"url": "https://doc.rust-lang.org/stable/unstable-book/library-features/async-drop.html"
+}

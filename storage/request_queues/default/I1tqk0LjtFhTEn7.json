@@ -1,0 +1,9 @@
+{
+	"id": "I1tqk0LjtFhTEn7",
+	"json": "{\"id\":\"I1tqk0LjtFhTEn7\",\"url\":\"https://doc.rust-lang.org/nightly/nightly-rustc/cargo_util_schemas/index.html\",\"uniqueKey\":\"https://doc.rust-lang.org/nightly/nightly-rustc/cargo_util_schemas/index.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722144045563,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/nightly/nightly-rustc/cargo_util_schemas/index.html",
+	"url": "https://doc.rust-lang.org/nightly/nightly-rustc/cargo_util_schemas/index.html"
+}

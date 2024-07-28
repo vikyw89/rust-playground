@@ -1,0 +1,9 @@
+{
+	"id": "UDuilxblg8vfU3W",
+	"json": "{\"id\":\"UDuilxblg8vfU3W\",\"url\":\"https://doc.rust-lang.org/stable/proc_macro/struct.Literal.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/proc_macro/struct.Literal.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722143499047,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/proc_macro/struct.Literal.html",
+	"url": "https://doc.rust-lang.org/stable/proc_macro/struct.Literal.html"
+}

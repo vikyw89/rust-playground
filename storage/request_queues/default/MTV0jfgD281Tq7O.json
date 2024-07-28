@@ -1,0 +1,9 @@
+{
+	"id": "MTV0jfgD281Tq7O",
+	"json": "{\"id\":\"MTV0jfgD281Tq7O\",\"url\":\"https://doc.rust-lang.org/stable/src/core/iter/adapters/map.rs.html\",\"loadedUrl\":\"https://doc.rust-lang.org/stable/src/core/iter/adapters/map.rs.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/src/core/iter/adapters/map.rs.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:29:15.409Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/src/core/iter/adapters/map.rs.html",
+	"url": "https://doc.rust-lang.org/stable/src/core/iter/adapters/map.rs.html"
+}

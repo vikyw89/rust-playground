@@ -1,0 +1,9 @@
+{
+	"id": "WMqLZFzELviV2PA",
+	"json": "{\"id\":\"WMqLZFzELviV2PA\",\"url\":\"https://doc.rust-lang.org/stable/std/collections/struct.BTreeMap.html\",\"loadedUrl\":\"https://doc.rust-lang.org/stable/std/collections/struct.BTreeMap.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/std/collections/struct.BTreeMap.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:13:18.586Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/std/collections/struct.BTreeMap.html",
+	"url": "https://doc.rust-lang.org/stable/std/collections/struct.BTreeMap.html"
+}

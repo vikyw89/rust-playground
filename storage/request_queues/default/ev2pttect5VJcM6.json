@@ -1,0 +1,9 @@
+{
+	"id": "ev2pttect5VJcM6",
+	"json": "{\"id\":\"ev2pttect5VJcM6\",\"url\":\"https://doc.rust-lang.org/stable/src/core/iter/adapters/inspect.rs.html\",\"loadedUrl\":\"https://doc.rust-lang.org/stable/src/core/iter/adapters/inspect.rs.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/src/core/iter/adapters/inspect.rs.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:29:13.078Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/src/core/iter/adapters/inspect.rs.html",
+	"url": "https://doc.rust-lang.org/stable/src/core/iter/adapters/inspect.rs.html"
+}

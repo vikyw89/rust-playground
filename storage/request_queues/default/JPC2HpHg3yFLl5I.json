@@ -1,0 +1,9 @@
+{
+	"id": "JPC2HpHg3yFLl5I",
+	"json": "{\"id\":\"JPC2HpHg3yFLl5I\",\"url\":\"https://doc.rust-lang.org/stable/core/ptr/struct.NonNull.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/core/ptr/struct.NonNull.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722143616744,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/core/ptr/struct.NonNull.html",
+	"url": "https://doc.rust-lang.org/stable/core/ptr/struct.NonNull.html"
+}

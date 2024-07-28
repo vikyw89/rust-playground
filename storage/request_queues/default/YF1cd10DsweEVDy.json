@@ -1,0 +1,9 @@
+{
+	"id": "YF1cd10DsweEVDy",
+	"json": "{\"id\":\"YF1cd10DsweEVDy\",\"url\":\"https://doc.rust-lang.org/book/ch14-05-extending-cargo.html\",\"uniqueKey\":\"https://doc.rust-lang.org/book/ch14-05-extending-cargo.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722143685968,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/book/ch14-05-extending-cargo.html",
+	"url": "https://doc.rust-lang.org/book/ch14-05-extending-cargo.html"
+}

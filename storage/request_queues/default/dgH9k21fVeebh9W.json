@@ -1,0 +1,9 @@
+{
+	"id": "dgH9k21fVeebh9W",
+	"json": "{\"id\":\"dgH9k21fVeebh9W\",\"url\":\"https://doc.rust-lang.org/stable/unstable-book/library-features/trusted-step.html\",\"loadedUrl\":\"https://doc.rust-lang.org/stable/unstable-book/library-features/trusted-step.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/unstable-book/library-features/trusted-step.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:19:50.466Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/unstable-book/library-features/trusted-step.html",
+	"url": "https://doc.rust-lang.org/stable/unstable-book/library-features/trusted-step.html"
+}

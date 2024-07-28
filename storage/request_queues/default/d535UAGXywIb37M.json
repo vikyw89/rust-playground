@@ -1,0 +1,9 @@
+{
+	"id": "d535UAGXywIb37M",
+	"json": "{\"id\":\"d535UAGXywIb37M\",\"url\":\"https://doc.rust-lang.org/stable/book/appendix-03-derivable-traits.html\",\"loadedUrl\":\"https://doc.rust-lang.org/stable/book/appendix-03-derivable-traits.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/book/appendix-03-derivable-traits.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:08:36.707Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/book/appendix-03-derivable-traits.html",
+	"url": "https://doc.rust-lang.org/stable/book/appendix-03-derivable-traits.html"
+}

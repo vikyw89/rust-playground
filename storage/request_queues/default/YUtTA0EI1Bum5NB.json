@@ -1,0 +1,9 @@
+{
+	"id": "YUtTA0EI1Bum5NB",
+	"json": "{\"id\":\"YUtTA0EI1Bum5NB\",\"url\":\"https://doc.rust-lang.org/1.49.0/reference/interior-mutability.html\",\"uniqueKey\":\"https://doc.rust-lang.org/1.49.0/reference/interior-mutability.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722143682343,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/1.49.0/reference/interior-mutability.html",
+	"url": "https://doc.rust-lang.org/1.49.0/reference/interior-mutability.html"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "oTRTRHj1tCVwh4J",
+	"json": "{\"id\":\"oTRTRHj1tCVwh4J\",\"url\":\"https://doc.rust-lang.org/cargo/guide/dependencies.html\",\"loadedUrl\":\"https://doc.rust-lang.org/cargo/guide/dependencies.html\",\"uniqueKey\":\"https://doc.rust-lang.org/cargo/guide/dependencies.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:09:19.594Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/cargo/guide/dependencies.html",
+	"url": "https://doc.rust-lang.org/cargo/guide/dependencies.html"
+}

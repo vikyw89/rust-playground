@@ -1,0 +1,9 @@
+{
+	"id": "xTaNdhV9bE7h7U7",
+	"json": "{\"id\":\"xTaNdhV9bE7h7U7\",\"url\":\"https://doc.rust-lang.org/std/ffi/struct.CString.html\",\"uniqueKey\":\"https://doc.rust-lang.org/std/ffi/struct.CString.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722144044427,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/std/ffi/struct.CString.html",
+	"url": "https://doc.rust-lang.org/std/ffi/struct.CString.html"
+}

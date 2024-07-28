@@ -1,0 +1,9 @@
+{
+	"id": "EhqF7dgxgvu223N",
+	"json": "{\"id\":\"EhqF7dgxgvu223N\",\"url\":\"https://doc.rust-lang.org/book/ch12-02-reading-a-file.html\",\"uniqueKey\":\"https://doc.rust-lang.org/book/ch12-02-reading-a-file.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722143685963,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/book/ch12-02-reading-a-file.html",
+	"url": "https://doc.rust-lang.org/book/ch12-02-reading-a-file.html"
+}

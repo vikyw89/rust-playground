@@ -1,0 +1,9 @@
+{
+	"id": "IjX9gXVbimcnRLM",
+	"json": "{\"id\":\"IjX9gXVbimcnRLM\",\"url\":\"https://doc.rust-lang.org/reference/type-coercions.html#coercion-sites\",\"loadedUrl\":\"https://doc.rust-lang.org/reference/type-coercions.html#coercion-sites\",\"uniqueKey\":\"https://doc.rust-lang.org/reference/type-coercions.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:21:37.076Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/reference/type-coercions.html",
+	"url": "https://doc.rust-lang.org/reference/type-coercions.html#coercion-sites"
+}

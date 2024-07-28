@@ -1,0 +1,9 @@
+{
+	"id": "HljbBXv2Zy2X1tr",
+	"json": "{\"id\":\"HljbBXv2Zy2X1tr\",\"url\":\"https://doc.rust-lang.org/stable/core/arch/x86/fn._mm_maskz_fixupimm_sd.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/core/arch/x86/fn._mm_maskz_fixupimm_sd.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722144170338,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/core/arch/x86/fn._mm_maskz_fixupimm_sd.html",
+	"url": "https://doc.rust-lang.org/stable/core/arch/x86/fn._mm_maskz_fixupimm_sd.html"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "cjXvXX8i6xPxH9I",
+	"json": "{\"id\":\"cjXvXX8i6xPxH9I\",\"url\":\"https://doc.rust-lang.org/std/sync/struct.MutexGuard.html#impl-Send\",\"uniqueKey\":\"https://doc.rust-lang.org/std/sync/struct.MutexGuard.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722143649566,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/std/sync/struct.MutexGuard.html",
+	"url": "https://doc.rust-lang.org/std/sync/struct.MutexGuard.html#impl-Send"
+}

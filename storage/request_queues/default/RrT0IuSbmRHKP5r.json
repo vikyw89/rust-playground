@@ -1,0 +1,9 @@
+{
+	"id": "RrT0IuSbmRHKP5r",
+	"json": "{\"id\":\"RrT0IuSbmRHKP5r\",\"url\":\"https://doc.rust-lang.org/std/net/struct.Ipv6Addr.html\",\"uniqueKey\":\"https://doc.rust-lang.org/std/net/struct.Ipv6Addr.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722144390060,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/std/net/struct.Ipv6Addr.html",
+	"url": "https://doc.rust-lang.org/std/net/struct.Ipv6Addr.html"
+}

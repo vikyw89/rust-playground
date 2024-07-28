@@ -1,0 +1,9 @@
+{
+	"id": "2e0cRrU81CNS9Vt",
+	"json": "{\"id\":\"2e0cRrU81CNS9Vt\",\"url\":\"https://doc.rust-lang.org/std/net/struct.Ipv4Addr.html\",\"uniqueKey\":\"https://doc.rust-lang.org/std/net/struct.Ipv4Addr.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722144390061,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/std/net/struct.Ipv4Addr.html",
+	"url": "https://doc.rust-lang.org/std/net/struct.Ipv4Addr.html"
+}

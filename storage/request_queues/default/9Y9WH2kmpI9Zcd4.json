@@ -1,0 +1,9 @@
+{
+	"id": "9Y9WH2kmpI9Zcd4",
+	"json": "{\"id\":\"9Y9WH2kmpI9Zcd4\",\"url\":\"https://doc.rust-lang.org/nightly/cargo/commands/cargo-add.html\",\"uniqueKey\":\"https://doc.rust-lang.org/nightly/cargo/commands/cargo-add.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722144045616,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/nightly/cargo/commands/cargo-add.html",
+	"url": "https://doc.rust-lang.org/nightly/cargo/commands/cargo-add.html"
+}

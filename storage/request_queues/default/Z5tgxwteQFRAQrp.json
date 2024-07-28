@@ -1,0 +1,9 @@
+{
+	"id": "Z5tgxwteQFRAQrp",
+	"json": "{\"id\":\"Z5tgxwteQFRAQrp\",\"url\":\"https://doc.rust-lang.org/stable/unstable-book/library-features/iter-chain.html\",\"loadedUrl\":\"https://doc.rust-lang.org/stable/unstable-book/library-features/iter-chain.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/unstable-book/library-features/iter-chain.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:18:29.059Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/unstable-book/library-features/iter-chain.html",
+	"url": "https://doc.rust-lang.org/stable/unstable-book/library-features/iter-chain.html"
+}

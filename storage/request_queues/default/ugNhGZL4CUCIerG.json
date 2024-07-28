@@ -1,0 +1,9 @@
+{
+	"id": "ugNhGZL4CUCIerG",
+	"json": "{\"id\":\"ugNhGZL4CUCIerG\",\"url\":\"https://doc.rust-lang.org/rust-by-example/generics/multi_bounds.html\",\"uniqueKey\":\"https://doc.rust-lang.org/rust-by-example/generics/multi_bounds.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722144351177,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/rust-by-example/generics/multi_bounds.html",
+	"url": "https://doc.rust-lang.org/rust-by-example/generics/multi_bounds.html"
+}

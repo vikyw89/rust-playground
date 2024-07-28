@@ -1,0 +1,9 @@
+{
+	"id": "seBrC6bQ99iq8F0",
+	"json": "{\"id\":\"seBrC6bQ99iq8F0\",\"url\":\"https://doc.rust-lang.org/stable/std/iter/struct.Flatten.html\",\"loadedUrl\":\"https://doc.rust-lang.org/stable/std/iter/struct.Flatten.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/std/iter/struct.Flatten.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:23:48.788Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/std/iter/struct.Flatten.html",
+	"url": "https://doc.rust-lang.org/stable/std/iter/struct.Flatten.html"
+}

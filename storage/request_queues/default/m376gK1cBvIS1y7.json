@@ -1,0 +1,9 @@
+{
+	"id": "m376gK1cBvIS1y7",
+	"json": "{\"id\":\"m376gK1cBvIS1y7\",\"url\":\"https://doc.rust-lang.org/stable/nomicon/vec/vec-zsts.html\",\"loadedUrl\":\"https://doc.rust-lang.org/stable/nomicon/vec/vec-zsts.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/nomicon/vec/vec-zsts.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:14:11.261Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/nomicon/vec/vec-zsts.html",
+	"url": "https://doc.rust-lang.org/stable/nomicon/vec/vec-zsts.html"
+}

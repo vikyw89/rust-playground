@@ -1,0 +1,9 @@
+{
+	"id": "k5jy2SH063kVqji",
+	"json": "{\"id\":\"k5jy2SH063kVqji\",\"url\":\"https://doc.rust-lang.org/stable/unstable-book/language-features/allow-internal-unsafe.html\",\"loadedUrl\":\"https://doc.rust-lang.org/stable/unstable-book/language-features/allow-internal-unsafe.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/unstable-book/language-features/allow-internal-unsafe.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:15:10.523Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/unstable-book/language-features/allow-internal-unsafe.html",
+	"url": "https://doc.rust-lang.org/stable/unstable-book/language-features/allow-internal-unsafe.html"
+}

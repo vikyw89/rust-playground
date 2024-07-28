@@ -1,0 +1,9 @@
+{
+	"id": "99F0i53i8R7AMj7",
+	"json": "{\"id\":\"99F0i53i8R7AMj7\",\"url\":\"https://doc.rust-lang.org/rustdoc/documentation-tests.html\",\"loadedUrl\":\"https://doc.rust-lang.org/rustdoc/documentation-tests.html\",\"uniqueKey\":\"https://doc.rust-lang.org/rustdoc/documentation-tests.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":3,\"errorMessages\":[\"page.title: Execution context was destroyed, most likely because of a navigation\\n    at PlaywrightCrawler.requestHandler (/home/vikyw/.nvm/versions/node/v20.15.0/lib/node_modules/@philschmid/clipper/dist/crawler.js:24:38)\",\"page.title: Execution context was destroyed, most likely because of a navigation\\n    at PlaywrightCrawler.requestHandler (/home/vikyw/.nvm/versions/node/v20.15.0/lib/node_modules/@philschmid/clipper/dist/crawler.js:24:38)\",\"page.title: Execution context was destroyed, most likely because of a navigation\\n    at PlaywrightCrawler.requestHandler (/home/vikyw/.nvm/versions/node/v20.15.0/lib/node_modules/@philschmid/clipper/dist/crawler.js:24:38)\",\"page.title: Execution context was destroyed, most likely because of a navigation\\n    at PlaywrightCrawler.requestHandler (/home/vikyw/.nvm/versions/node/v20.15.0/lib/node_modules/@philschmid/clipper/dist/crawler.js:24:38)\"],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":5}},\"handledAt\":\"2024-07-28T05:20:52.020Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 3,
+	"uniqueKey": "https://doc.rust-lang.org/rustdoc/documentation-tests.html",
+	"url": "https://doc.rust-lang.org/rustdoc/documentation-tests.html"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "0zsJqIVDotxU91W",
+	"json": "{\"id\":\"0zsJqIVDotxU91W\",\"url\":\"https://doc.rust-lang.org/stable/std/marker/trait.FnPtr.html\",\"loadedUrl\":\"https://doc.rust-lang.org/stable/std/marker/trait.FnPtr.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/std/marker/trait.FnPtr.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:21:06.462Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/std/marker/trait.FnPtr.html",
+	"url": "https://doc.rust-lang.org/stable/std/marker/trait.FnPtr.html"
+}

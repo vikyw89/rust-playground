@@ -1,0 +1,9 @@
+{
+	"id": "S0Tk8d4oOd1qPoC",
+	"json": "{\"id\":\"S0Tk8d4oOd1qPoC\",\"url\":\"https://doc.rust-lang.org/stable/core/arch/x86/fn._mm256_castpd128_pd256.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/core/arch/x86/fn._mm256_castpd128_pd256.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722144164195,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/core/arch/x86/fn._mm256_castpd128_pd256.html",
+	"url": "https://doc.rust-lang.org/stable/core/arch/x86/fn._mm256_castpd128_pd256.html"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "xrfFhKvViim6BTr",
+	"json": "{\"id\":\"xrfFhKvViim6BTr\",\"url\":\"https://doc.rust-lang.org/1.80.0/core/num/struct.ParseFloatError.html\",\"uniqueKey\":\"https://doc.rust-lang.org/1.80.0/core/num/struct.ParseFloatError.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722144246758,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/1.80.0/core/num/struct.ParseFloatError.html",
+	"url": "https://doc.rust-lang.org/1.80.0/core/num/struct.ParseFloatError.html"
+}

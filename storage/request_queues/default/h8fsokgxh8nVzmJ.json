@@ -1,0 +1,9 @@
+{
+	"id": "h8fsokgxh8nVzmJ",
+	"json": "{\"id\":\"h8fsokgxh8nVzmJ\",\"url\":\"https://doc.rust-lang.org/1.80.0/core/ffi/struct.CStr.html\",\"uniqueKey\":\"https://doc.rust-lang.org/1.80.0/core/ffi/struct.CStr.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722144248091,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/1.80.0/core/ffi/struct.CStr.html",
+	"url": "https://doc.rust-lang.org/1.80.0/core/ffi/struct.CStr.html"
+}

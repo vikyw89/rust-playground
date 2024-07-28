@@ -1,0 +1,9 @@
+{
+	"id": "jPEFOIq2tzLJzD0",
+	"json": "{\"id\":\"jPEFOIq2tzLJzD0\",\"url\":\"https://doc.rust-lang.org/stable/core/arch/x86_64/fn._mm_cmpneq_ps.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/core/arch/x86_64/fn._mm_cmpneq_ps.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722144164389,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/core/arch/x86_64/fn._mm_cmpneq_ps.html",
+	"url": "https://doc.rust-lang.org/stable/core/arch/x86_64/fn._mm_cmpneq_ps.html"
+}

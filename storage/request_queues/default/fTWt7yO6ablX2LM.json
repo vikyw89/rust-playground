@@ -1,0 +1,9 @@
+{
+	"id": "fTWt7yO6ablX2LM",
+	"json": "{\"id\":\"fTWt7yO6ablX2LM\",\"url\":\"https://doc.rust-lang.org/1.80.0/core/ptr/metadata/traitalias.Thin.html\",\"loadedUrl\":\"https://doc.rust-lang.org/1.80.0/core/ptr/traitalias.Thin.html\",\"uniqueKey\":\"https://doc.rust-lang.org/1.80.0/core/ptr/metadata/traitalias.Thin.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:21:36.043Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/1.80.0/core/ptr/metadata/traitalias.Thin.html",
+	"url": "https://doc.rust-lang.org/1.80.0/core/ptr/metadata/traitalias.Thin.html"
+}

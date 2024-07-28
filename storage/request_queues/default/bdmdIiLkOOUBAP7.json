@@ -1,0 +1,9 @@
+{
+	"id": "bdmdIiLkOOUBAP7",
+	"json": "{\"id\":\"bdmdIiLkOOUBAP7\",\"url\":\"https://doc.rust-lang.org/rust-by-example/scope/lifetime/struct.html\",\"uniqueKey\":\"https://doc.rust-lang.org/rust-by-example/scope/lifetime/struct.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722144351191,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/rust-by-example/scope/lifetime/struct.html",
+	"url": "https://doc.rust-lang.org/rust-by-example/scope/lifetime/struct.html"
+}

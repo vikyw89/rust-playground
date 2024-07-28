@@ -1,0 +1,9 @@
+{
+	"id": "2ULNr4YG0zlLPXo",
+	"json": "{\"id\":\"2ULNr4YG0zlLPXo\",\"url\":\"https://doc.rust-lang.org/std/env/fn.vars.html\",\"uniqueKey\":\"https://doc.rust-lang.org/std/env/fn.vars.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722144045593,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/std/env/fn.vars.html",
+	"url": "https://doc.rust-lang.org/std/env/fn.vars.html"
+}

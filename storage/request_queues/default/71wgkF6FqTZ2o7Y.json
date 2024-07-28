@@ -1,0 +1,9 @@
+{
+	"id": "71wgkF6FqTZ2o7Y",
+	"json": "{\"id\":\"71wgkF6FqTZ2o7Y\",\"url\":\"https://doc.rust-lang.org/rustc/platform-support/x86_64-fortanix-unknown-sgx.html\",\"uniqueKey\":\"https://doc.rust-lang.org/rustc/platform-support/x86_64-fortanix-unknown-sgx.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722143682309,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/rustc/platform-support/x86_64-fortanix-unknown-sgx.html",
+	"url": "https://doc.rust-lang.org/rustc/platform-support/x86_64-fortanix-unknown-sgx.html"
+}

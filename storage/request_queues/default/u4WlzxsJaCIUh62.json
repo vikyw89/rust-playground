@@ -1,0 +1,9 @@
+{
+	"id": "u4WlzxsJaCIUh62",
+	"json": "{\"id\":\"u4WlzxsJaCIUh62\",\"url\":\"https://doc.rust-lang.org/reference/attributes/type_system.html#the-non_exhaustive-attribute\",\"loadedUrl\":\"https://doc.rust-lang.org/reference/attributes/type_system.html#the-non_exhaustive-attribute\",\"uniqueKey\":\"https://doc.rust-lang.org/reference/attributes/type_system.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:20:43.612Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/reference/attributes/type_system.html",
+	"url": "https://doc.rust-lang.org/reference/attributes/type_system.html#the-non_exhaustive-attribute"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "U8TjOUre0FYaDPb",
+	"json": "{\"id\":\"U8TjOUre0FYaDPb\",\"url\":\"https://doc.rust-lang.org/stable/core/arch/x86_64/type.__mmask32.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/core/arch/x86_64/type.__mmask32.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722144171685,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/core/arch/x86_64/type.__mmask32.html",
+	"url": "https://doc.rust-lang.org/stable/core/arch/x86_64/type.__mmask32.html"
+}

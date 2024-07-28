@@ -1,0 +1,9 @@
+{
+	"id": "GaUearB7VhpvAxS",
+	"json": "{\"id\":\"GaUearB7VhpvAxS\",\"url\":\"https://doc.rust-lang.org/stable/unstable-book/library-features/windows-stdio.html\",\"loadedUrl\":\"https://doc.rust-lang.org/stable/unstable-book/library-features/windows-stdio.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/unstable-book/library-features/windows-stdio.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:20:15.401Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/unstable-book/library-features/windows-stdio.html",
+	"url": "https://doc.rust-lang.org/stable/unstable-book/library-features/windows-stdio.html"
+}

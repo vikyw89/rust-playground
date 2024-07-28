@@ -1,0 +1,9 @@
+{
+	"id": "BSI7LxkAbr2KDkP",
+	"json": "{\"id\":\"BSI7LxkAbr2KDkP\",\"url\":\"https://doc.rust-lang.org/stable/std/ffi/struct.OsStr.html\",\"loadedUrl\":\"https://doc.rust-lang.org/stable/std/ffi/struct.OsStr.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/std/ffi/struct.OsStr.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:12:18.273Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/std/ffi/struct.OsStr.html",
+	"url": "https://doc.rust-lang.org/stable/std/ffi/struct.OsStr.html"
+}

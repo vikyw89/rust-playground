@@ -1,0 +1,9 @@
+{
+	"id": "bxOLJByT3yJBgxY",
+	"json": "{\"id\":\"bxOLJByT3yJBgxY\",\"url\":\"https://doc.rust-lang.org/stable/unstable-book/library-features/const-nonnull-new.html\",\"loadedUrl\":\"https://doc.rust-lang.org/stable/unstable-book/library-features/const-nonnull-new.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/unstable-book/library-features/const-nonnull-new.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:17:26.157Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/unstable-book/library-features/const-nonnull-new.html",
+	"url": "https://doc.rust-lang.org/stable/unstable-book/library-features/const-nonnull-new.html"
+}

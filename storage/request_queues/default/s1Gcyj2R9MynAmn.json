@@ -1,0 +1,9 @@
+{
+	"id": "s1Gcyj2R9MynAmn",
+	"json": "{\"id\":\"s1Gcyj2R9MynAmn\",\"url\":\"https://doc.rust-lang.org/stable/std/clone/trait.Clone.html\",\"loadedUrl\":\"https://doc.rust-lang.org/stable/std/clone/trait.Clone.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/std/clone/trait.Clone.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:11:49.179Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/std/clone/trait.Clone.html",
+	"url": "https://doc.rust-lang.org/stable/std/clone/trait.Clone.html"
+}

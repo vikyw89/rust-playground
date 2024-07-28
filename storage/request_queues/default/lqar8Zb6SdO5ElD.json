@@ -1,0 +1,9 @@
+{
+	"id": "lqar8Zb6SdO5ElD",
+	"json": "{\"id\":\"lqar8Zb6SdO5ElD\",\"url\":\"https://doc.rust-lang.org/book/ch03-01-variables-and-mutability.html\",\"uniqueKey\":\"https://doc.rust-lang.org/book/ch03-01-variables-and-mutability.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722143685927,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/book/ch03-01-variables-and-mutability.html",
+	"url": "https://doc.rust-lang.org/book/ch03-01-variables-and-mutability.html"
+}

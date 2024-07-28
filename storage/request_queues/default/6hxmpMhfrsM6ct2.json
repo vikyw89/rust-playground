@@ -1,0 +1,9 @@
+{
+	"id": "6hxmpMhfrsM6ct2",
+	"json": "{\"id\":\"6hxmpMhfrsM6ct2\",\"url\":\"https://doc.rust-lang.org/proc_macro/enum.Delimiter.html#variant.None\",\"uniqueKey\":\"https://doc.rust-lang.org/proc_macro/enum.Delimiter.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722144038281,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/proc_macro/enum.Delimiter.html",
+	"url": "https://doc.rust-lang.org/proc_macro/enum.Delimiter.html#variant.None"
+}

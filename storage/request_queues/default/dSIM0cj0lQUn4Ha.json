@@ -1,0 +1,9 @@
+{
+	"id": "dSIM0cj0lQUn4Ha",
+	"json": "{\"id\":\"dSIM0cj0lQUn4Ha\",\"url\":\"https://doc.rust-lang.org/stable/reference/notation.html\",\"loadedUrl\":\"https://doc.rust-lang.org/stable/reference/notation.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/reference/notation.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:12:40.785Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/reference/notation.html",
+	"url": "https://doc.rust-lang.org/stable/reference/notation.html"
+}

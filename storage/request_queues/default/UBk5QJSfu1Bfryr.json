@@ -1,0 +1,9 @@
+{
+	"id": "UBk5QJSfu1Bfryr",
+	"json": "{\"id\":\"UBk5QJSfu1Bfryr\",\"url\":\"https://doc.rust-lang.org/stable/cargo/reference/specifying-dependencies.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/cargo/reference/specifying-dependencies.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722143682314,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/cargo/reference/specifying-dependencies.html",
+	"url": "https://doc.rust-lang.org/stable/cargo/reference/specifying-dependencies.html"
+}

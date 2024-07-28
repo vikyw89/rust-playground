@@ -1,0 +1,9 @@
+{
+	"id": "mpsbVLN2jiUgMhI",
+	"json": "{\"id\":\"mpsbVLN2jiUgMhI\",\"url\":\"https://doc.rust-lang.org/unstable-book/library-features/unwrap-infallible.html\",\"uniqueKey\":\"https://doc.rust-lang.org/unstable-book/library-features/unwrap-infallible.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722144038056,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/unstable-book/library-features/unwrap-infallible.html",
+	"url": "https://doc.rust-lang.org/unstable-book/library-features/unwrap-infallible.html"
+}

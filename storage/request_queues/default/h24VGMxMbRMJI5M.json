@@ -1,0 +1,9 @@
+{
+	"id": "h24VGMxMbRMJI5M",
+	"json": "{\"id\":\"h24VGMxMbRMJI5M\",\"url\":\"https://doc.rust-lang.org/stable/std/intrinsics/fn.atomic_xchg_acqrel.html\",\"loadedUrl\":\"https://doc.rust-lang.org/stable/std/intrinsics/fn.atomic_xchg_acqrel.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/std/intrinsics/fn.atomic_xchg_acqrel.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:23:31.007Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/std/intrinsics/fn.atomic_xchg_acqrel.html",
+	"url": "https://doc.rust-lang.org/stable/std/intrinsics/fn.atomic_xchg_acqrel.html"
+}

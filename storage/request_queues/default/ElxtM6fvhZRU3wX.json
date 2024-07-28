@@ -1,0 +1,9 @@
+{
+	"id": "ElxtM6fvhZRU3wX",
+	"json": "{\"id\":\"ElxtM6fvhZRU3wX\",\"url\":\"https://doc.rust-lang.org/nightly/unstable-book/library-features/const-intrinsic-forget.html\",\"uniqueKey\":\"https://doc.rust-lang.org/nightly/unstable-book/library-features/const-intrinsic-forget.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722143686051,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/nightly/unstable-book/library-features/const-intrinsic-forget.html",
+	"url": "https://doc.rust-lang.org/nightly/unstable-book/library-features/const-intrinsic-forget.html"
+}

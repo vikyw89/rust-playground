@@ -1,0 +1,9 @@
+{
+	"id": "fFaqLtBtr4PMZog",
+	"json": "{\"id\":\"fFaqLtBtr4PMZog\",\"url\":\"https://doc.rust-lang.org/rust-by-example/macros/variadics.html\",\"uniqueKey\":\"https://doc.rust-lang.org/rust-by-example/macros/variadics.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722144351201,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/rust-by-example/macros/variadics.html",
+	"url": "https://doc.rust-lang.org/rust-by-example/macros/variadics.html"
+}

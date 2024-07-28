@@ -1,0 +1,9 @@
+{
+	"id": "q1SAtC5Jyjooh3R",
+	"json": "{\"id\":\"q1SAtC5Jyjooh3R\",\"url\":\"https://doc.rust-lang.org/std/process/struct.ExitStatus.html\",\"uniqueKey\":\"https://doc.rust-lang.org/std/process/struct.ExitStatus.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722144044430,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/std/process/struct.ExitStatus.html",
+	"url": "https://doc.rust-lang.org/std/process/struct.ExitStatus.html"
+}

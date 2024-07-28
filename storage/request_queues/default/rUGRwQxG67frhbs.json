@@ -1,0 +1,9 @@
+{
+	"id": "rUGRwQxG67frhbs",
+	"json": "{\"id\":\"rUGRwQxG67frhbs\",\"url\":\"https://doc.rust-lang.org/stable/core/arch/aarch64/fn.vsraq_n_u16.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/core/arch/aarch64/fn.vsraq_n_u16.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722144167978,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/core/arch/aarch64/fn.vsraq_n_u16.html",
+	"url": "https://doc.rust-lang.org/stable/core/arch/aarch64/fn.vsraq_n_u16.html"
+}

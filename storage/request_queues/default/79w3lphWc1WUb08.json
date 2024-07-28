@@ -1,0 +1,9 @@
+{
+	"id": "79w3lphWc1WUb08",
+	"json": "{\"id\":\"79w3lphWc1WUb08\",\"url\":\"https://doc.rust-lang.org/nightly/edition-guide/rust-2018/new-keywords.html\",\"uniqueKey\":\"https://doc.rust-lang.org/nightly/edition-guide/rust-2018/new-keywords.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722144100761,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/nightly/edition-guide/rust-2018/new-keywords.html",
+	"url": "https://doc.rust-lang.org/nightly/edition-guide/rust-2018/new-keywords.html"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "NvleQiOeEWBXj3U",
+	"json": "{\"id\":\"NvleQiOeEWBXj3U\",\"url\":\"https://doc.rust-lang.org/stable/unstable-book/library-features/io-slice-advance.html\",\"loadedUrl\":\"https://doc.rust-lang.org/stable/unstable-book/library-features/io-slice-advance.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/unstable-book/library-features/io-slice-advance.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:18:24.905Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/unstable-book/library-features/io-slice-advance.html",
+	"url": "https://doc.rust-lang.org/stable/unstable-book/library-features/io-slice-advance.html"
+}

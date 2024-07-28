@@ -1,0 +1,9 @@
+{
+	"id": "OrL4bY6gKL31RE1",
+	"json": "{\"id\":\"OrL4bY6gKL31RE1\",\"url\":\"https://doc.rust-lang.org/stable/std/fmt/trait.UpperExp.html\",\"loadedUrl\":\"https://doc.rust-lang.org/stable/std/fmt/trait.UpperExp.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/std/fmt/trait.UpperExp.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:21:08.978Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/std/fmt/trait.UpperExp.html",
+	"url": "https://doc.rust-lang.org/stable/std/fmt/trait.UpperExp.html"
+}

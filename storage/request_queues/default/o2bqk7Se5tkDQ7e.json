@@ -1,0 +1,9 @@
+{
+	"id": "o2bqk7Se5tkDQ7e",
+	"json": "{\"id\":\"o2bqk7Se5tkDQ7e\",\"url\":\"https://doc.rust-lang.org/stable/unstable-book/library-features/num-midpoint.html\",\"loadedUrl\":\"https://doc.rust-lang.org/stable/unstable-book/library-features/num-midpoint.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/unstable-book/library-features/num-midpoint.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:18:52.626Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/unstable-book/library-features/num-midpoint.html",
+	"url": "https://doc.rust-lang.org/stable/unstable-book/library-features/num-midpoint.html"
+}

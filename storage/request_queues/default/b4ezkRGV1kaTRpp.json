@@ -1,0 +1,9 @@
+{
+	"id": "b4ezkRGV1kaTRpp",
+	"json": "{\"id\":\"b4ezkRGV1kaTRpp\",\"url\":\"https://doc.rust-lang.org/unstable-book/library-features/try-trait-v2.html\",\"uniqueKey\":\"https://doc.rust-lang.org/unstable-book/library-features/try-trait-v2.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722144038043,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/unstable-book/library-features/try-trait-v2.html",
+	"url": "https://doc.rust-lang.org/unstable-book/library-features/try-trait-v2.html"
+}

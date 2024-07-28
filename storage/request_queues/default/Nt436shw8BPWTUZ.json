@@ -1,0 +1,9 @@
+{
+	"id": "Nt436shw8BPWTUZ",
+	"json": "{\"id\":\"Nt436shw8BPWTUZ\",\"url\":\"https://doc.rust-lang.org/stable/std/alloc/struct.System.html\",\"loadedUrl\":\"https://doc.rust-lang.org/stable/std/alloc/struct.System.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/std/alloc/struct.System.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:21:57.916Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/std/alloc/struct.System.html",
+	"url": "https://doc.rust-lang.org/stable/std/alloc/struct.System.html"
+}

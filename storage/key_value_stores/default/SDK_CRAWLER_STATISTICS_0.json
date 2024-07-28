@@ -1,0 +1,62 @@
+{
+  "requestsFinished": 3675,
+  "requestsFailed": 2,
+  "requestsRetries": 4,
+  "requestsFailedPerMinute": 0,
+  "requestsFinishedPerMinute": 48,
+  "requestMinDurationMillis": 168,
+  "requestMaxDurationMillis": 303404,
+  "requestTotalFailedDurationMillis": 304,
+  "requestTotalFinishedDurationMillis": 9563480,
+  "crawlerStartedAt": "2024-07-28T05:08:07.950Z",
+  "crawlerFinishedAt": "2024-07-28T06:24:59.498Z",
+  "statsPersistedAt": "2024-07-28T06:24:59.498Z",
+  "crawlerRuntimeMillis": 4611567,
+  "crawlerLastStartTimestamp": 1722143287931,
+  "requestRetryHistogram": [
+    3673,
+    2,
+    null,
+    2
+  ],
+  "statsId": 0,
+  "requestAvgFailedDurationMillis": 152,
+  "requestAvgFinishedDurationMillis": 2602,
+  "requestTotalDurationMillis": 9563784,
+  "requestsTotal": 3677,
+  "requestsWithStatusCode": {
+    "200": 3699,
+    "404": 1
+  },
+  "errors": {
+    "/home/vikyw/.nvm/versions/node/v20.15.0/lib/node_modules/@philschmid/clipper/dist/crawler.js:24:38": {
+      "missing error code": {
+        "Error": {
+          "page.title: Execution context was destroyed, most likely because of a navigation": {
+            "count": 2
+          }
+        }
+      }
+    }
+  },
+  "retryErrors": {
+    "/home/vikyw/.nvm/versions/node/v20.15.0/lib/node_modules/@philschmid/clipper/dist/crawler.js:24:38": {
+      "missing error code": {
+        "Error": {
+          "page.title: Execution context was destroyed, most likely because of a navigation": {
+            "count": 6
+          }
+        }
+      }
+    },
+    "/home/vikyw/.nvm/versions/node/v20.15.0/lib/node_modules/@philschmid/clipper/node_modules/@apify/timeout/cjs/index.cjs:64:68": {
+      "missing error code": {
+        "Error": {
+          "requestHandler timed out after _": {
+            "count": 30
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,9 @@
+{
+	"id": "UqFVwwrz9e2Mq6D",
+	"json": "{\"id\":\"UqFVwwrz9e2Mq6D\",\"url\":\"https://doc.rust-lang.org/cargo/guide/tests.html\",\"loadedUrl\":\"https://doc.rust-lang.org/cargo/guide/tests.html\",\"uniqueKey\":\"https://doc.rust-lang.org/cargo/guide/tests.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:09:20.387Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/cargo/guide/tests.html",
+	"url": "https://doc.rust-lang.org/cargo/guide/tests.html"
+}

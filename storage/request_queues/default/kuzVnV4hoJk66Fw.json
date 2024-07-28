@@ -1,0 +1,9 @@
+{
+	"id": "kuzVnV4hoJk66Fw",
+	"json": "{\"id\":\"kuzVnV4hoJk66Fw\",\"url\":\"https://doc.rust-lang.org/book/appendix-07-nightly-rust.html\",\"loadedUrl\":\"https://doc.rust-lang.org/book/appendix-07-nightly-rust.html\",\"uniqueKey\":\"https://doc.rust-lang.org/book/appendix-07-nightly-rust.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:14:45.981Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/book/appendix-07-nightly-rust.html",
+	"url": "https://doc.rust-lang.org/book/appendix-07-nightly-rust.html"
+}

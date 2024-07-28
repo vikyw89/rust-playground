@@ -1,0 +1,9 @@
+{
+	"id": "DSQkL9x9EfGWcGu",
+	"json": "{\"id\":\"DSQkL9x9EfGWcGu\",\"url\":\"https://doc.rust-lang.org/stable/core/arch/x86/fn._mm256_maskz_srai_epi16.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/core/arch/x86/fn._mm256_maskz_srai_epi16.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722144166461,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/core/arch/x86/fn._mm256_maskz_srai_epi16.html",
+	"url": "https://doc.rust-lang.org/stable/core/arch/x86/fn._mm256_maskz_srai_epi16.html"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "scW5Bezr4uhaCnt",
+	"json": "{\"id\":\"scW5Bezr4uhaCnt\",\"url\":\"https://doc.rust-lang.org/stable/core/arch/x86/constant._MM_PERM_BCDA.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/core/arch/x86/constant._MM_PERM_BCDA.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722144164086,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/core/arch/x86/constant._MM_PERM_BCDA.html",
+	"url": "https://doc.rust-lang.org/stable/core/arch/x86/constant._MM_PERM_BCDA.html"
+}

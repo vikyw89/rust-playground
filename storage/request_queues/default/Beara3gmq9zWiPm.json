@@ -1,0 +1,9 @@
+{
+	"id": "Beara3gmq9zWiPm",
+	"json": "{\"id\":\"Beara3gmq9zWiPm\",\"url\":\"https://doc.rust-lang.org/stable/core/arch/x86_64/fn._mm256_cmp_epi16_mask.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/core/arch/x86_64/fn._mm256_cmp_epi16_mask.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722144164781,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/core/arch/x86_64/fn._mm256_cmp_epi16_mask.html",
+	"url": "https://doc.rust-lang.org/stable/core/arch/x86_64/fn._mm256_cmp_epi16_mask.html"
+}

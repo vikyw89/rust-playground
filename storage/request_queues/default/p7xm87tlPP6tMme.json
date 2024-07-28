@@ -1,0 +1,9 @@
+{
+	"id": "p7xm87tlPP6tMme",
+	"json": "{\"id\":\"p7xm87tlPP6tMme\",\"url\":\"https://doc.rust-lang.org/std/mem/fn.uninitialized.html\",\"uniqueKey\":\"https://doc.rust-lang.org/std/mem/fn.uninitialized.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722144040787,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/std/mem/fn.uninitialized.html",
+	"url": "https://doc.rust-lang.org/std/mem/fn.uninitialized.html"
+}

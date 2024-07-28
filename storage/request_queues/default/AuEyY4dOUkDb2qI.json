@@ -1,0 +1,9 @@
+{
+	"id": "AuEyY4dOUkDb2qI",
+	"json": "{\"id\":\"AuEyY4dOUkDb2qI\",\"url\":\"https://doc.rust-lang.org/stable/rust-by-example/scope/lifetime/static_lifetime.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/rust-by-example/scope/lifetime/static_lifetime.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722144357815,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/rust-by-example/scope/lifetime/static_lifetime.html",
+	"url": "https://doc.rust-lang.org/stable/rust-by-example/scope/lifetime/static_lifetime.html"
+}

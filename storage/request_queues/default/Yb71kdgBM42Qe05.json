@@ -1,0 +1,9 @@
+{
+	"id": "Yb71kdgBM42Qe05",
+	"json": "{\"id\":\"Yb71kdgBM42Qe05\",\"url\":\"https://doc.rust-lang.org/nightly/reference/special-types-and-traits.html#auto-traits\",\"uniqueKey\":\"https://doc.rust-lang.org/nightly/reference/special-types-and-traits.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722144031805,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/nightly/reference/special-types-and-traits.html",
+	"url": "https://doc.rust-lang.org/nightly/reference/special-types-and-traits.html#auto-traits"
+}

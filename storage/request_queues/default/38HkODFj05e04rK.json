@@ -1,0 +1,9 @@
+{
+	"id": "38HkODFj05e04rK",
+	"json": "{\"id\":\"38HkODFj05e04rK\",\"url\":\"https://doc.rust-lang.org/stable/core/arch/x86/fn._mm256_testz_si256.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/core/arch/x86/fn._mm256_testz_si256.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722144164317,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/core/arch/x86/fn._mm256_testz_si256.html",
+	"url": "https://doc.rust-lang.org/stable/core/arch/x86/fn._mm256_testz_si256.html"
+}

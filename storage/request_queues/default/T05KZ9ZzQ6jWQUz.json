@@ -1,0 +1,9 @@
+{
+	"id": "T05KZ9ZzQ6jWQUz",
+	"json": "{\"id\":\"T05KZ9ZzQ6jWQUz\",\"url\":\"https://doc.rust-lang.org/1.80.0/src/core/num/dec2flt/slow.rs.html\",\"uniqueKey\":\"https://doc.rust-lang.org/1.80.0/src/core/num/dec2flt/slow.rs.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722143511709,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/1.80.0/src/core/num/dec2flt/slow.rs.html",
+	"url": "https://doc.rust-lang.org/1.80.0/src/core/num/dec2flt/slow.rs.html"
+}

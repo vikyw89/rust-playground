@@ -1,0 +1,9 @@
+{
+	"id": "v9jSmtJlGp0bhn0",
+	"json": "{\"id\":\"v9jSmtJlGp0bhn0\",\"url\":\"https://doc.rust-lang.org/stable/src/core/task/poll.rs.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/src/core/task/poll.rs.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722143496877,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/src/core/task/poll.rs.html",
+	"url": "https://doc.rust-lang.org/stable/src/core/task/poll.rs.html"
+}

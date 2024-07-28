@@ -1,0 +1,9 @@
+{
+	"id": "pOTxiU1ScWce4H8",
+	"json": "{\"id\":\"pOTxiU1ScWce4H8\",\"url\":\"https://doc.rust-lang.org/stable/core/arch/x86_64/fn._mm_mul_round_ss.html\",\"uniqueKey\":\"https://doc.rust-lang.org/stable/core/arch/x86_64/fn._mm_mul_round_ss.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722144171647,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/stable/core/arch/x86_64/fn._mm_mul_round_ss.html",
+	"url": "https://doc.rust-lang.org/stable/core/arch/x86_64/fn._mm_mul_round_ss.html"
+}

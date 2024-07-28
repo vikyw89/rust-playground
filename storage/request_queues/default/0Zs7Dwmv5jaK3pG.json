@@ -1,0 +1,9 @@
+{
+	"id": "0Zs7Dwmv5jaK3pG",
+	"json": "{\"id\":\"0Zs7Dwmv5jaK3pG\",\"url\":\"https://doc.rust-lang.org/reference/procedural-macros.html\",\"loadedUrl\":\"https://doc.rust-lang.org/reference/procedural-macros.html\",\"uniqueKey\":\"https://doc.rust-lang.org/reference/procedural-macros.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2024-07-28T05:20:38.282Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/reference/procedural-macros.html",
+	"url": "https://doc.rust-lang.org/reference/procedural-macros.html"
+}

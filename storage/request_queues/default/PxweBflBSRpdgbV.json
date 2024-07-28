@@ -1,0 +1,9 @@
+{
+	"id": "PxweBflBSRpdgbV",
+	"json": "{\"id\":\"PxweBflBSRpdgbV\",\"url\":\"https://doc.rust-lang.org/1.49.0/reference/types/pointer.html\",\"uniqueKey\":\"https://doc.rust-lang.org/1.49.0/reference/types/pointer.html\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\"}}}",
+	"method": "GET",
+	"orderNo": 1722143682339,
+	"retryCount": 0,
+	"uniqueKey": "https://doc.rust-lang.org/1.49.0/reference/types/pointer.html",
+	"url": "https://doc.rust-lang.org/1.49.0/reference/types/pointer.html"
+}
